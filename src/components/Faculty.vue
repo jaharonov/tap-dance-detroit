@@ -1,11 +1,11 @@
 <template>
   <mdb-container>
     <mdb-row class="mx-auto pt-3">
-        <h1 class="mx-auto text-center display-4 p-3 red-text">FACULTY</h1>
+        <h1 class="mx-auto text-center display-4 p-3 red-text big">FACULTY</h1>
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4">
-          <h2 class="red-text mx-auto text-center">KELSEY ROSE YOUNG</h2><img src="/static/faculty_kelsey-rose-young.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
+          <h2 class="red-text mx-auto text-center big">KELSEY ROSE YOUNG</h2><img src="/static/faculty_kelsey-rose-young.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
           <p>Kelsey Rose Young is a performer, teacher, and choreographer based in Detroit, Michigan. Kelsey is on faculty with Showstopper Dance Convention, Fuzion Dance Camp, and Motor City Tap Fest. She has recently taught at the Big Apple Tap Festival and the Phoenix Tap Festival.</p>
@@ -23,7 +23,7 @@
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4">
-          <h2 class="red-text mx-auto text-center">DENISE CASTON</h2><img src="/static/faculty_denise-caston.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+          <h2 class="red-text mx-auto text-center big">DENISE CASTON</h2><img src="/static/faculty_denise-caston.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
           <p class="pt-3">Denise Caston was a Radio City Rockette for 10 years and toured nationally with the Tony Award winning musical, Crazy For You. Denise has also had the honor of performing the choreography of Savion Glover at a showcase in New York City. She performed on tour in Australia, dancing all over the continent in Elvis to the Max. Her choreography has been seen in many productions in which she performed, including shows at Caesars Windsor in Ontario, Canada. Credits also include film, television, commercials, and industrials.</p>

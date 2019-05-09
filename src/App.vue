@@ -1,6 +1,14 @@
 <template>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR" rel="stylesheet">
+
+  </head>
   <div id="app" class="flyout">
-    <mdb-navbar id="main-navbar" light position="top" class="red accent-3" scrolling :scrollingOffset="20">
+    <mdb-navbar id="main-navbar" light position="top" class="big red accent-3" scrolling :scrollingOffset="20">
       <mdb-navbar-brand to="/" waves style="font-weight: bolder;">
         TAP DANCE DETROIT
       </mdb-navbar-brand>
@@ -20,11 +28,12 @@
       <router-view></router-view>
     </main>
     <mdb-footer light class="red accent-3">
-      <p class="footer-copyright mb-0 py-3 text-center">
+      <p class="footer-copyright mb-0 py-3 text-center big">
         &copy; {{new Date().getFullYear()}} Copyright: <a href="https://jaharonov.com"> J. Aharonov</a>
       </p>
     </mdb-footer>
   </div>
+</html>
 </template>
 
 <script>
@@ -54,5 +63,7 @@ export default {
 .active{
   background-color: rgba(255, 255, 255, 0.1);
 }
-
+ .big {
+   font-family: 'Noto Sans KR', sans-serif;
+ }
 </style>
