@@ -29,7 +29,7 @@
     </main>
     <mdb-footer light class="red accent-3">
       <p class="footer-copyright mb-0 py-3 text-center big">
-        &copy; {{new Date().getFullYear()}} Copyright: <a href="https://jaharonov.com"> J. Aharonov</a>
+        &copy; {{new Date().getFullYear()}} Copyright: <a href="https://www.jaffaaharonov.com/#/websites"> J. Aharonov</a>
       </p>
     </mdb-footer>
   </div>
@@ -66,4 +66,8 @@ export default {
  .big {
    font-family: 'Noto Sans KR', sans-serif;
  }
+ @import './styles/custom-bootstrap.scss';
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
 </style>
+
+

@@ -47,7 +47,7 @@
     </mdb-row>
     <mdb-row class="mt-4">
       <mdb-card style="width: 22rem;">
-        <mdb-card-header color="deep-orange lighten-1">Featured</mdb-card-header>
+        <mdb-card-header color="deep-deep-orange lighten-4">Featured</mdb-card-header>
         <mdb-card-body>
           <mdb-card-title>Special title treatment</mdb-card-title>
           <mdb-card-text>With supporting text below as a natural lead-in to additional content.</mdb-card-text>

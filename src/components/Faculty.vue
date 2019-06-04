@@ -1,6 +1,6 @@
 <template>
   <mdb-container>
-    <mdb-row class="mx-auto pt-3">
+    <mdb-row class="mx-auto pt-2">
         <h1 class="mx-auto text-center display-4 p-3 red-text big">FACULTY</h1>
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
@@ -36,6 +36,14 @@
 <p>As a choreographer, Kelsey draws from her training and range of experiences as a singer and dancer to create a style that is intricate, gritty, passionate, and entertaining. Her pieces have received many awards and accolades across the country and she is quickly becoming one of the Midwest’s premier tap choreographers.</p>
 
 <p>Kelsey is a member of Cecchetti Council of America and has also studied and competed in ballroom dancing. She works independently as a choreographer for students throughout the Nation. Over the years, Kelsey has worked with Jay Sean, the Jonas Brothers, Debbie Gibson, and Radio Disney. She has performed in the Detroit, Macy’s and Chicago Thanksgiving Day Parades, at the Detroit Jazz Festival, and at TedX Detroit. She most recently has performed and choreographed a half time show for the NBA’s Detroit Pistons.</p>
+</mdb-col>
+    </mdb-row>
+    <mdb-row class="mx-auto pt-5">
+      <mdb-col lg="4">
+          <h2 class="red-text mx-auto text-center big">NIA SILAO</h2><img src="/static/faculty_nia-silao.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
+      </mdb-col>
+      <mdb-col lg="8" class="text-justify pt-3">
+          <p>Nia Silao has been a professional dance educator for 10 years and her passion is enriching dance in Michigan. Her credits include Bachelors Degree in Dance Wayne State University; Part-time Faculty Wayne State University; Certified with Dance Masters of America and Dance Masters of Michigan; Official tutor for Dance Masters of Michigan exams; Faculty Brighton Dance Festival and Lenawee Arts Festival; Selected VSA Michigan Teaching Artist; Adjudicator for various competitions and scholarship auditions; Dance Department at Music Hall Detroit; Assistant to Director Motor City Tap Festival, spearhead of the Modern Dance Program at American Dance Academy; leader of Adult Dance Program at Dance Academy of Bloomfield Hills; guest teacher at Cranbrook, Rochester School of Dance, Spotlight Dance Center, The Dance Shoppe, Milford Dance Academy. Her works have won Choreography awards, Technique awards, and Creative Concept awards. Nia also performed and toured with DDCdances, Eisenhower Dance Ensemble, LaMarre and Dancers, Cloud 9 Special Events, and Luna Dancers. Nia has performed to raise donations for causes such as Alternatives for Girls and Brighton Center for the Performing Arts. She has volunteered with Dance Masters VIP Junior Members encouraging young dancers to find their own path to dance education. Her students have won various scholarships, gone to work on Broadway, with touring companies, and for Disney Corporation, in addition to competing in the World Tap Dance Championships.</p>
 </mdb-col>
     </mdb-row>
   </mdb-container>
