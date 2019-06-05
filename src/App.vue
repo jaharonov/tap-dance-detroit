@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR" rel="stylesheet">
-
+    <title>TAP DANCE DETROIT</title>
   </head>
   <div id="app" class="flyout">
     <mdb-navbar id="main-navbar" light position="top" class="big red accent-3" scrolling :scrollingOffset="20">
