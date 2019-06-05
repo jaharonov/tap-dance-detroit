@@ -6,6 +6,7 @@ import Donate from '@/components/Donate'
 import Faculty from '@/components/Faculty'
 import Gallery from '@/components/Gallery'
 import Schedule from '@/components/Schedule'
+import Rentals from '@/components/Rentals'
 import Staff from '@/components/Staff'
 
 Vue.use(Router)
@@ -46,6 +47,11 @@ export default new Router({
       path: '/staff',
       name: 'Staff',
       component: Staff
+    },
+    {
+      path: '/rentals',
+      name: 'Rentals',
+      component: Rentals
     }
   ]
 })

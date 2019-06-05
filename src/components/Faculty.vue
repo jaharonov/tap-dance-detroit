@@ -5,12 +5,12 @@
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4">
-          <h2 class="red-text mx-auto text-center big pt-3">DENISE CASTON</h2>
+          <h2 class="red-text mx-auto text-center big pt-3">DENISE CASTON-CLARK</h2>
           <h4 class="grey-text mx-auto text-center big">FOUNDER/DIRECTOR</h4>
           <img src="/static/faculty_denise-caston.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
-          <p class="pt-3">Denise Caston was a Radio City Rockette for 10 years and toured nationally with the Tony Award winning musical, Crazy For You. Denise has also had the honor of performing the choreography of Savion Glover at a showcase in New York City. She performed on tour in Australia, dancing all over the continent in Elvis to the Max. Her choreography has been seen in many productions in which she performed, including shows at Caesars Windsor in Ontario, Canada. Credits also include film, television, commercials, and industrials.</p>
+          <p class="pt-3">Denise Caston-Clark was a Radio City Rockette for 10 years and toured nationally with the Tony Award winning musical, Crazy For You. Denise has also had the honor of performing the choreography of Savion Glover at a showcase in New York City. She performed on tour in Australia, dancing all over the continent in Elvis to the Max. Her choreography has been seen in many productions in which she performed, including shows at Caesars Windsor in Ontario, Canada. Credits also include film, television, commercials, and industrials.</p>
 
 <p>She currently teaches at Broadway Dance Center and Steps on Broadway. Other teaching credits include Beyond The Stars Dance Convention, Phoenix Tap Fest, OKC Tap Fest, Gregg Russell's Tap Into the Network, Tradition In Tap, and The Rockette Experience© at Radio City Music Hall.</p>
 
@@ -48,6 +48,16 @@
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4">
+          <h2 class="red-text mx-auto text-center big">JAMIE HETHERINGTON</h2>
+          <!-- <img src="/static/faculty_nia-silao.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/> -->
+      </mdb-col>
+      <mdb-col lg="8" class="text-justify pt-3">
+          <p>Jamie Hetherington has been tap dancing for over 20 years. Her most extensive training was at The Dance Shoppe.  Although she trained in all forms of dance, tap quickly became her passion.  She has attended many classes/workshops all around Michigan and studied two weeks at The EDGE performing arts center in Los Angeles on scholarship. She has guest taught and choreographed tap numbers for numerous studios including Star Strut Dance Center in Oxford. Her competitive tap 
+          numbers have placed in the overall high scores for their age/category. Jamie has a BFA from Grand Valley State University, where she studied many types of art, but specialized in ceramics. Her commissioned wall hangings are displayed throughout the GVSU campus and in other Michigan businesses and homes. Jamie’s passion for all areas of art makes her a stronger teacher, by encompassing a focus on art into her teaching. Jamie is married with two young sons and lives in Clarkston. She hopes to instill her love and passion for tap dancing into her students.</p>
+</mdb-col>
+    </mdb-row>
+    <mdb-row class="mx-auto pt-5">
+      <mdb-col lg="4">
           <h2 class="red-text mx-auto text-center big">PAIGE BAIDEL</h2>
           <!-- <img src="/static/faculty_nia-silao.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/> -->
       </mdb-col>
@@ -55,15 +65,7 @@
           <p>COMING SOON</p>
 </mdb-col>
     </mdb-row>
-    <mdb-row class="mx-auto pt-5">
-      <mdb-col lg="4">
-          <h2 class="red-text mx-auto text-center big">JAMIE HETHERINGTON</h2>
-          <!-- <img src="/static/faculty_nia-silao.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/> -->
-      </mdb-col>
-      <mdb-col lg="8" class="text-justify pt-3">
-          <p>COMING SOON</p>
-</mdb-col>
-    </mdb-row>
+    
   </mdb-container>
 </template>
 

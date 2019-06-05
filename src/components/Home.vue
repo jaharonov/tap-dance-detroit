@@ -1,8 +1,18 @@
 <template>
-  
-  <div class="pt-5">
-    <img src="../assets/logo.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
-  </div>
+  <mdb-container>
+    <mdb-row class="mx-auto pt-2">
+        <img src="../assets/logo.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
+    </mdb-row>
+    <mdb-row class="mx-auto p-5">
+        <h4 class="grey-text mx-auto text-center big">Michigan's destination for tap dance, with daily drop-in classes for all levels.</h4>
+    </mdb-row>
+    <mdb-row class="mx-auto">
+        <p class="dark-grey-text mx-auto text-center big"><strong>310 Livernois St., Ferndale, MI 48220</strong></p><br/>
+    </mdb-row>
+    <mdb-row class="mx-auto">
+        <p class="grey-text mx-auto text-center big"><strong>917-687-4811 <a class="red-text" v-bind:href="`mailto:info@tapdancedetroit.org`">info@tapdancedetroit.org</a></strong></p>
+    </mdb-row>
+  </mdb-container>
   
 </template>
 

@@ -1,36 +1,43 @@
 <template>
 <mdb-container class="mt-5">
-  <mdb-row class="mt-5 align-items-center justify-content-start p-3">
-    <h1>SCHEDULE</h1>
+  <mdb-row class="mt-5 align-items-center justify-content-start">
+    <h1 class="mx-auto text-center display-4 red-text big">SCHEDULE</h1>
   </mdb-row>
-  <mdb-row class="mt-5 align-items-center justify-content-start p-3">
+    <mdb-row>
+    <mdb-col lg="6" class="p-3 text-justify">
+    <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">FIRST SHUFFLES</h4>
-    </mdb-row>
-    <mdb-row class="align-items-center justify-content-start pl-3">
-    <p><strong>July 9th, 16th, 23rd, and 30th</strong></p>
+    </div>
+    <div class="align-items-center justify-content-start pl-3">
+    <p><strong>Tuesdays starting on 7/9 for 4 weeks: <br/><span class="red-text">July 9th, 16th, 23rd, and 30th</span></strong></p>
     <p>This 4-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
     
-  </mdb-row>
-  <mdb-row class="mt-5 align-items-center justify-content-start p-3">
+  </div>
+  <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">SECOND SHUFFLES</h4>
-    </mdb-row>
-    <mdb-row class="align-items-center justify-content-start pl-3">
-    <p><strong>July 11th, 18th, 25th, and August 1st</strong></p>
+    </div>
+    <div class="align-items-center justify-content-start pl-3">
+    <p><strong>Thursdays starting on 7/9 for 4 weeks:<br/> <span class="red-text">July 11th, 18th, 25th, and August 1st</span></strong></p>
     <p>This 4-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
     
-  </mdb-row>
-  <hr />
-  <mdb-row class="mt-5 align-items-center justify-content-start p-3">
+  </div> 
+  <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">PRICING</h4>
-    </mdb-row>
-  <mdb-row class="align-items-center justify-content-start pl-3">
+    </div>
+  <div class="align-items-center justify-content-start pl-3">
     <ul>
     <li>single class - $18</li>
     <li>5-class package - $87.50</li>   
     <li>10-class package - $170</li>
     <li>First Shuffles + Second Shuffles 4-week session - $50</li>
     </ul>
-  </mdb-row>
+  </div>
+  </mdb-col>
+   <mdb-col lg="6" class="p-3 pt-5 text-justify">
+       <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+   </mdb-col>
+   </mdb-row>
+  <hr class="pt-3"/>
 <section class="demo-section">
 		<h4>Monday</h4>
 		<section>
@@ -46,7 +53,7 @@
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>1:00pm-2:00pm</td>
-						<td>Beginner 1 (1+ yrs)<br/>Denise Caston</td>
+						<td>Beginner 1 (1+ yrs)<br/>Denise Caston-Clark</td>
 						<td></td>
 						<td></td>
 					</tr>
@@ -85,7 +92,7 @@
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>12:00pm-12:45pm</td>
-						<td>First Shuffles - Ages 4-5 <br/>Denise Caston</td>
+						<td>First Shuffles - Ages 4-5 <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -256,7 +263,7 @@
 </template>
 
 <script>
-import { mdbTbl, mdbTblHead, mdbTblBody, mdbIcon, mdbContainer, mdbRow } from 'mdbvue';
+import { mdbTbl, mdbTblHead, mdbTblBody, mdbIcon, mdbContainer, mdbRow, mdbCol } from 'mdbvue';
 
 export default {
   name: 'TablePage',
@@ -265,6 +272,7 @@ export default {
     mdbTblHead,
     mdbTblBody,
     mdbRow,
+    mdbCol,
     mdbIcon,
     mdbContainer
   }

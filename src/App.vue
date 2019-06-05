@@ -15,6 +15,8 @@
       <mdb-navbar-toggler>
         <mdb-navbar-nav right>
           <mdb-nav-item exact to="/" waves>HOME</mdb-nav-item>
+          <mdb-nav-item to="/schedule" waves>SCHEDULE</mdb-nav-item>
+          <mdb-nav-item to="/schedule" waves>RENTALS</mdb-nav-item>
           <mdb-nav-item to="/about" waves>ABOUT</mdb-nav-item>
           <mdb-nav-item to="/donate" waves>DONATE</mdb-nav-item>
           <mdb-nav-item to="/faculty" waves>FACULTY</mdb-nav-item>
@@ -29,7 +31,7 @@
     </main>
     <mdb-footer light class="red accent-3">
       <p class="footer-copyright mb-0 py-3 text-center big">
-        &copy; {{new Date().getFullYear()}} Copyright: <a href="https://www.jaffaaharonov.com/#/websites"> J. Aharonov</a>
+        &copy; {{new Date().getFullYear()}} Tap Dance Detroit. <br/>Tap Dance Detroit is a 501(c)3 nonprofit organization.<br/> Website by: <a href="https://www.jaffaaharonov.com/#/websites"> J. Aharonov</a>
       </p>
     </mdb-footer>
   </div>
