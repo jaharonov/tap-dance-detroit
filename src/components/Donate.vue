@@ -2,7 +2,7 @@
   <mdb-container>
     <mdb-row class="mx-auto pt-2">
         <h1 class="mx-auto text-center display-4 p-3 red-text big">DONATE</h1>
-        <div id='collection-component-2f36a03cad5'></div>
+        <div class="mx-auto pt-5" id='collection-component-2f36a03cad5'></div>
     </mdb-row>
   </mdb-container>
 </template>
