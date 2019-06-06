@@ -9,7 +9,8 @@
     <h4 class="deep-orange-text">FIRST SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <p><strong>Tuesdays starting on 7/9 for 4 weeks: <br/><span class="red-text">July 9th, 16th, 23rd, and 30th</span></strong></p>
+    <p><strong>Tuesdays starting on 7/9 for 4 weeks: <br/>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> July 9th, 16th, 23rd, and 30th</span></strong></p>
     <p>This 4-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
     
   </div>
@@ -17,7 +18,8 @@
     <h4 class="deep-orange-text">SECOND SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <p><strong>Thursdays starting on 7/9 for 4 weeks:<br/> <span class="red-text">July 11th, 18th, 25th, and August 1st</span></strong></p>
+    <p><strong>Thursdays starting on 7/9 for 4 weeks:<br/> 
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> July 11th, 18th, 25th, and August 1st</span></strong></p>
     <p>This 4-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
     
   </div> 

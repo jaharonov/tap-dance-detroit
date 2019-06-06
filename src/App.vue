@@ -31,7 +31,7 @@
     </main>
     <mdb-footer light class="red accent-3">
       <p class="footer-copyright mb-0 py-3 text-center big">
-        &copy; {{new Date().getFullYear()}} Tap Dance Detroit. <br/>Tap Dance Detroit is a 501(c)3 nonprofit organization.<br/> Website by: <a href="https://www.jaffaaharonov.com/#/websites"> J. Aharonov</a>
+        &copy; {{new Date().getFullYear()}} Tap Dance Detroit, All Rights Reserved. <br/>Tap Dance Detroit is a 501(c)3 nonprofit organization.<br/> Website by: <a href="https://www.jaffaaharonov.com/#/websites"> J. Aharonov</a>
       </p>
     </mdb-footer>
   </div>
