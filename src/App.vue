@@ -16,7 +16,7 @@
         <mdb-navbar-nav right>
           <mdb-nav-item exact to="/" waves>HOME</mdb-nav-item>
           <mdb-nav-item to="/schedule" waves>SCHEDULE</mdb-nav-item>
-          <mdb-nav-item to="/schedule" waves>RENTALS</mdb-nav-item>
+          <mdb-nav-item to="/rentals" waves>RENTALS</mdb-nav-item>
           <mdb-nav-item to="/about" waves>ABOUT</mdb-nav-item>
           <mdb-nav-item to="/donate" waves>DONATE</mdb-nav-item>
           <mdb-nav-item to="/faculty" waves>FACULTY</mdb-nav-item>
