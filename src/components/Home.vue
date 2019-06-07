@@ -1,14 +1,14 @@
 <template>
   <mdb-container>
     <mdb-row>
-            <div class="white-text text-left p-0">
-              <h4 class="big" v-parallax="0.25">HOME TO MOTOR CITY TAP FEST AND <br/> THE DETROIT TAP REPERTORY</h4>
+            <div class="white-text text-left p-2">
+              <h4 class="big" v-parallax="-.01">HOME TO MOTOR CITY TAP FEST AND <br/> THE DETROIT TAP REPERTORY</h4>
             </div>
             <!-- <mdb-col v-parallax="0.5">
               <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
             </mdb-col> -->
           </mdb-row>
-    <mdb-view v-parallax="0.0" class="landing home mr-0">
+    <mdb-view v-parallax="0.0" class="landing">
       <mdb-mask class="gradient d-flex justify-content-right align-items-center">
           
       </mdb-mask>
