@@ -1,23 +1,21 @@
 <template>
   <mdb-container>
-    <!-- <mdb-view v-parallax="0.0">
-      <mdb-mask class="gradient d-flex justify-content-center align-items-center">
-        <mdb-container>
-          <mdb-row v-parallax="0.5">
-            <div class="white-text text-center text-md-left col-md-6 mt-xl-5 mb-5">
-              <h1 class="h1-responsive font-weight-bold mt-sm-5">Home to Motor City Tap Fest and the Detroit Tap Repertory</h1>
-              
+    <mdb-row>
+            <div class="white-text text-left p-0">
+              <h4 class="big" v-parallax="0.1">Home to Motor City Tap Fest and<br/> the Detroit Tap Repertory</h4>
             </div>
-            <mdb-col md="6" xl="5" class="mt-xl-5">
-              
-            </mdb-col>
+            <!-- <mdb-col v-parallax="0.5">
+              <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
+            </mdb-col> -->
           </mdb-row>
-        </mdb-container>
+    <mdb-view v-parallax="0.0" class="landing home mr-0">
+      <mdb-mask class="gradient d-flex justify-content-right align-items-center">
+          
       </mdb-mask>
-    </mdb-view> -->
-    <div>
-    <mdb-row class="mx-auto pt-2">
-        <img src="../assets/logo.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
+    </mdb-view>
+    <div v-parallax="0.5">
+    <mdb-row class="mx-auto">
+        <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
     </mdb-row>
     <mdb-row class="mx-auto">
         <h4 class="grey-text mx-auto text-center big">Michigan's destination for tap dance, with daily drop-in classes for all levels.</h4>
@@ -112,20 +110,25 @@
     color: #fff!important;
   }
   
-  .view {
+  body {
     background-image: url('/static/landing-class-photo.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: calc(100vh - 60px);
+    /* height: calc(80vh - 100px); */
+    height: 60vh;
     z-index: -1;
     margin: 0;
   }
-  .gradient {
+  /* .gradient {
     background: -moz-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
     background: -webkit-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
     background: -webkit-gradient(linear, 45deg, from(rgba(42, 27, 161, 0.7)), to(rgba(29, 210, 177, 0.7)));
     background: -o-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
     background: linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
+  } */
+
+  .landing {
+    height: 100vh;
   }
 </style>
