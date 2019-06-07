@@ -4,7 +4,7 @@
     <h1 class="mx-auto text-center display-4 red-text big">RENTALS</h1>
   </mdb-row>
     <mdb-row class="mt-5 align-items-center justify-content-start p-3">
-    <p>Rentals are available for $30 per hour. Please call or email for more information: 917-687-4811 <a class="red-text" v-bind:href="`mailto:info@tapdancedetroit.org`">info@tapdancedetroit.org</a>.</p>
+    <p>Rentals are available for $30 per hour. Please call 917-687-4811 or email <a class="red-text" v-bind:href="`mailto:info@tapdancedetroit.org`">info@tapdancedetroit.org to book</a>.</p>
    </mdb-row>
   <hr class="pt-3"/>
 <section class="demo-section">

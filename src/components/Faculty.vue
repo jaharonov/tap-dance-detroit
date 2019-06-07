@@ -59,10 +59,10 @@
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4">
           <h2 class="red-text mx-auto text-center big">PAIGE BAIDEL</h2>
-          <!-- <img src="/static/faculty_nia-silao.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/> -->
+          <img src="/static/faculty_paige-baidel.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
-          <p>COMING SOON</p>
+          <p>Paige Baidel is a performer, teacher, and business professional from Livonia, Michigan. She trained in various dance styles from the age of 3 and currently teaches at two Metro Detroit studios. She is a member of the Cecchetti Council of America and graduated from the University of Michigan-Dearborn with a Bachelor of Business Administration degree in Marketing. In 2015, Paige joined the Detroit Tap Repertory and has performed across Metro Detroit, including the 43rd Annual Noel Night, Covenant House Michigan, Tap Water for Flint, and Hard Rock Cafe Detroit. Most recently, she traveled to Phoenix, Arizona to perform in Tap 24.7’s The Great Tap X-Cape under the direction of Suzy Guarino-Hall-Hall and Jenefer Miller. Paige has always loved tap dancing and is thankful for the opportunities that the Detroit Tap Repertory is providing to help further her career.</p>
 </mdb-col>
     </mdb-row>
     

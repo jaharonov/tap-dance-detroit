@@ -4,7 +4,7 @@
     <h1 class="mx-auto text-center display-4 red-text big">SCHEDULE</h1>
   </mdb-row>
     <mdb-row>
-    <mdb-col lg="6" class="p-3 text-justify">
+    <mdb-col lg="8" class="p-3 text-justify">
     <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">FIRST SHUFFLES</h4>
     </div>
@@ -35,7 +35,7 @@
     </ul>
   </div>
   </mdb-col>
-   <mdb-col lg="6" class="p-3 pt-5 text-justify">
+   <mdb-col lg="4" class="p-3 pt-5 text-justify">
        <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
    </mdb-col>
    </mdb-row>

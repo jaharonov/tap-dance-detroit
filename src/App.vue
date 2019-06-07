@@ -21,7 +21,6 @@
           <mdb-nav-item to="/donate" waves>DONATE</mdb-nav-item>
           <mdb-nav-item to="/faculty" waves>FACULTY</mdb-nav-item>
           <mdb-nav-item to="/gallery" waves>GALLERY</mdb-nav-item>
-          <mdb-nav-item to="/schedule" waves>SCHEDULE</mdb-nav-item>
           <mdb-nav-item to="/staff" waves>STAFF</mdb-nav-item>
         </mdb-navbar-nav>
       </mdb-navbar-toggler>

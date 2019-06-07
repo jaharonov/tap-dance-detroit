@@ -81,6 +81,7 @@ import MasonryPage from '../docs/MasonryPage';
 import SwitchPage from '../docs/SwitchPage';
 
 Vue.use(Router);
+Vue.use(VueParallaxJs);
 
 export default new Router({
   mode: 'history',

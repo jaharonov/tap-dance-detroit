@@ -1,4 +1,5 @@
 import Vue from 'vue'
+import VueParallaxJs from 'vue-parallax-js'
 import Router from 'vue-router'
 import Home from '@/components/Home'
 import About from '@/components/About'
@@ -10,6 +11,7 @@ import Rentals from '@/components/Rentals'
 import Staff from '@/components/Staff'
 
 Vue.use(Router)
+Vue.use(VueParallaxJs)
 
 export default new Router({
   routes: [
