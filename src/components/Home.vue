@@ -2,7 +2,7 @@
   <mdb-container>
     <mdb-row>
             <div class="white-text text-left p-0">
-              <h4 class="big" v-parallax="0.1">HOME TO MOTOR CITY TAP FEST AND <br/> THE DETROIT TAP REPERTORY</h4>
+              <h4 class="big" v-parallax="0.25">HOME TO MOTOR CITY TAP FEST AND <br/> THE DETROIT TAP REPERTORY</h4>
             </div>
             <!-- <mdb-col v-parallax="0.5">
               <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
@@ -13,7 +13,10 @@
           
       </mdb-mask>
     </mdb-view>
-    <div v-parallax="0.5">
+    <!-- <div class="test">
+      <img src="/static/landing-class-photo.png/">
+    </div> -->
+    <div v-parallax="0.9">
     <mdb-row class="mx-auto">
         <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
     </mdb-row>
@@ -115,8 +118,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    /* height: calc(80vh - 100px); */
-    height: 60vh;
+    height: calc(100vh - 75px);
+    /* height: 100vh; */
     z-index: -1;
     margin: 0;
   }
@@ -131,4 +134,5 @@
   .landing {
     height: 100vh;
   }
+  
 </style>
