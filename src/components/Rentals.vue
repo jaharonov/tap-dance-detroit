@@ -1,5 +1,5 @@
 <template>
-<mdb-container class="mt-5">
+<mdb-container>
   <mdb-row class="mt-5 align-items-center justify-content-start">
     <h1 class="mx-auto text-center display-4 red-text big">RENTALS</h1>
   </mdb-row>
@@ -220,7 +220,11 @@
 	</section>
 </mdb-container>
 </template>
-
+<style>
+ body {
+   background-image: none;
+   }
+</style>
 <script>
 import { mdbTbl, mdbTblHead, mdbTblBody, mdbIcon, mdbContainer, mdbRow, mdbCol } from 'mdbvue';
 

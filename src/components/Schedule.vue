@@ -1,5 +1,5 @@
 <template>
-<mdb-container class="mt-5">
+<mdb-container>
   <mdb-row class="mt-5 align-items-center justify-content-start">
     <h1 class="mx-auto text-center display-4 red-text big">SCHEDULE</h1>
   </mdb-row>

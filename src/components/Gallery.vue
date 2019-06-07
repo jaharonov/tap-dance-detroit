@@ -77,7 +77,18 @@
     
   </mdb-container>
 </template>
-
+<style>
+body {
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    /* height: calc(80vh - 100px); */
+    height: 60vh;
+    z-index: -1;
+    margin: 0;
+  }
+</style>
 <script>
   import {mdbContainer, mdbRow, mdbCol} from 'mdbvue';
   export default {

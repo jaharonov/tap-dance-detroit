@@ -68,7 +68,11 @@
     
   </mdb-container>
 </template>
-
+<style>
+ body {
+   background-image: none;
+   }
+</style>
 <script>
   import {mdbContainer, mdbRow, mdbCol} from 'mdbvue';
   export default {
