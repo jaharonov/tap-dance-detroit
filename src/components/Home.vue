@@ -2,7 +2,7 @@
   <mdb-container>
     <mdb-row>
             <div class="white-text text-left p-0">
-              <h4 class="big" v-parallax="0.1">Home to Motor City Tap Fest and<br/> the Detroit Tap Repertory</h4>
+              <h4 class="big" v-parallax="0.1">HOME TO MOTOR CITY TAP FEST AND <br/> THE DETROIT TAP REPERTORY</h4>
             </div>
             <!-- <mdb-col v-parallax="0.5">
               <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
