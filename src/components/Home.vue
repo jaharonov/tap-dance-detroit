@@ -15,7 +15,7 @@
     </div> -->
     <section class="logo pb-5">
     <mdb-row class="mx-auto">
-        <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
+        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
     </mdb-row>
     <mdb-row class="mx-auto">
         <h4 class="grey-text mx-auto text-center big">Michigan's destination for tap dance, with daily drop-in classes for all levels.</h4>

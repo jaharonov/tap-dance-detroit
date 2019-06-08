@@ -18,7 +18,7 @@
     <h4 class="deep-orange-text">SECOND SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <p><strong>Thursdays starting on 7/9 for 4 weeks:<br/> 
+    <p><strong>Thursdays starting on 7/11 for 4 weeks:<br/> 
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> July 11th, 18th, 25th, and August 1st</span></strong></p>
     <p>This 4-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
     
@@ -241,7 +241,7 @@
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
-						<td>Intermediate 1 (4+ yrs) <br/>Paige Baidel</td>
+						<td>Intermediate 1 (4+ yrs) <br/>Jer Vernier</td>
 						<td>Beginner 2 (2+ yrs<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -253,7 +253,7 @@
 					</tr>
                     <tr scope="row">
 						<td>7:00pm-8:30pm</td>
-						<td>Beginner 1 (1+ yrs) <br/>Paige Baidel</td>
+						<td>Beginner 1 (1+ yrs) <br/>Jer Vernier</td>
 						<td>Intermediate 2 (5+ years) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
