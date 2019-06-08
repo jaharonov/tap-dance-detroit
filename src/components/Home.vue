@@ -31,8 +31,8 @@
       <img src="/static/landing-class-photo.png" class="img-fluid z-depth-1 jump" style="width: 100%;"/>
     </mdb-row>
     <mdb-row>
-            <div class="red-text mx-auto text-center big" v-parallax="0.75">
-              <h4 class="big">HOME TO MOTOR CITY TAP FEST AND THE DETROIT TAP REPERTORY</h4>
+            <div class="white-text mx-auto text-center big" v-parallax="0.75">
+              <h2 class="big">HOME TO MOTOR CITY TAP FEST AND THE DETROIT TAP REPERTORY</h2>
             </div>
           </mdb-row>
     <!-- <mdb-row class="mx-0">
