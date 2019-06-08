@@ -1,24 +1,21 @@
 <template>
-  <mdb-container>
-    <mdb-row>
-            <div class="white-text text-left p-2">
-              <h4 class="big" v-parallax="-.1">HOME TO MOTOR CITY TAP FEST AND <br/> THE DETROIT TAP REPERTORY</h4>
+  <mdb-container fluid>
+    <!-- <mdb-row>
+            <div class="red-text text-left p-2" v-parallax="0.1">
+              <h4 class="big">HOME TO MOTOR CITY TAP FEST AND <br/> THE DETROIT TAP REPERTORY</h4>
             </div>
-            <!-- <mdb-col v-parallax="0.5">
-              <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
-            </mdb-col> -->
-          </mdb-row>
-    <mdb-view v-parallax="0.0" class="landing">
+          </mdb-row> -->
+    <!-- <mdb-view v-parallax="0.0" class="landing">
       <mdb-mask class="gradient d-flex justify-content-right align-items-center">
           
       </mdb-mask>
-    </mdb-view>
+    </mdb-view> -->
     <!-- <div class="test">
       <img src="/static/landing-class-photo.png/">
     </div> -->
-    <div v-parallax="0.9">
+    <section class="logo pb-5">
     <mdb-row class="mx-auto">
-        <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 25rem;"/>
+        <img src="/static/tdd_logo_transparent.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
     </mdb-row>
     <mdb-row class="mx-auto">
         <h4 class="grey-text mx-auto text-center big">Michigan's destination for tap dance, with daily drop-in classes for all levels.</h4>
@@ -29,7 +26,18 @@
     <mdb-row class="mx-auto">
         <p class="grey-text mx-auto text-center big"><strong>917-687-4811 <a class="red-text" v-bind:href="`mailto:info@tapdancedetroit.org`">info@tapdancedetroit.org</a></strong></p>
     </mdb-row>
-    </div>
+    </section>
+    <mdb-row>
+      <img src="/static/landing-class-photo.png" class="img-fluid z-depth-1 jump" style="width: 100%;"/>
+    </mdb-row>
+    <mdb-row>
+            <div class="red-text mx-auto text-center big" v-parallax="0.75">
+              <h4 class="big">HOME TO MOTOR CITY TAP FEST AND THE DETROIT TAP REPERTORY</h4>
+            </div>
+          </mdb-row>
+    <!-- <mdb-row class="mx-0">
+        <img src="/static/landing-class-photo.png" class="mx-0 d-block view" fluid/>
+    </mdb-row> -->
     <!-- <mdb-row class="mx-auto pt-2" v-parallax="0.5">
       <mdb-col lg="8">
       <img src="/static/landing-class-photo.png" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
@@ -38,7 +46,6 @@
       <h4>TEST TEST TEST</h4>
       </mdb-col>
     </mdb-row> -->
-    
   </mdb-container>
   
 </template>
@@ -78,7 +85,7 @@
 </script>
 <style>
 
-  .classic-form-page .gradient {
+  /* .classic-form-page .gradient {
     background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
     background: linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
   }
@@ -111,18 +118,17 @@
 
   .classic-form-page label {
     color: #fff!important;
-  }
+  } */
   
-  body {
+  /* .home {
     background-image: url('/static/landing-class-photo.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     height: calc(100vh - 75px);
-    /* height: 100vh; */
     z-index: -1;
     margin: 0;
-  }
+  } */
   /* .gradient {
     background: -moz-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
     background: -webkit-linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
@@ -135,4 +141,28 @@
     height: 100vh;
   }
   
+  .logo {
+    z-index: 1;
+  }
+
+  .jump {
+    z-index: -1;
+    height: auto;
+    width: 100%;
+  }
+
+  /* On screens that are 600px or less, set the background color to olive */
+@media (max-width: 767px) {
+  .jump {
+    max-height: 20rem;
+  }
+}
+  .container {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 </style>
