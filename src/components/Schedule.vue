@@ -157,7 +157,7 @@
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:30pm-7:00pm</td>
-						<td>Advanced Beginner (3+ years)<br/>Paige Baidel</td>
+						<td>Advanced Beginner (3+ years)<br/>Kelsey Rose Young</td>
 						<td>Advanced <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -247,7 +247,7 @@
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:30pm-7:00pm</td>
-						<td>Advanced Beginner (3+ years)<br/>Paige Baidel</td>
+						<td>Advanced Beginner (3+ years)<br/>Jer Vernier</td>
 						<td>Advanced <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>

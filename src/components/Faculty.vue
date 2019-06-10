@@ -65,7 +65,17 @@
           <p>Paige Baidel is a performer, teacher, and business professional from Livonia, Michigan. She trained in various dance styles from the age of 3 and currently teaches at two Metro Detroit studios. She is a member of the Cecchetti Council of America and graduated from the University of Michigan-Dearborn with a Bachelor of Business Administration degree in Marketing. In 2015, Paige joined the Detroit Tap Repertory and has performed across Metro Detroit, including the 43rd Annual Noel Night, Covenant House Michigan, Tap Water for Flint, and Hard Rock Cafe Detroit. Most recently, she traveled to Phoenix, Arizona to perform in Tap 24.7’s The Great Tap X-Cape under the direction of Suzy Guarino-Hall-Hall and Jenefer Miller. Paige has always loved tap dancing and is thankful for the opportunities that the Detroit Tap Repertory is providing to help further her career.</p>
 </mdb-col>
     </mdb-row>
-    
+    <mdb-row class="mx-auto pt-5">
+      <mdb-col lg="4">
+          <h2 class="red-text mx-auto text-center big">Jer Vernier</h2>
+          <img src="/static/faculty_jer-vernier.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
+      </mdb-col>
+      <mdb-col lg="8" class="text-justify pt-3">
+          <p>Jer Vernier spent much of his early years training at Center for Creative Studies in Detroit, where I was a member of the Tap Repertory Ensemble. After graduating high school he majored in Dance at Marygrove College and also studied at Edge Performing Arts Center in Hollywood, CA.</p>
+          <p>He has performed with Dance Detroit, Detroit Tap Repertory, Detroit Symphony Orchestra and in multiple venues across the United States and Canada.</p>
+          <p>Jer knew from his first dance class that teaching others was going to be his calling in life, and at age 14 began conducting dance classes on his own. He has taught countless students throughout Metro Detroit and have won numerous awards for his choreography.</p>
+</mdb-col>
+    </mdb-row>
   </mdb-container>
 </template>
 
