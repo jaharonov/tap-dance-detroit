@@ -49,11 +49,11 @@
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4">
           <h2 class="red-text mx-auto text-center big">JAMIE HETHERINGTON</h2>
-          <!-- <img src="/static/faculty_nia-silao.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/> -->
+          <img src="/static/faculty_jamie-hetherington.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
-          <p>Jamie Hetherington has been tap dancing for over 20 years. Her most extensive training was at The Dance Shoppe.  Although she trained in all forms of dance, tap quickly became her passion.  She has attended many classes/workshops all around Michigan and studied two weeks at The EDGE performing arts center in Los Angeles on scholarship. She has guest taught and choreographed tap numbers for numerous studios including Star Strut Dance Center in Oxford. Her competitive tap 
-          numbers have placed in the overall high scores for their age/category. Jamie has a BFA from Grand Valley State University, where she studied many types of art, but specialized in ceramics. Her commissioned wall hangings are displayed throughout the GVSU campus and in other Michigan businesses and homes. Jamie’s passion for all areas of art makes her a stronger teacher, by encompassing a focus on art into her teaching. Jamie is married with two young sons and lives in Clarkston. She hopes to instill her love and passion for tap dancing into her students.</p>
+          <p>Jamie has been tap dancing for  over 25 years. The majority of her dance training was at The Dance Shoppe, where she is now part of the faculty. She loves sharing her passion for tap.
+Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married with 2 awesome boys.</p>
 </mdb-col>
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
