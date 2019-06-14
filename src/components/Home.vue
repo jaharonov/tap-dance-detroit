@@ -41,7 +41,7 @@
   <textarea name="message" placeholder="Your message"></textarea>
   <button type="submit">Send Test</button>
 </form> -->
-<form method="POST" action="https://formspree.io/j.aharonov@gmail.com">
+<form method="POST" action="https://formspree.io/info@tapdancedetroit.org">
     <p class="h4 text-center mb-4">Private lessons are available. Contact us for more info!</p>
     <div class="grey-text">
       <mdb-input label="Your name" icon="user" group type="text" validate error="wrong" success="right" name="name"/>
