@@ -33,6 +33,41 @@
     <li>10-class package - $170</li>
     <li>First Shuffles + Second Shuffles 4-week session - $50</li>
     </ul>
+    <mdb-row class="mt-5 justify-content-start">
+      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+        <mdb-btn @click.native="showModal = true" outline="red">PRIVATE LESSONS ARE AVAILABLE</mdb-btn>
+        <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
+          <mdb-modal-header class="red white-text">
+            <h4 class="title"><fa class="fas fa-pencil-alt" />CONTACT US!</h4>
+          </mdb-modal-header>
+          <mdb-modal-body class="grey-text">
+            <!-- <form method="POST" action="https://formspree.io/j.aharonov@gmail.com">
+  <input type="email" name="Email" placeholder="Your email">
+  <textarea name="Name" placeholder="Your name"></textarea>
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send Test</button>
+</form> -->
+<form method="POST" action="https://formspree.io/info@tapdancedetroit.org" target="_blank">
+    <p class="h4 text-center mb-4">Private lessons are available. Contact us for more info!</p>
+    <div class="grey-text">
+      <mdb-input label="Your name" icon="user" group type="text" validate error="wrong" success="right" name="name"/>
+      <mdb-input label="Your email" icon="envelope" group type="email" validate error="wrong" name="email" success="right"/>
+      <mdb-input label="Your message" icon="tag" group type="text" validate error="wrong" success="right" name="message"/>
+      <mdb-textarea :rows="2" label="Your message" icon="pencil"/>
+    </div>
+    <div class="text-center">
+      <mdb-btn outline="red">Send <mdb-icon icon="paper-plane" class="ml-1"/></mdb-btn>
+    </div>
+  </form>
+          </mdb-modal-body>
+          <!-- <mdb-modal-footer>
+            <mdb-btn color="secondary" @click.native="showModal = false">Close</mdb-btn>
+            <mdb-btn color="primary">Save changes</mdb-btn>
+          </mdb-modal-footer> -->
+        </mdb-modal>
+      <!-- </mdb-col> -->
+    </mdb-row>
+    
   </div>
   </mdb-col>
    <mdb-col lg="4" class="p-3 pt-5 text-justify">
@@ -40,6 +75,10 @@
    </mdb-col>
    </mdb-row>
   <hr class="pt-3"/>
+  <mdb-row class="mt-5 justify-content-end p-2">
+    <a href="https://dancestudio-pro.com/online/index.php?account_id=15325"><mdb-btn outline="red">REGISTER FOR CLASSES!</mdb-btn></a>
+  </mdb-row>
+  
 <section class="demo-section">
 		<h4>Monday</h4>
 		<section>
@@ -265,20 +304,38 @@
 </template>
 
 <script>
-import { mdbTbl, mdbTblHead, mdbTblBody, mdbIcon, mdbContainer, mdbRow, mdbCol } from 'mdbvue';
-
-export default {
-  name: 'TablePage',
-  components: {
-    mdbTbl,
-    mdbTblHead,
-    mdbTblBody,
-    mdbRow,
-    mdbCol,
-    mdbIcon,
-    mdbContainer
+import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbInput, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter } from 'mdbvue';
+  export default {
+    name: 'AppPage',
+    components: {
+      mdbTbl,
+      mdbTblHead,
+      mdbTblBody,
+      mdbContainer,
+      mdbRow,
+      mdbCol,
+      mdbNavbar,
+      mdbNavbarToggler,
+      mdbNavbarNav,
+      mdbNavItem,
+      mdbInput,
+      mdbView,
+      mdbMask,
+      mdbBtn,
+      mdbNavbarBrand,
+      mdbParallax,
+      mdbModal,
+      mdbModalHeader,
+      mdbModalTitle,
+      mdbModalBody,
+      mdbModalFooter,
+    },
+    data() {
+      return {
+        showModal: false
+      };
+    }
   }
-};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
