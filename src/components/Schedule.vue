@@ -6,6 +6,8 @@
     <mdb-row>
     <mdb-col lg="8" class="p-3 text-justify">
     <div class="mt-5 align-items-center justify-content-start p-3">
+    <hr class="deep-orange"/>
+    <h3 class="grey-text">TDD YOUTH PROGRAM</h3>
     <h4 class="deep-orange-text">FIRST SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
@@ -21,7 +23,7 @@
     <p><strong>Thursdays starting on 7/11 for 4 weeks:<br/> 
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> July 11th, 18th, 25th, and August 1st</span></strong></p>
     <p>This 4-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
-    
+    <hr class="deep-orange"/>
   </div> 
   <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">PRICING</h4>
