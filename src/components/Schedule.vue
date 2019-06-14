@@ -47,7 +47,7 @@
   <textarea name="message" placeholder="Your message"></textarea>
   <button type="submit">Send Test</button>
 </form> -->
-<form method="POST" action="https://formspree.io/info@tapdancedetroit.org" target="_blank">
+<form method="POST" action="https://formspree.io/info@tapdancedetroit.org">
     <p class="h4 text-center mb-4">Private lessons are available. Contact us for more info!</p>
     <div class="grey-text">
       <mdb-input label="Your name" icon="user" group type="text" validate error="wrong" success="right" name="name"/>
@@ -76,9 +76,12 @@
    </mdb-row>
   <hr class="pt-3"/>
   <mdb-row class="mt-5 justify-content-end p-2">
-    <a href="https://dancestudio-pro.com/online/index.php?account_id=15325"><mdb-btn outline="red">REGISTER FOR CLASSES!</mdb-btn></a>
+    <a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">REGISTER FOR CLASSES!</mdb-btn></a>
   </mdb-row>
-  
+  <mdb-row class="mt-5 justify-content-end p-2">
+    <strong><p>Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
+We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</p></strong>
+  </mdb-row>
 <section class="demo-section">
 		<h4>Monday</h4>
 		<section>
