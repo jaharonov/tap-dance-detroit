@@ -103,14 +103,14 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>1:00pm-2:00pm</td>
-						<td>Beginner 1 (1+ yrs)<br/>Denise Caston-Clark</td>
+						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
 						<td></td>
 						<td></td>
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
-						<td>Intermediate 1 (4+ yrs) <br/>Paige Baidel</td>
-						<td>Beginner 2 (2+ yrs<br/>Denise Caston-Clark</td>
+						<td>Intermediate 1 (4+ years) <br/>Paige Baidel</td>
+						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
@@ -121,7 +121,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>7:00pm-8:30pm</td>
-						<td>Beginner 1 (1+ yrs) <br/>Paige Baidel</td>
+						<td>Beginner 1 (1+ years) <br/>Paige Baidel</td>
 						<td>Intermediate 2 (5+ years) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -148,7 +148,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>1:00pm-2:15pm</td>
-						<td>Beginner 1 (1+ yrs) <br/> Jamie Hetherington</td>
+						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -199,8 +199,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
-						<td>Intermediate 1 (4+ yrs) <br/>Kelsey Rose Young</td>
-						<td>Beginner 2 (2+ yrs<br/>Denise Caston-Clark</td>
+						<td>Intermediate 1 (4+ years) <br/>Kelsey Rose Young</td>
+						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
@@ -211,7 +211,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>7:00pm-8:30pm</td>
-						<td>Beginner 1 (1+ yrs) <br/>Kelsey Rose Young</td>
+						<td>Beginner 1 (1+ years) <br/>Kelsey Rose Young</td>
 						<td>Intermediate 2 (5+ years) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -238,7 +238,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>1:00pm-2:15pm</td>
-						<td>Beginner 1 (1+ yrs) <br/> Jamie Hetherington</td>
+						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -289,8 +289,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
-						<td>Intermediate 1 (4+ yrs) <br/>Jer Vernier</td>
-						<td>Beginner 2 (2+ yrs<br/>Denise Caston-Clark</td>
+						<td>Intermediate 1 (4+ years) <br/>Jer Vernier</td>
+						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
@@ -301,8 +301,47 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>7:00pm-8:30pm</td>
-						<td>Beginner 1 (1+ yrs) <br/>Jer Vernier</td>
+						<td>Beginner 1 (1+ years) <br/>Jer Vernier</td>
 						<td>Intermediate 2 (5+ years) <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
+        <h4>SATURDAY</h4>
+		<section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Studio 1</th>
+						<th>Studio 2</th>
+						<th>Studio 3</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>11:00pm-12:30pm</td>
+						<td>Beginner (1+ years) <br/>Lisa Allai-Stop</td>
+						<td>Advanced Beginner (3+ years)<br/>Molly Sute</td>
+						<td></td>
+					</tr>
+					<tr scope="row">
+						<td>12:30pm-2:00pm</td>
+						<td>Intermediate 1 (4+ years) <br/>Lisa Allai-Stop</td>
+						<td>Advanced<br/>Molly Sute</td>
+						<td></td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>2:00pm-3:30pm</td>
+						<td>Int-Adv Jazz (no tap!)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row">
+						<td></td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>

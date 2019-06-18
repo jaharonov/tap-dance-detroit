@@ -217,6 +217,34 @@
 				</mdb-tbl-body>
 			</mdb-tbl>
 		</section>
+        <h4>SATURDAY</h4>
+		<section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Studio 1</th>
+						<th>Studio 2</th>
+						<th>Studio 3</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>2:00pm-3:30pm</td>
+						<td></td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row">
+						<td></td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
 	</section>
 </mdb-container>
 </template>
