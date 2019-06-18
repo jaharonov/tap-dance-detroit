@@ -78,6 +78,17 @@ Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married 
           <p>Jer knew from his first dance class that teaching others was going to be his calling in life, and at age 14 began conducting dance classes on his own. He has taught countless students throughout Metro Detroit and have won numerous awards for his choreography.</p>
 </mdb-col>
     </mdb-row>
+    <mdb-row class="mx-auto pt-5">
+      <mdb-col lg="4">
+          <h2 class="red-text mx-auto text-center big">Lisa Allai-Stop</h2>
+          <img src="/static/faculty_lisa-allai-stop.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
+      </mdb-col>
+      <mdb-col lg="8" class="text-justify pt-3">
+          <p>Lisa Allai-Stop is devoted to dance education and has been educating children and adults for over 30 years.  She is trained in various dance forms with a strong passion for tap, contemporary and hula (Polynesian dance).  Lisa has had the opportunity to perform professionally alongside the unforgettable Ms. Eartha Kitt at the Detroit Music Hall, the Detroit Piston's Halftime show, live news slots promoting the Motor City Tap Festival and the International Festival and countless other local and national venues and events.</p>
+          <p>Currently, Lisa continues as a performing member of the Detroit Tap Repertory, rehearsal director for the Detroit Tap Repertory Unlimited group and serves as historian for the company.  She is also the director of the Tropical Wahines professional Polynesian Dance troupe.</p>
+          <p>Ms. Allai-Stop has choreographed for the Henry Ford College Full Circle Dance Company, for the Detroit Tap Repertory, Club Di Movimiento in Aruba, Wayne County Community College District and choreographed for local community theatre as well.  Additionally, Lisa has taught for the Detroit Dance City Festival, , The Beast Dance Conventionthe American College Dance Association and has been a guest teacher or competition team judge at numerous studios locally and worldwide including Aruba.  She is the director and owner of Lincoln Park Dance Company and also on the faculty of Eisenhower Dance Center and Stars Elite Training Academy.  Lisa is the Michigan representative for the International Tap Association.</p>
+</mdb-col>
+    </mdb-row>
   </mdb-container>
 </template>
 
