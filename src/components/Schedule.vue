@@ -7,6 +7,17 @@
     <strong><p>Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
 We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</p></strong>
   </mdb-row>
+  <div class="align-items-center justify-content-start p-3">
+    <h4 class="deep-orange-text">PRICING</h4>
+    </div>
+  <div class="align-items-center justify-content-start pl-3">
+    <ul>
+    <li>single class - $18</li>
+    <li>5-class package - $87.50</li>   
+    <li>10-class package - $170</li>
+    <li>First Shuffles (4-5 year-olds) + Second Shuffles (6-7 year-olds) 4-week session - $50</li>
+    </ul>
+    </div>
     <mdb-row>
     <mdb-col lg="8" class="text-justify">
     <div class="mt-5 align-items-center justify-content-start p-3">
@@ -29,7 +40,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <p>This 4-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
     <hr class="deep-orange"/>
   </div> 
-  <div class="mt-5 align-items-center justify-content-start p-3">
+  <!-- <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">PRICING</h4>
     </div>
   <div class="align-items-center justify-content-start pl-3">
@@ -38,8 +49,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <li>5-class package - $87.50</li>   
     <li>10-class package - $170</li>
     <li>First Shuffles + Second Shuffles 4-week session - $50</li>
-    </ul>
-    <mdb-row class="mt-5 justify-content-start">
+    </ul> -->
+    <mdb-row class="mt-5 justify-content-start p-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <mdb-btn @click.native="showModal = true" outline="red">PRIVATE LESSONS ARE AVAILABLE</mdb-btn>
         <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
