@@ -9,7 +9,7 @@ import Gallery from '@/components/Gallery'
 import Schedule from '@/components/Schedule'
 import Rentals from '@/components/Rentals'
 import Staff from '@/components/Staff'
-import Blog from '@/components/Blog'
+// import Blog from '@/components/Blog'
 
 Vue.use(Router)
 Vue.use(VueParallaxJs)
@@ -21,11 +21,11 @@ export default new Router({
       name: 'Home',
       component: Home
     },
-    {
-      path: '/blog',
-      name: 'Blog',
-      component: Blog
-    },
+    // {
+    //   path: '/blog/:uid',
+    //   name: 'Blog',
+    //   component: Blog
+    // },
     {
       path: '/about',
       name: 'About',

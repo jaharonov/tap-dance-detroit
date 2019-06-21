@@ -7,6 +7,7 @@ const path = require('path')
 module.exports = {
   dev: {
 
+    runtimeCompiler: true,
     // Paths
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
@@ -73,4 +74,5 @@ module.exports = {
     // Set to `true` or `false` to always turn it on or off
     bundleAnalyzerReport: process.env.npm_config_report
   }
+  
 }
