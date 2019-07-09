@@ -3,9 +3,14 @@
   <mdb-row class="mt-5 align-items-center justify-content-start">
     <h1 class="mx-auto text-center display-4 red-text big">SCHEDULE</h1>
   </mdb-row>
+	<mdb-row class="justify-content-end p-3">
+      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+        <a href="#youth"><mdb-btn outline="red">Click for more info on our youth classes!</mdb-btn></a>
+        
+    </mdb-row>
   <mdb-row class="mt-5 justify-content-start p-5">
-    <strong><p>Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
-We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</p></strong>
+    <h4 class="grey-text big">Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
+We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</h4>
   </mdb-row>
   <div class="align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">PRICING</h4>
@@ -21,35 +26,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <mdb-row>
     <mdb-col lg="8" class="text-justify">
     <div class="mt-5 align-items-center justify-content-start p-3">
-    <hr class="deep-orange"/>
-    <h3 class="grey-text big">TDD YOUTH PROGRAM</h3>
-    <h4 class="deep-orange-text big">FIRST SHUFFLES</h4>
-    </div>
-    <div class="align-items-center justify-content-start pl-3">
-    <p><strong>Tuesdays starting on 7/9 for 4 weeks: <br/>
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> July 9th, 16th, 23rd, and 30th</span></strong></p>
-    <p>This 4-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
     
-  </div>
-  <div class="mt-5 align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text">SECOND SHUFFLES</h4>
-    </div>
-    <div class="align-items-center justify-content-start pl-3">
-    <p><strong>Thursdays starting on 7/11 for 4 weeks:<br/> 
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> July 11th, 18th, 25th, and August 1st</span></strong></p>
-    <p>This 4-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
-    <hr class="deep-orange"/>
-  </div> 
-  <!-- <div class="mt-5 align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text">PRICING</h4>
-    </div>
-  <div class="align-items-center justify-content-start pl-3">
-    <ul>
-    <li>single class - $18</li>
-    <li>5-class package - $87.50</li>   
-    <li>10-class package - $170</li>
-    <li>First Shuffles + Second Shuffles 4-week session - $50</li>
-    </ul> -->
     <mdb-row class="mt-5 justify-content-start p-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <mdb-btn @click.native="showModal = true" outline="red">PRIVATE LESSONS ARE AVAILABLE</mdb-btn>
@@ -87,18 +64,11 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     
   </div>
   </mdb-col>
-   <mdb-col lg="4" class="p-3 pt-5 text-justify">
+   <!-- <mdb-col lg="4" class="p-3 pt-5 text-justify">
        <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-   </mdb-col>
+   </mdb-col> -->
    </mdb-row>
-  <hr class="pt-3"/>
-  <mdb-row class="mt-5 justify-content-end p-2">
-    <a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">REGISTER FOR CLASSES!</mdb-btn></a>
-  </mdb-row>
-  <!-- <mdb-row class="mt-5 justify-content-end p-2">
-    <strong><p>Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
-We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</p></strong>
-  </mdb-row> -->
+
 <section class="demo-section">
 		<h4>Monday</h4>
 		<section>
@@ -359,6 +329,33 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 			</mdb-tbl>
 		</section>
 	</section>
+	<mdb-row>
+    <mdb-col lg="8" class="text-justify">
+    <div class="mt-5 align-items-center justify-content-start p-3 pt-5">
+    <hr class="deep-orange"/>
+    <a id="youth"><h3 class="grey-text big">TDD YOUTH PROGRAM</h3></a>
+    <h4 class="deep-orange-text big">FIRST SHUFFLES</h4>
+    </div>
+    <div class="align-items-center justify-content-start pl-3">
+    <p><strong>Tuesdays starting on 7/9 for 4 weeks: <br/>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> July 9th, 16th, 23rd, and 30th</span></strong></p>
+    <p>This 4-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
+    
+  </div>
+  <div class="mt-5 align-items-center justify-content-start p-3">
+    <h4 class="deep-orange-text">SECOND SHUFFLES</h4>
+    </div>
+    <div class="align-items-center justify-content-start pl-3">
+    <p><strong>Thursdays starting on 7/11 for 4 weeks:<br/> 
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> July 11th, 18th, 25th, and August 1st</span></strong></p>
+    <p>This 4-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
+    <hr class="deep-orange"/>
+  </div> 
+  </mdb-col>
+   <mdb-col lg="4" class="p-3 pt-5 text-justify">
+       <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+   </mdb-col>
+   </mdb-row>
 </mdb-container>
 </template>
 
