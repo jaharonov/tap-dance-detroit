@@ -123,7 +123,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>12:00pm-12:45pm</td>
-						<td>First Shuffles - Ages 4-5 <br/>Denise Caston-Clark</td>
+						<td></td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -213,7 +213,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>12:00pm-12:45pm</td>
-						<td>Second Shuffles - Ages 6-7</td>
+						<td></td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -349,12 +349,16 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <p><strong>Thursdays starting on 7/11 for 4 weeks:<br/> 
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> July 11th, 18th, 25th, and August 1st</span></strong></p>
     <p>This 4-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
-    <hr class="deep-orange"/>
   </div> 
+	<div class="mt-5 align-items-center justify-content-start p-3">
+    <h4 class="deep-orange-text">Fall schedule starts September 8th. Details coming soon!</h4>
+    </div>
+		<hr class="deep-orange"/>
   </mdb-col>
    <mdb-col lg="4" class="p-3 pt-5 text-justify">
        <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
    </mdb-col>
+	 
    </mdb-row>
 </mdb-container>
 </template>
