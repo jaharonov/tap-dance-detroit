@@ -192,8 +192,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>7:00pm-8:30pm</td>
-						<td>Beginner 1 (1+ years) <br/>Kelsey Rose Young</td>
-						<td>Intermediate 2 (5+ years) <br/> Denise Caston-Clark</td>
+						<td>Intermediate 2 (5+ years) <br/>Kelsey Rose Young</td>
+						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
@@ -270,8 +270,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
-						<td>Intermediate 1 (4+ years) <br/>Jer Vernier</td>
-						<td>Beginner 2 (2+ years)<br/>Denise Caston-Clark</td>
+						<td>Beginner 2 (2+ years)<br/>Jer Vernier</td>
+						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
@@ -338,7 +338,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </div>
     <div class="align-items-center justify-content-start pl-3">
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> </span>
-    <p>This 4-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
+    <p>This 8-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
     
   </div>
   <div class="mt-5 align-items-center justify-content-start p-3">
@@ -347,7 +347,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <div class="align-items-center justify-content-start pl-3">
     
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/></span>
-    <p>This 4-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
+    <p>This 8-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
   </div> 
 	<div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">Fall schedule starts September 8th. Details coming soon!</h4>
