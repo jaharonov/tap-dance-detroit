@@ -102,6 +102,16 @@ Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married 
           <p>On top of recognition for the choreography she sets on her competitive students at The Dance Academy, Molly has worked to establish herself as an emerging choreographer in Michigan’s dance industry. In 2017, she won Motor City Tap Fest’s Young Choreographer’s Competition, and in the same year, was awarded the prestigious Copperfoot Award For Contribution to Repertoire by Wayne State University’s Department of Theatre and Dance. Molly came on as the movement coach and choreographer for The Hilberry Theatre’s production of As You Like It, and she was also nominated for Best Choreography Alongside a Float for the movement she set on the Warrior Strong float in America’s Thanksgiving Day Parade in 2018. </p>
 </mdb-col>
     </mdb-row>
+    <mdb-row class="mx-auto pt-5">
+      <mdb-col lg="4">
+          <h2 class="red-text mx-auto text-center big">Mallory Marshall</h2>
+          <img src="/static/faculty_mallory-marshall.png" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
+      </mdb-col>
+      <mdb-col lg="8" class="text-justify pt-3">
+          <p>At a young 18 years old, Mallory Marshall has established herself as a dance performer, educator and choreographer in the Metro Detroit area. She was a student of The Dance Shoppe in Waterford, MI, where she trained in all subjects of dance for 16 years. In 2016, she became a faculty member at The Dance Shoppe, and began teaching at other studios around MI as well. Mallory has been awarded at numerous competitions and conventions, particularly for her tap dancing, including her most recent title of Dance Masters Miss Dance of America 2019. Mallory has always had a passion for teaching and choreography, and hopes to pursue both at a professional level. She attends Wayne State University 
+            in Detroit as a Dance Major, where she continues to broaden her education and appreciation for the art of dance.</p>
+</mdb-col>
+    </mdb-row>
   </mdb-container>
 </template>
 
