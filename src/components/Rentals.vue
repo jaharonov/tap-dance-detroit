@@ -109,19 +109,18 @@
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
 						
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:30pm-7:00pm</td>
 						
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row">
 						<td>7:00pm-8:30pm</td>
-						
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>

@@ -9,23 +9,31 @@ import Gallery from '@/components/Gallery'
 import Schedule from '@/components/Schedule'
 import Rentals from '@/components/Rentals'
 import Staff from '@/components/Staff'
+import BlogHome from '@/components/BlogHome'
+import BlogPost from '@/components/BlogPost'
 // import Blog from '@/components/Blog'
 
 Vue.use(Router)
 Vue.use(VueParallaxJs)
 
 export default new Router({
+  
   routes: [
     {
       path: '/',
       name: 'Home',
       component: Home
     },
-    // {
-    //   path: '/blog/:uid',
-    //   name: 'Blog',
-    //   component: Blog
-    // },
+    {
+      path: '/blog/',
+      name: 'blog-home',
+      component: BlogHome
+    },
+    {
+      path: '/blog/:slug',
+      name: 'blog-post',
+      component: BlogPost
+    },
     {
       path: '/about',
       name: 'About',

@@ -175,25 +175,24 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>1:00pm-2:00pm</td>
 						<td>Advanced Beginner (3+ years) <br/>Denise Caston-Clark</td>
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 						<td></td>
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
-						<td></td>
 						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:30pm-7:00pm</td>
-						<td></td>
 						<td>Advanced Beginner (3+ years)<br/>Denise Caston-Clark</td>
+						<td></td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row">
+          <tr scope="row">
 						<td>7:00pm-8:30pm</td>
-						<td></td>
 						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
+						<td></td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>

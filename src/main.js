@@ -5,14 +5,13 @@ import 'mdbvue/build/css/mdb.css';
 import Vue from 'vue';
 import App from './App';
 import router from './router';
-import PrismicVue from 'prismic-vue';
-import linkResolver from './link-resolver';
- 
+// import linkResolver from './link-resolver';
+
 // Add this before the new Vue instance
-Vue.use(PrismicVue, {
-  endpoint: window.prismic.endpoint,
-  linkResolver
-})
+// Vue.use(PrismicVue, {
+//   endpoint: window.prismic.endpoint,
+//   linkResolver
+// })
 Vue.config.productionTip = false;
 
 /* eslint-disable no-new */
