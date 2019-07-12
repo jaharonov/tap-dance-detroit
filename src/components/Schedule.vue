@@ -103,7 +103,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
                     <tr scope="row">
 						<td>7:00pm-8:30pm</td>
 						<td>Intermediate 2 (5+ years)<br/>Paige Baidel</td>
-						<td>Intermediate 2 (5+ years)Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
+						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>

@@ -1,6 +1,5 @@
 <template>
   <div id="blog-home">
-      <h1>testing testing</h1>
       <h1>{{ page_title }}</h1>
       <!-- Create v-for and apply a key for Vue. Example is using a combination of the slug and index -->
       <div v-for="(post,index) in posts" :key="post.slug + '_' + index">
@@ -21,7 +20,7 @@
 </template>
 
 <script>
-  import { butter } from 'buttercms'
+  import { butter } from '@/buttercms'
   export default {
     name: 'blog-home',
     data() {
