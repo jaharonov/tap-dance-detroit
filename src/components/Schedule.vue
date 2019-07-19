@@ -85,8 +85,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>1:00pm-2:00pm</td>
 						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
-						<td></td>
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
@@ -123,7 +123,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>12:00pm-12:45pm</td>
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -176,23 +176,25 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>1:00pm-2:00pm</td>
 						<td>Advanced Beginner (3+ years) <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
 						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+						
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:30pm-7:00pm</td>
 						<td>Advanced Beginner (3+ years)<br/>Denise Caston-Clark</td>
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
           <tr scope="row">
 						<td>7:00pm-8:30pm</td>
 						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
-						<td></td>
+						<td>(7pm-8pm)<br/>WERQ Fitness with Erica Egrin. This class is $12.</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
@@ -212,7 +214,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>12:00pm-12:45pm</td>
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -264,13 +266,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>1:00pm-2:00pm</td>
 						<td>Beginner 2 (2+ years)<br/>Denise Caston-Clark</td>
-						<td></td>
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
 						<td>Beginner 2 (2+ years)<br/>Jer Vernier</td>
-						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark</td>
+						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
@@ -304,13 +306,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>11:00am-12:30pm</td>
 						<td>Beginner 2 (2+ years)<br/>Lisa Allai-Stop</td>
 						<td>Advanced Beginner (3+ years)<br/>Molly Sute</td>
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>12:30pm-2:00pm</td>
 						<td>Intermediate 1 (4+ years) <br/>Lisa Allai-Stop</td>
 						<td>Advanced<br/>Molly Sute</td>
-						<td></td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>2:00pm-3:30pm</td>

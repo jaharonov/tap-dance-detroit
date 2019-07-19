@@ -26,12 +26,12 @@ export default new Router({
     },
     {
       path: '/blog/',
-      name: 'blog-home',
+      name: 'Blog-Home',
       component: BlogHome
     },
     {
       path: '/blog/:slug',
-      name: 'blog-post',
+      name: 'Blog-Post',
       component: BlogPost
     },
     {

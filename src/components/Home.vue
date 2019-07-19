@@ -13,12 +13,12 @@
     <!-- <div class="test">
       <img src="/static/landing-class-photo.png/">
     </div> -->
+    <mdb-row class="mx-auto">
+        <img src="/static/guest_7-23-2019.jpg" class="mx-auto d-block view" style="max-height: 25rem;"/>
+    </mdb-row>
     <section class="logo pb-5">
     <!-- <section class="logo pb-5"> -->
-    <mdb-row class="mx-auto">
-        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
-    </mdb-row>
-    <mdb-row class="mx-auto">
+    <mdb-row class="mx-auto pt-5">
         <h4 class="grey-text mx-auto text-center big">Michigan's destination for tap dance, with daily drop-in classes for all levels.</h4>
     </mdb-row>
     <mdb-row class="mx-auto">
@@ -80,13 +80,16 @@
       <img src="/static/landing-class-photo.png" class="img-fluid z-depth-1 jump" style="width: 100%;"/>
     </mdb-row>
     <mdb-row>
-            <div class="white-text mx-auto text-center big" v-parallax="0.75">
+            <div class="white-text mx-auto text-center big" v-parallax="0.60">
+              
               <h2 class="big">HOME TO MOTOR CITY TAP FEST AND THE DETROIT TAP REPERTORY</h2>
               
             </div>
           </mdb-row>
     </section>
-    
+    <mdb-row class="mx-auto">
+        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
+    </mdb-row>
     <!-- <mdb-row class="mx-auto pb-5">
     <div class="mx-auto text-center big">
     <mdb-btn outline="deep-orange" @click.native="modal = true">PRIVATE LESSONS AVAILABLE<br/>CLICK FOR MORE INFO</mdb-btn>
