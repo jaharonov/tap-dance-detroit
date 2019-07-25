@@ -121,12 +121,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 				</mdb-tbl-head>
 				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
+					<!-- <tr scope="row" class="deep-orange lighten-4">
 						<td>12:00pm-12:45pm</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
-					</tr>
+					</tr> -->
 					<tr scope="row">
 						<td>11:00am-12:15pm</td>
 						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
@@ -145,13 +145,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>ABSOLUTE BEGINNER<br/> workshop with Nia Silao</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row">
 						<td>5:30pm-7:00pm</td>
 						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row">
+                    <tr scope="row" class="deep-orange lighten-4">
 						<td>7:00pm-8:30pm</td>
 						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
 						<td>RENTAL AVAILABLE</td>
@@ -212,12 +212,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 				</mdb-tbl-head>
 				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>12:00pm-12:45pm</td>
+					<!-- <tr scope="row" class="deep-orange lighten-4">
+						<td>1:00pm-12:45pm</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
-					</tr>
+					</tr> -->
 					<tr scope="row">
 						<td>11:00am-12:15pm</td>
 						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
