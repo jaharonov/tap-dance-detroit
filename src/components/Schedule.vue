@@ -127,7 +127,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr> -->
-					<tr scope="row">
+					<tr scope="row" class="deep-orange lighten-4">
 						<td>11:00am-12:15pm</td>
 						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
 						<td>RENTAL AVAILABLE</td>
