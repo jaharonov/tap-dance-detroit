@@ -13,8 +13,11 @@
     <!-- <div class="test">
       <img src="/static/landing-class-photo.png/">
     </div> -->
-    <mdb-row class="mx-auto">
+    <!-- <mdb-row class="mx-auto">
         <img src="/static/guest_7-23-2019.jpg" class="mx-auto d-block view" style="max-height: 25rem;"/>
+    </mdb-row> -->
+    <mdb-row class="mx-auto">
+        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
     </mdb-row>
     <section class="logo pb-5">
     <!-- <section class="logo pb-5"> -->
