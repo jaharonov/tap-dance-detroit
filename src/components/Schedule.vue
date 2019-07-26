@@ -271,8 +271,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:30pm</td>
-						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark Jer Vernier</td>
 						<td>Beginner 2 (2+ years)<br/>Jer Vernier</td>
+						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
@@ -283,8 +283,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>7:00pm-8:30pm</td>
-						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
 						<td>Intermediate 2 (5+ years) <br/>Jer Vernier</td>
+						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
