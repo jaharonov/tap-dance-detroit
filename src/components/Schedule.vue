@@ -26,9 +26,9 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <mdb-row>
     <mdb-col lg="8" class="text-justify">
     <div class="mt-5 align-items-center justify-content-start p-3">
-    
     <mdb-row class="mt-5 justify-content-start p-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">Register for classes!</mdb-btn></a>
         <mdb-btn @click.native="showModal = true" outline="red">PRIVATE LESSONS ARE AVAILABLE</mdb-btn>
         <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
           <mdb-modal-header class="red white-text">

@@ -11,6 +11,7 @@ import Rentals from '@/components/Rentals'
 import Staff from '@/components/Staff'
 import BlogHome from '@/components/BlogHome'
 import BlogPost from '@/components/BlogPost'
+import TddPresents from '@/components/TddPresents'
 // import Blog from '@/components/Blog'
 
 Vue.use(Router)
@@ -68,6 +69,11 @@ export default new Router({
       path: '/rentals',
       name: 'Rentals',
       component: Rentals
+    },
+    {
+      path: '/tddpresents',
+      name: 'TddPresents', 
+      component: TddPresents
     }
   ]
 })
