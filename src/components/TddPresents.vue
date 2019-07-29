@@ -18,7 +18,7 @@
           
           <img src="/static/debbi_dee.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
       </mdb-col>
-      <mdb-col lg="8" class="text-justify pt-3">
+      <mdb-col lg="8" class="text-justify pt-5">
           <p class="pt-3">Debbi Dee has earned the honor of being referred to as a “teachers” teacher. 
             She is known as a true technician as well as a Dynamic Stylist, Innovative and whose Energy is unsurpassed.</p>
           <p>Her expanding knowledge can be seen on platforms through-out the United States and has taught Internationally as a 
@@ -34,8 +34,8 @@
           <h2 class="red-text mx-auto text-center big" style="text-transform: uppercase;">Germaine Salsberg</h2>
           <img src="/static/germaine_salsberg.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
-      <mdb-col lg="8" class="text-justify pt-3">
-          <p class="pt-3">Germaine Salsberg was a child actress in her native Canada performing television and radio. She discovered tap dancing after 
+      <mdb-col lg="8" class="text-justify pt-5">
+          <p>Germaine Salsberg was a child actress in her native Canada performing television and radio. She discovered tap dancing after 
               10 years as a modern dancer with the Toronto Dance Theatre, touring throughout Canada, the U.S. and Europe. She has been on 
               the faculty of Broadway Dance Center since 1984 teaching music theater professionals as well as people who "just love to tap." 
               She has taught for Steps on Broadway, Dance Theater of Harlem, Marymount Manhatten College (Dance Department), Long Island University
@@ -57,8 +57,8 @@
           <h2 class="red-text mx-auto text-center big" style="text-transform: uppercase;">Germaine Goodson</h2>
           <img src="/static/germaine_goodson.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
-      <mdb-col lg="8" class="text-justify pt-3">
-          <p class="pt-3">I was born in Philadelphia, PA., It seems that I have been Dancing, My entire Life!  I am Blessed & 
+      <mdb-col lg="8" class="text-justify pt-5">
+          <p>I was born in Philadelphia, PA., It seems that I have been Dancing, My entire Life!  I am Blessed & 
               Grateful to have lived My Life as a Dancer, Teacher & Choreographer!  I have had an Extraordinarily Amazing Career.  
               I Believe that Education & Experience have allowed Me to Perform with the Almighty & Legendary Greats.  I am 1/2 of 
               the Classy Tap Act, known as The Rhythm Queens!  My Dance Partner, Deborah Mitchell & I, have Performed together, for the past 35 Years.  
@@ -72,8 +72,8 @@
           <h2 class="red-text mx-auto text-center big" style="text-transform: uppercase;"> Lynn Schwab</h2>
           <img src="/static/lynne_schwab.png" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
-      <mdb-col lg="8" class="text-justify pt-3">
-          <p class="pt-3"><strong>Lynn Schwab</strong> lives in New York City and is presently on faculty at <i>Steps on Broadway</i> and <i>The American Tap Dance Foundation</i>. She is the Co-Director  
+      <mdb-col lg="8" class="text-justify pt-5">
+          <p><strong>Lynn Schwab</strong> lives in New York City and is presently on faculty at <i>Steps on Broadway</i> and <i>The American Tap Dance Foundation</i>. She is the Co-Director  
               and choreographer for <i>Tap It Out</i>, the  annual out-of-doors event of the New York City Tap Festival, 
               and she teaches and performs at festivals and workshops throughout the U.S.A., Europe, Brazil, Japan and Taiwan.</p>
           <p>She was a member of Tony Waag’s <i>Tap City on Tour</i>, Max Pollak’s <i>RumbaTap</i>, and a founding member of <i>Barbara Duffy and Company</i>.  
