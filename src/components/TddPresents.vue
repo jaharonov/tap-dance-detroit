@@ -10,7 +10,7 @@
         <h2 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">2 levels, 2 days of classes, followed by Beatles On Tap at the Magic Bag Theatre! </h2>
     </mdb-row>
     <mdb-row class="mx-auto pt-2">
-        <h4 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">schedule and registration coming soon!</h4>
+        <h4 class="mx-auto text-center p-3 grey-text big" style="text-transform: uppercase;">schedule and registration coming soon!</h4>
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4">
