@@ -90,9 +90,9 @@
             </div>
           </mdb-row>
     </section>
-    <mdb-row class="mx-auto">
+    <!-- <mdb-row class="mx-auto">
         <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
-    </mdb-row>
+    </mdb-row> -->
     <!-- <mdb-row class="mx-auto pb-5">
     <div class="mx-auto text-center big">
     <mdb-btn outline="deep-orange" @click.native="modal = true">PRIVATE LESSONS AVAILABLE<br/>CLICK FOR MORE INFO</mdb-btn>

@@ -15,6 +15,7 @@
       <mdb-navbar-toggler>
         <mdb-navbar-nav right>
           <mdb-nav-item exact to="/" waves>HOME</mdb-nav-item>
+          <mdb-nav-item to="/tddpresents" waves>NOVEMBER WORKSHOP</mdb-nav-item>
           <mdb-nav-item to="/schedule" waves>SCHEDULE</mdb-nav-item>
           <mdb-nav-item to="/rentals" waves>RENTALS</mdb-nav-item>
           <mdb-nav-item to="/about" waves>ABOUT</mdb-nav-item>
