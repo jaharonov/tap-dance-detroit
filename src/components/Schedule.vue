@@ -8,28 +8,29 @@
     <h4 class="grey-text big">Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
 We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</h4>
   </mdb-row>
-  <mdb-row class="justify-content-center">
+  <mdb-row class="justify-content-center pb-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <a href="#youth"><mdb-btn class="btn-grad"><h4>Click for more info on our youth classes!</h4></mdb-btn></a>
         
     </mdb-row>
-  <div class="align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text">PRICING</h4>
-    </div>
-  <div class="align-items-center justify-content-start pl-3">
-    <ul>
+  <mdb-row class="align-items-center justify-content-center p-5">
+    <mdb-col lg="3" class="text-justify">
+	<h4 class="deep-orange-text">PRICING</h4>
+	 <ul>
     <li>single class - $18</li>
     <li>5-class package - $87.50</li>   
     <li>10-class package - $170</li>
-    <li>First Shuffles (4-5 year-olds) + Second Shuffles (6-7 year-olds) 4-week session - $50</li>
     </ul>
-    </div>
-    <mdb-row>
-    <mdb-col lg="8" class="text-justify">
-    <div class="mt-5 align-items-center justify-content-start p-3">
-    <mdb-row class="mt-5 justify-content-start p-3">
+	</mdb-col>
+	<mdb-col lg="3" class="text-justify">
+    <div class="align-items-center justify-content-start p-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
 				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">Register for classes!</mdb-btn></a>
+	</div>
+	</mdb-col>
+	<mdb-col lg="3" class="text-justify">
+    <div class="align-items-center justify-content-start p-3">
+      <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <mdb-btn @click.native="showModal = true" outline="red">PRIVATE LESSONS ARE AVAILABLE</mdb-btn>
         <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
           <mdb-modal-header class="red white-text">
@@ -61,16 +62,17 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
           </mdb-modal-footer> -->
         </mdb-modal>
       <!-- </mdb-col> -->
-    </mdb-row>
     
   </div>
   </mdb-col>
-   <!-- <mdb-col lg="4" class="p-3 pt-5 text-justify">
-       <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-   </mdb-col> -->
-   </mdb-row>
-
+    </mdb-row>
+  
 <section class="demo-section">
+	<h2>SUMMER SCHEDULE</h2>
+	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="schedule">
+
+    <h4 class="deep-orange-text">Summer schedule goes through Labor Day with no classes on Labor Day (September 2nd)!</h4>
+    </mdb-row>
 		<h4>Monday</h4>
 		<section>
 			<mdb-tbl bordered>
@@ -331,18 +333,328 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 			</mdb-tbl>
 		</section>
 	</section>
+
+<section class="demo-section pt-5">
+	<h2>FALL SCHEDULE</h2>
+	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="schedule">
+
+    <h4 class="deep-orange-text">Fall schedule starts September 3rd for adults and September 9th for youth!</h4>
+    </mdb-row>
+		<h4>Monday</h4>
+		<section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Studio 1</th>
+						<th>Studio 2</th>
+						<th>Studio 3</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>12:00pm-1:00pm</td>
+						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>4:00pm-4:30pm</td>
+						<td>First Shuffles (4-5 year olds) <br/>Paige Baidel</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>4:30pm-6:00pm</td>
+						<td>Intermediate 1 (4+ years) <br/>Paige Baidel</td>
+						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>6:00pm-7:30pm</td>
+						<td>Advanced Beginner (3+ years)<br/>Paige Baidel</td>
+						<td>Advanced <br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row">
+						<td>7:00pm-8:30pm</td>
+						<td>Intermediate 2 (5+ years)<br/>Paige Baidel</td>
+						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
+        <h4>Tuesday</h4>
+        <section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Studio 1</th>
+						<th>Studio 2</th>
+						<th>Studio 3</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<!-- <tr scope="row" class="deep-orange lighten-4">
+						<td>12:00pm-12:45pm</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr> -->
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>10:00am-11:30pm</td>
+						<td>Advanced Beginner (3+ years) <br/> Jamie Hetherington</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+          <tr scope="row">
+						<td>11:30pm-12:30pm</td>
+						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
+						<td>Wee Shuffles (2-3 year olds) <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row" class="deep-orange lighten-4">
+						<td>3:45pm-4:30pm</td>
+						<td>Advanced <br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>4:30pm-6:00pm</td>
+						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>6:00pm-7:30pm</td>
+						<td>Advanced<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row" class="deep-orange lighten-4">
+						<td>7:30pm-9:00pm</td>
+						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
+        <h4>Wednesday</h4>
+		<section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Studio 1</th>
+						<th>Studio 2</th>
+						<th>Studio 3</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>1:00pm-2:30pm</td>
+						<td>Beginner 1 (1+ years) <br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>4:00pm-4:30pm</td>
+						<td>First Shuffles (4- 5 year olds)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>4:30pm-6:00pm</td>
+						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+						
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>6:00pm-7:30pm</td>
+						<td>Advanced Beginner (3+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+          <tr scope="row">
+						<td>7:30pm-9:00pm</td>
+						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
+						<td>(7pm-8pm)<br/>WERQ Fitness with Erica Egrin. This class is $12.</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
+        <h4>Thursday</h4>
+        <section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Studio 1</th>
+						<th>Studio 2</th>
+						<th>Studio 3</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<!-- <tr scope="row" class="deep-orange lighten-4">
+						<td>1:00pm-12:45pm</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr> -->
+					<tr scope="row">
+						<td>10:30am-11:30am</td>
+						<td>Advanced Beginner (3+ years) <br/> Jamie Hetherington</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>11:30pm-12:30pm</td>
+						<td>Beginner 1 (1+ years)<br/>Jamie Hetherington</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>12:30pm-1:00pm</td>
+						<td>Wee Shuffles (2-3 year olds) <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row">
+						<td>4:30pm-6:00pm</td>
+						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark<br/>(5+ years) </td>
+						<td>Beginner 2 (2+ years)<br/>Lisa Allai-Stop</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row" class="deep-orange lighten-4">
+						<td>6:00pm-7:30pm</td>
+						<td>Intermediate 2 <br/>(5+ years)<br/>Denise Caston-Clark </td>
+						<td>Advanced Beginner (3+ years)<br/>Lisa Stop</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row">
+						<td>7:00pm-8:30pm</td>
+						<td>Intermediate/Advanced Broadway Style <br/>Denise Caston-Clark </td>
+						<td>Intermediate 1 (4+ years) <br/>Lisa Stop</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
+        <h4>FRIDAY</h4>
+		<section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Studio 1</th>
+						<th>Studio 2</th>
+						<th>Studio 3</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>12:00pm-1:00pm</td>
+						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>3:00pm-4:30pm</td>
+						<td>Int Theatre Dance (no tap!) (4+ years) <br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>4:30pm-6:00pm</td>
+						<td>Beginner 2 (2+ years)<br/>Jer Vernier</td>
+						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>6:00pm-7:30pm</td>
+						<td>Advanced Beginner (3+ years)<br/>Jer Vernier</td>
+						<td>Advanced <br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row">
+						<td>7:30pm-9:00pm</td>
+						<td>Intermediate 2 (5+ years) <br/>Jer Vernier</td>
+						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
+        <h4>SATURDAY</h4>
+		<section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Studio 1</th>
+						<th>Studio 2</th>
+						<th>Studio 3</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>11:00am-12:30pm</td>
+						<td>Intermediate Jazz (no tap!)<br/>Denise Caston-Clark</td>
+						<td>Advanced Beginner (3+ years)<br/>Molly Sute</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>12:30pm-2:00pm</td>
+						<td>Beginner Jazz (no tap!)<br/>Denise Caston-Clark</td>
+						<td>Advanced<br/>Molly Sute</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>3:00pm-4:30pm</td>
+						<td>Beginner 1<br/> Lisa Allai-Stop </td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row">
+						<td>4:30pm-6:00pm</td>
+						<td>Intermediate 1<br/> Lisa Allai-Stop </td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
+	</section>
+	<section>
 	<mdb-row>
     <mdb-col lg="8" class="text-justify">
     <div class="mt-5 align-items-center justify-content-start p-3 pt-5">
     <hr class="deep-orange"/>
     <a id="youth"><h3 class="grey-text big">TDD YOUTH PROGRAM</h3></a>
-    <h4 class="deep-orange-text big">FIRST SHUFFLES</h4>
+	</div>
+	<div class="mt-5 align-items-center justify-content-start p-3">
+	<h4 class="deep-orange-text big">WEE SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> </span>
-    <p>This 8-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
-    
-  </div>
+	<p class="big">2-3 year olds</p>
+    <p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $100</p>
+	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $75</p>
+	</div>
+    <div class="mt-5 align-items-center justify-content-start p-3">
+	<h4 class="deep-orange-text big">FIRST SHUFFLES</h4>
+    </div>
+    <div class="align-items-center justify-content-start pl-3">
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> </span>
+    <p class="big">This 8-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
+	<p><p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $100</p>
+	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $75</p>
+	</div>
   <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text big">SECOND SHUFFLES</h4>
     </div>
@@ -350,10 +662,28 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/></span>
     <p>This 8-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
+	<p><p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $120</p>
+	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $90</p>
   </div> 
-	<div class="mt-5 align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text">Fall schedule starts September 8th. Details coming soon!</h4>
+
+  <div class="mt-5 align-items-center justify-content-start p-3">
+    <h4 class="deep-orange-text big">YOUNG SHUFFLES</h4>
     </div>
+    <div class="align-items-center justify-content-start pl-3">
+    
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/></span>
+    <p>This 8-week session is for 8-10 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
+	<p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $140</p>
+	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $105</p>
+  </div> 
+  <div class="justify-content-center">
+      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+        <a href="#schedule"><mdb-btn outline="red">VIEW SCHEDULE</mdb-btn></a>
+        
+    </div>
+	<!-- <div class="mt-5 align-items-center justify-content-start p-3">
+    <h4 class="deep-orange-text">Fall schedule starts September 8th. Details coming soon!</h4>
+    </div> -->
 		<hr class="deep-orange"/>
   </mdb-col>
    <mdb-col lg="4" class="p-3 pt-5 text-justify">
@@ -361,6 +691,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
    </mdb-col>
 	 
    </mdb-row>
+   </section>
 </mdb-container>
 </template>
 
