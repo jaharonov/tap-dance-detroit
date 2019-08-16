@@ -3,15 +3,16 @@
   <mdb-row class="mt-5 align-items-center justify-content-start">
     <h1 class="mx-auto text-center display-4 red-text big">SCHEDULE</h1>
   </mdb-row>
-	<mdb-row class="justify-content-end p-3">
-      <!-- <mdb-col size="12" class="text-center mb-5"> -->
-        <a href="#youth"><mdb-btn outline="red">Click for more info on our youth classes!</mdb-btn></a>
-        
-    </mdb-row>
+	
   <mdb-row class="mt-5 justify-content-start p-5">
     <h4 class="grey-text big">Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
 We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</h4>
   </mdb-row>
+  <mdb-row class="justify-content-center">
+      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+        <a href="#youth"><mdb-btn class="btn-grad"><h4>Click for more info on our youth classes!</h4></mdb-btn></a>
+        
+    </mdb-row>
   <div class="align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">PRICING</h4>
     </div>
@@ -434,4 +435,7 @@ body {
 	margin-left: -100px;
 	margin-top: -1px;
 }
+.btn-grad {background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%)}
+.btn-grad:hover { background-position: right center; }
+
 </style>
