@@ -69,7 +69,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
   
 <section class="demo-section">
 	<h2>SUMMER SCHEDULE</h2>
-	<mdb-row class="mt-5 align-items-center justify-content-center p-3">
+	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="schedule">
 
     <h4 class="deep-orange-text">Summer schedule goes through Labor Day with no classes on Labor Day (September 2nd)!</h4>
     </mdb-row>
@@ -702,7 +702,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 </template>
 
 <script>
-import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbInput, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter } from 'mdbvue';
+import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter } from 'mdbvue';
   export default {
     name: 'AppPage',
     components: {
@@ -716,7 +716,7 @@ import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar
       mdbNavbarToggler,
       mdbNavbarNav,
       mdbNavItem,
-      mdbInput,
+      mdbIcon,
       mdbView,
       mdbMask,
       mdbBtn,
