@@ -689,12 +689,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 		<hr class="deep-orange"/>
   </mdb-col>
    <mdb-col lg="4" class="p-3 pt-5 text-justify">
-       <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-	    <div class="align-items-center justify-content-center p-5">
+	   <div class="align-items-center justify-content-center p-5">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
 				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad">REGISTER FOR YOUTH CLASSES!</mdb-btn></a>
 	</div>
-	<div class="align-items-center justify-content-center pl-5 pr-5">
+	
+       <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+	    <div class="align-items-center justify-content-center p-5">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <a href="#schedule"><mdb-btn class="btn-grad">VIEW FULL FALL SCHEDULE!</mdb-btn></a>
         
