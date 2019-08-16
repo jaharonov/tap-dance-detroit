@@ -475,7 +475,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>6:00pm-7:30pm</td>
-						<td>Advanced Beginner (3+ years)<br/>Denise Caston-Clark</td>
+						<td>Young Shuffles (8-10 year olds)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
