@@ -647,7 +647,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<h4 class="deep-orange-text big">WEE SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> </span>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/><strong class="big">Tuesdays and Thursdays 12:30pm-1:00pm</strong> </span>
 	<p class="big">2-3 year olds</p>
     <p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $100</p>
 	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $75</p>
@@ -656,7 +656,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<h4 class="deep-orange-text big">FIRST SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> </span>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Mondays and Wednesdays 4:00pm-4:30pm</strong></span>
     <p class="big">This 8-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
 	<p><p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $100</p>
 	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $75</p>
@@ -666,8 +666,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </div>
     <div class="align-items-center justify-content-start pl-3">
     
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/></span>
-    <p>This 8-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Tuesdays 3:45pm-4:30pm</strong></span>
+    <p class="big">This 8-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
 	<p><p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $120</p>
 	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $90</p>
   </div> 
@@ -677,16 +677,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </div>
     <div class="align-items-center justify-content-start pl-3">
     
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/></span>
-    <p>This 8-week session is for 8-10 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Thursdays 6:00pm-7:30pm</strong></span>
+    <p class="big">This 8-week session is for 8-10 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
 	<p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $140</p>
 	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $105</p>
   </div> 
-  <div class="justify-content-center">
-      <!-- <mdb-col size="12" class="text-center mb-5"> -->
-        <a href="#schedule"><mdb-btn outline="red">VIEW SCHEDULE</mdb-btn></a>
-        
-    </div>
+  
 	<!-- <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">Fall schedule starts September 8th. Details coming soon!</h4>
     </div> -->
@@ -694,6 +690,15 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
   </mdb-col>
    <mdb-col lg="4" class="p-3 pt-5 text-justify">
        <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+	    <div class="align-items-center justify-content-center p-5">
+      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad">REGISTER FOR YOUTH CLASSES!</mdb-btn></a>
+	</div>
+	<div class="align-items-center justify-content-center pl-5 pr-5">
+      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+        <a href="#schedule"><mdb-btn class="btn-grad">VIEW FULL FALL SCHEDULE!</mdb-btn></a>
+        
+    </div>
    </mdb-col>
 	 
    </mdb-row>
