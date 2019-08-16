@@ -69,7 +69,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
   
 <section class="demo-section">
 	<h2>SUMMER SCHEDULE</h2>
-	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="schedule">
+	<mdb-row class="mt-5 align-items-center justify-content-center p-3">
 
     <h4 class="deep-orange-text">Summer schedule goes through Labor Day with no classes on Labor Day (September 2nd)!</h4>
     </mdb-row>
@@ -629,6 +629,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				</mdb-tbl-body>
 			</mdb-tbl>
 		</section>
+		<mdb-row class="text-justify">
+    <div class="align-items-center justify-content-start p-3">
+      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">Register for classes!</mdb-btn></a>
+	</div>
+	</mdb-row>
 	</section>
 	<section>
 	<mdb-row>
