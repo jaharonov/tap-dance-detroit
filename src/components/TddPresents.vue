@@ -90,7 +90,50 @@
 	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="schedule">
 
     </mdb-row>
-		<h4>Saturday November 9, 2019</h4>
+		<h4>Saturday November 9, 2019</h4> -->
+		<!-- <section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Intermediate (5-8 years training)</th>
+						<th>Advanced (8+ years of training)</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>9:30am-10:45am</td>
+						<td>Lynn Schwab</td>
+						<td>Germaine Salsberg</td>
+					</tr>
+					<tr scope="row">
+						<td>11:00am-12:15pm</td>
+						<td>Germaine Goodson</td>
+						<td>Debbi Dee</td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>12:30pm-1:00pm</td>
+						<td colspan="2">LUNCH</td>
+					</tr>
+          <tr scope="row">
+						<td>1:00pm-2:15pm</td>
+						<td>Germaine Salsberg</td>
+						<td>Lynn Schwab</td>
+					</tr>
+          <tr scope="row" class="deep-orange lighten-4">
+						<td>2:30pm-3:45pm</td>
+						<td>Debbi Dee</td>
+						<td>Germaine Goodson</td>
+					</tr>
+          <tr scope="row">
+						<td>5:00pm-8:00pm</td>
+						<td colspan="2">Party and in-studio showcase at Tap Dance Detroit</td>
+						
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
+        <h4 class="pt-5">Sunday November 10, 2019</h4>
 		<section>
 			<mdb-tbl bordered>
 				<mdb-tbl-head>
@@ -102,78 +145,37 @@
 				</mdb-tbl-head>
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
-						<td>1:00pm-2:00pm</td>
-						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>9:30am-10:45am</td>
+						<td>Germaine Salsberg</td>
+						<td>Lynn Schwab</td>
 					</tr>
 					<tr scope="row">
-						<td>4:00pm-5:30pm</td>
-						<td>Intermediate 1 (4+ years) <br/>Paige Baidel</td>
-						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>11:00am-12:15pm</td>
+						<td>Debbi Dee </td>
+						<td>Germaine Goodson</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
-						<td>5:30pm-7:00pm</td>
-						<td>Advanced Beginner (3+ years)<br/>Paige Baidel</td>
-						<td>Advanced <br/>Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>12:30pm-1:00pm</td>
+						<td colspan="2">LUNCH</td>
 					</tr>
-                    <tr scope="row">
-						<td>7:00pm-8:30pm</td>
-						<td>Intermediate 2 (5+ years)<br/>Paige Baidel</td>
-						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
+          <tr scope="row">
+						<td>1:00pm-2:15pm</td>
+						<td>Lynn Schwab</td>
+						<td>Germaine Salsberg</td>
+					</tr>
+          <tr scope="row" class="deep-orange lighten-4">
+						<td>2:30pm-3:45pm</td>
+						<td>Germaine Goodson</td>
+						<td>Debbi Dee</td>
+					</tr>
+          <tr scope="row">
+						<td>5:00pm</td>
+						<td colspan="2">Beatles on Tap at The Magic Bag!</td>	
 					</tr>
 				</mdb-tbl-body>
 			</mdb-tbl>
 		</section>
-        <h4>Tuesday</h4>
-        <section>
-			<mdb-tbl bordered>
-				<mdb-tbl-head>
-					<tr>
-						<th>Time</th>
-						<th>Studio 1</th>
-						<th>Studio 2</th>
-						<th>Studio 3</th>
-					</tr>
-				</mdb-tbl-head>
-				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>11:00am-12:15pm</td>
-						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-          <tr scope="row">
-						<td>12:15pm-1:30pm</td>
-						<td>Advanced Beginner (3+ years) <br/> Jamie Hetherington</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
-						<td>4:00pm-5:30pm</td>
-						<td>Advanced <br/>Denise Caston-Clark</td>
-						<td>ABSOLUTE BEGINNER<br/> workshop with Nia Silao</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-					<tr scope="row">
-						<td>5:30pm-7:00pm</td>
-						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
-						<td>7:00pm-8:30pm</td>
-						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-				</mdb-tbl-body>
-			</mdb-tbl>
-		</section>  -->
-	<!-- </section> -->
+  </section> -->
   </mdb-container>
 </template>
 

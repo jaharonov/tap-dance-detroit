@@ -69,7 +69,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
   
 <section class="demo-section">
 	<h2>SUMMER SCHEDULE</h2>
-	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="schedule">
+	<mdb-row class="mt-5 align-items-center justify-content-center p-3">
 
     <h4 class="deep-orange-text">Summer schedule goes through Labor Day with no classes on Labor Day (September 2nd)!</h4>
     </mdb-row>
@@ -334,11 +334,11 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 		</section>
 	</section>
 
-<section class="demo-section pt-5">
-	<h2>FALL SCHEDULE</h2>
-	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="schedule">
+<section class="demo-section pt-5" id="schedule">
+	<h2 class="red-text"><mdb-icon fab icon="canadian-maple-leaf" size="2x" />FALL SCHEDULE<mdb-icon fab icon="canadian-maple-leaf" size="2x" /></h2>
+	<mdb-row class="mt-5 align-items-center justify-content-center p-3">
 
-    <h4 class="deep-orange-text">Fall schedule starts September 3rd for adults and September 9th for youth!</h4>
+    <h4 class="deep-orange-text">Fall schedule starts September 3rd for adults and September 9th for youth.</h4>
     </mdb-row>
 		<h4>Monday</h4>
 		<section>
@@ -360,7 +360,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-4:30pm</td>
-						<td class="grey-text"><strong> YOUTH CLASS!<br/>First Shuffles (4-5 year olds) <br/>Paige Baidel</strong></td>
+						<td><strong>4:00pm-4:30pm First Shuffles (4-5 year olds)</strong> <br/>Paige Baidel</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -407,12 +407,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
           <tr scope="row">
 						<td>11:30pm-12:30pm</td>
 						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
-						<td class="grey-text"><strong> YOUTH CLASS!<br/>11:30am-12:00pm Wee Shuffles (2-3 year olds) <br/> Denise Caston-Clark</strong></td>
+						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>3:45pm-4:30pm</td>
-						<td class="grey-text"><strong> YOUTH CLASS!<br/>Second Shuffles (6-7 year olds) <br/>Denise Caston-Clark</strong></td>
+						<td><strong> 3:45pm-4:30pm Second Shuffles (6-7 year olds)</strong> <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -455,26 +455,26 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row">
 						<td>4:00pm-4:30pm</td>
-						<td class="grey-text"><strong> YOUTH CLASS!<br/>First Shuffles (4- 5 year olds)<br/>Denise Caston-Clark,</strong></td>
+						<td><strong> 4:00pm-4:30pm First Shuffles (4-5 year olds)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row">
+					<tr scope="row" class="deep-orange lighten-4">
 						<td>4:30pm-6:00pm</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row">
 						<td>6:00pm-7:30pm</td>
-						<td class="grey-text"><strong> YOUTH CLASS!<br/>Young Shuffles (8-10 year olds)<br/>Denise Caston-Clark</strong></td>
+						<td><strong>6:00pm-7:30pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-          <tr scope="row">
+          <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
 						<td>(7pm-8pm)<br/>WERQ Fitness with Erica Egrin. This class is $12.</td>
@@ -508,30 +508,30 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
-						<td>11:30pm-12:30pm</td>
+						<td>11:30am-12:30pm</td>
 						<td>Beginner 1 (1+ years)<br/>Jamie Hetherington</td>
-						<td class="grey-text"><strong> YOUTH CLASS!<br/>Wee Shuffles (2-3 year olds) <br/> Denise Caston-Clark</strong></td>
+						<td><strong>11:30am-12:30pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row">
 						<td>12:30pm-1:00pm</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row">
+                    <tr scope="row" class="deep-orange lighten-4">
 						<td>4:30pm-6:00pm</td>
 						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark<br/>(5+ years) </td>
 						<td>Beginner 2 (2+ years)<br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
+                    <tr scope="row">
 						<td>6:00pm-7:30pm</td>
 						<td>Intermediate 2 <br/>(5+ years)<br/>Denise Caston-Clark </td>
 						<td>Advanced Beginner (3+ years)<br/>Lisa Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row">
+                    <tr scope="row" class="deep-orange lighten-4">
 						<td>7:00pm-8:30pm</td>
 						<td>Intermediate/Advanced Broadway Style <br/>Denise Caston-Clark </td>
 						<td>Intermediate 1 (4+ years) <br/>Lisa Stop</td>
@@ -558,25 +558,25 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row">
 						<td>3:00pm-4:30pm</td>
 						<td>Int Theatre Dance (no tap!) (4+ years) <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row">
+					<tr scope="row" class="deep-orange lighten-4">
 						<td>4:30pm-6:00pm</td>
 						<td>Beginner 2 (2+ years)<br/>Jer Vernier</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row">
 						<td>6:00pm-7:30pm</td>
 						<td>Advanced Beginner (3+ years)<br/>Jer Vernier</td>
 						<td>Advanced <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row">
+                    <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 2 (5+ years) <br/>Jer Vernier</td>
 						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
@@ -692,7 +692,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
        <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
 	    <div class="align-items-center justify-content-center p-5">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
-        <a href="#schedule"><mdb-btn class="btn-grad">VIEW FULL FALL SCHEDULE!</mdb-btn></a>
+        <a href="#schedule"><mdb-btn class="btn-grad"><mdb-icon fab icon="canadian-maple-leaf" size="2x" /><br/>VIEW FULL FALL SCHEDULE</mdb-btn></a>
         
     </div>
    </mdb-col>
