@@ -360,7 +360,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-4:30pm</td>
-						<td>First Shuffles (4-5 year olds) <br/>Paige Baidel</td>
+						<td class="grey-text"><strong> YOUTH CLASS!<br/>First Shuffles (4-5 year olds) <br/>Paige Baidel</strong></td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -397,12 +397,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 				</mdb-tbl-head>
 				<mdb-tbl-body>
-					<!-- <tr scope="row" class="deep-orange lighten-4">
-						<td>12:00pm-12:45pm</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr> -->
+				
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>10:00am-11:30pm</td>
 						<td>Advanced Beginner (3+ years) <br/> Jamie Hetherington</td>
@@ -412,12 +407,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
           <tr scope="row">
 						<td>11:30pm-12:30pm</td>
 						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
-						<td>Wee Shuffles (2-3 year olds) <br/> Denise Caston-Clark</td>
+						<td class="grey-text"><strong> YOUTH CLASS!<br/>11:30am-12:00pm Wee Shuffles (2-3 year olds) <br/> Denise Caston-Clark</strong></td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>3:45pm-4:30pm</td>
-						<td>Advanced <br/>Denise Caston-Clark</td>
+						<td class="grey-text"><strong> YOUTH CLASS!<br/>Second Shuffles (6-7 year olds) <br/>Denise Caston-Clark</strong></td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -462,7 +457,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>4:00pm-4:30pm</td>
-						<td>First Shuffles (4- 5 year olds)<br/>Denise Caston-Clark</td>
+						<td class="grey-text"><strong> YOUTH CLASS!<br/>First Shuffles (4- 5 year olds)<br/>Denise Caston-Clark,</strong></td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -475,7 +470,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>6:00pm-7:30pm</td>
-						<td>Young Shuffles (8-10 year olds)<br/>Denise Caston-Clark</td>
+						<td class="grey-text"><strong> YOUTH CLASS!<br/>Young Shuffles (8-10 year olds)<br/>Denise Caston-Clark</strong></td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -515,12 +510,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>11:30pm-12:30pm</td>
 						<td>Beginner 1 (1+ years)<br/>Jamie Hetherington</td>
-						<td>RENTAL AVAILABLE</td>
+						<td class="grey-text"><strong> YOUTH CLASS!<br/>Wee Shuffles (2-3 year olds) <br/> Denise Caston-Clark</strong></td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>12:30pm-1:00pm</td>
-						<td>Wee Shuffles (2-3 year olds) <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -647,7 +642,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<h4 class="deep-orange-text big">WEE SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/><strong class="big">Tuesdays or Thursdays 12:30pm-1:00pm</strong> </span>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/><strong class="big">Tuesdays or Thursdays 11:30am-12:00pm</strong> </span>
 	<p class="big">2-3 year olds</p>
     <p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $100</p>
 	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $75</p>

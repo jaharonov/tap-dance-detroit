@@ -85,16 +85,129 @@
                choreographed and performed the Morton Gould Tap Dance Concerto with the Brooklyn Symphony Orchestra. <a href="www.lynneschwabtapz.com" class="red-text">www.lynnschwabtapz.com</a></p>
 </mdb-col>
     </mdb-row>
+    <!-- <section class="demo-section">
+	<h1 class="red-text mx-auto text-center big pt-5" style="text-transform: uppercase;">SCHEDULE</h1>
+	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="schedule">
+
+    </mdb-row>
+		<h4>Saturday November 9, 2019</h4>
+		<section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Intermediate (5-8 years training)</th>
+						<th>Advanced (8+ years of training)</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>1:00pm-2:00pm</td>
+						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>4:00pm-5:30pm</td>
+						<td>Intermediate 1 (4+ years) <br/>Paige Baidel</td>
+						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>5:30pm-7:00pm</td>
+						<td>Advanced Beginner (3+ years)<br/>Paige Baidel</td>
+						<td>Advanced <br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row">
+						<td>7:00pm-8:30pm</td>
+						<td>Intermediate 2 (5+ years)<br/>Paige Baidel</td>
+						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>
+        <h4>Tuesday</h4>
+        <section>
+			<mdb-tbl bordered>
+				<mdb-tbl-head>
+					<tr>
+						<th>Time</th>
+						<th>Studio 1</th>
+						<th>Studio 2</th>
+						<th>Studio 3</th>
+					</tr>
+				</mdb-tbl-head>
+				<mdb-tbl-body>
+					<tr scope="row" class="deep-orange lighten-4">
+						<td>11:00am-12:15pm</td>
+						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+          <tr scope="row">
+						<td>12:15pm-1:30pm</td>
+						<td>Advanced Beginner (3+ years) <br/> Jamie Hetherington</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row" class="deep-orange lighten-4">
+						<td>4:00pm-5:30pm</td>
+						<td>Advanced <br/>Denise Caston-Clark</td>
+						<td>ABSOLUTE BEGINNER<br/> workshop with Nia Silao</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>5:30pm-7:00pm</td>
+						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+                    <tr scope="row" class="deep-orange lighten-4">
+						<td>7:00pm-8:30pm</td>
+						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+				</mdb-tbl-body>
+			</mdb-tbl>
+		</section>  -->
+	<!-- </section> -->
   </mdb-container>
 </template>
 
 <script>
-  import {mdbContainer, mdbRow, mdbCol} from 'mdbvue';
+  import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter } from 'mdbvue';
   export default {
+    name: 'AppPage',
     components: {
+      mdbTbl,
+      mdbTblHead,
+      mdbTblBody,
       mdbContainer,
       mdbRow,
-      mdbCol
+      mdbCol,
+      mdbNavbar,
+      mdbNavbarToggler,
+      mdbNavbarNav,
+      mdbNavItem,
+      mdbIcon,
+      mdbView,
+      mdbMask,
+      mdbBtn,
+      mdbNavbarBrand,
+      mdbParallax,
+      mdbModal,
+      mdbModalHeader,
+      mdbModalTitle,
+      mdbModalBody,
+      mdbModalFooter,
+    },
+    data() {
+      return {
+        showModal: false
+      };
     }
   }
 </script>
