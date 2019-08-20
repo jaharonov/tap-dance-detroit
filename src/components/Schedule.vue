@@ -463,22 +463,22 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>4:30pm-6:00pm</td>
+						<td>Beginner 2 (2+ years)<br/> Kelsey Rose Young</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						
 					</tr>
 					<tr scope="row">
 						<td>6:00pm-7:30pm</td>
-						<td><strong>6:00pm-7:30pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>Advanced <br/>Kelsey Rose Young</td>
+						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
           <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
+						<td>Intermediate 2 (5+ years) <br/>Kelsey Rose Young</td>
 						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
 						<td>(7pm-8pm)<br/>WERQ Fitness with Erica Egrin. This class is $12.</td>
-						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
 			</mdb-tbl>
@@ -495,12 +495,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 				</mdb-tbl-head>
 				<mdb-tbl-body>
-					<!-- <tr scope="row" class="deep-orange lighten-4">
-						<td>1:00pm-12:45pm</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr> -->
+				
 					<tr scope="row">
 						<td>10:30am-11:30am</td>
 						<td>Advanced Beginner (3+ years) <br/> Jamie Hetherington</td>
@@ -527,14 +522,14 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>6:00pm-7:30pm</td>
-						<td>Intermediate 2 <br/>(5+ years)<br/>Denise Caston-Clark </td>
-						<td>Advanced Beginner (3+ years)<br/>Lisa Stop</td>
+						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
+						<td>Advanced Beginner (3+ years)<br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
-						<td>7:00pm-8:30pm</td>
+						<td>7:30pm-9:00pm</td>
 						<td>Intermediate/Advanced Broadway Style <br/>Denise Caston-Clark </td>
-						<td>Intermediate 1 (4+ years) <br/>Lisa Stop</td>
+						<td>Intermediate 1 (4+ years) <br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
@@ -560,8 +555,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>3:00pm-4:30pm</td>
-						<td>Int Theatre Dance (no tap!) (4+ years) <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
+						<td>Int Theatre Dance (no tap!) (4+ years) <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
