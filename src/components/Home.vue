@@ -258,7 +258,12 @@
   },
   "cart": {
     "contents": {
-      "button": true
+      "button": true,
+      "note": true
+    },
+    "text": {
+      "notice": 'Shipping and discount codes are added at checkout.',
+      "noteDescription": 'Student Name'
     },
     "styles": {
       "button": {
