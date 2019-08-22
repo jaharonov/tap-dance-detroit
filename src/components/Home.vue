@@ -13,16 +13,17 @@
     <!-- <div class="test">
       <img src="/static/landing-class-photo.png/">
     </div> -->
-    <mdb-row class="mx-auto pt-5">
+    <mdb-row class="mx-auto pt-3">
       <mdb-col lg="2">
           
       </mdb-col>
-      <mdb-col lg="4">
+      <mdb-col lg="4" class="pt-5">
           <img src="/static/guest_teacher_august_24.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
           <div id='product-component-e7de69b923f'></div>
       </mdb-col>
-      <mdb-col lg="4">
+      <mdb-col lg="4" class="justify-content-center align-items-right">
           <img src="/static/women-in-tap.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+          <div class="text-center"><a href="https://www.tapdancedetroit.org/#/tddpresents" target="_blank"><mdb-btn class="btn-grad">Register</mdb-btn></a></div>
 </mdb-col>
 <mdb-col lg="2">
       </mdb-col>
@@ -488,4 +489,10 @@
   margin-left: auto;
 }
 
+.btn-grad {
+  background-image: linear-gradient(to right, #ff5252 100%);
+  
+};
+
+.btn-grad:hover { background-position: right center; }
 </style>
