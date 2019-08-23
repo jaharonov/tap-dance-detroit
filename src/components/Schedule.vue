@@ -605,7 +605,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
-						<td>3:00pm-4:30pm</td>
+						<td>2:00pm-3:30pm</td>
 						<td>Beginner 1<br/> Lisa Allai-Stop </td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
