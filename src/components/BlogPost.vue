@@ -3,7 +3,7 @@
   <div id="blog-post">
     <mdb-row>
     <h1 class="big">{{ post.data.title }}</h1>
-    <h4 class="big">{{ post.data.author.first_name }} {{ post.data.author.last_name }}</h4>
+    <h4 class="big">{{ post.data.author.first_name }} {{ post.data.author.last_name }} {{ post.published | formatDate }}</h4>
     <div v-html="post.data.body"></div>
 </mdb-row>
     <mdb-row>

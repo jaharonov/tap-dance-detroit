@@ -451,7 +451,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>1:00pm-2:30pm</td>
-						<td>Beginner 1 (1+ years) <br/>Denise Caston-Clark</td>
+						<td>Beginner 1 (1+ years) <br/>Nia Silao </td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>

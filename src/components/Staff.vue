@@ -6,19 +6,50 @@
 <mdb-row>
     <h3 class="mx-auto text-center p-3 grey-text big">COMING SOON!</h3>
 </mdb-row>
-
+<!-- <div id="dib-posts"></div> -->
   </mdb-container>
 </template>
 <style>
 
 </style>
 <script>
-  import {mdbContainer, mdbRow, mdbCol} from 'mdbvue';
+var dib_id = '1H47JH5P4ERQPBMJWRMA'
+  
+  import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter } from 'mdbvue';
   export default {
+    name: 'AppPage',
     components: {
+      mdbTbl,
+      mdbTblHead,
+      mdbTblBody,
       mdbContainer,
       mdbRow,
-      mdbCol
-    }
+      mdbCol,
+      mdbNavbar,
+      mdbNavbarToggler,
+      mdbNavbarNav,
+      mdbNavItem,
+      mdbIcon,
+      mdbView,
+      mdbMask,
+      mdbBtn,
+      mdbNavbarBrand,
+      mdbParallax,
+      mdbModal,
+      mdbModalHeader,
+      mdbModalTitle,
+      mdbModalBody,
+      mdbModalFooter,
+    },
+    data() {
+      return {
+        showModal: false
+      }
+    },
   }
+
 </script>
+
+
+
+
