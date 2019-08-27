@@ -18,8 +18,8 @@
           
       </mdb-col>
       <mdb-col lg="4" class="pt-5">
-          <img src="/static/guest_teacher_august_24.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-          <div id='product-component-e7de69b923f'></div>
+          <img src="/static/beatles-on-tap-show.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+          <div class="text-center"><a href="https://www.ticketweb.com/event/beatles-on-tap-the-magic-bag-tickets/9815475?pl=magicbag" target="_blank"><mdb-btn class="btn-grad">Tickets</mdb-btn></a></div>
       </mdb-col>
       <mdb-col lg="4" class="justify-content-center align-items-right">
           <img src="/static/women-in-tap.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
