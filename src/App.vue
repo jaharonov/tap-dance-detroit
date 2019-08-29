@@ -22,7 +22,7 @@
           <mdb-nav-item to="/donate" waves>DONATE</mdb-nav-item>
           <mdb-nav-item to="/faculty" waves>FACULTY</mdb-nav-item>
           <mdb-nav-item to="/gallery" waves>GALLERY</mdb-nav-item>
-          <mdb-nav-item to="/staff" waves>STAFF</mdb-nav-item>
+          <mdb-nav-item to="/staff" :key="componentKey" waves>STAFF</mdb-nav-item>
         </mdb-navbar-nav>
       </mdb-navbar-toggler>
     </mdb-navbar>
@@ -50,9 +50,18 @@ export default {
     mdbNavbarToggler,
     mdbNavbarBrand,
     mdbFooter
+  },
+    data() {
+    return {
+      componentKey: 0,
+    };
+  },
+  methods: {
+    forceRerender() {
+      this.componentKey += 1;  
+    }
   }
-};
-
+}
 </script>
 
 <style>

@@ -40,13 +40,9 @@ var dib_id = '1H47JH5P4ERQPBMJWRMA'
       mdbModalTitle,
       mdbModalBody,
       mdbModalFooter,
-    },
-    data() {
-      return {
-        showModal: false
-      }
-    },
-  }
+    }
+    
+    }
 
 </script>
 
