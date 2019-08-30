@@ -12,7 +12,7 @@
           <h4 class="grey-text mx-auto text-left big">FOUNDER/DIRECTOR</h4>
           <p class="pt-3">Denise Caston-Clark was a Radio City Rockette for 10 years and toured nationally with the Tony Award winning musical, Crazy For You. Denise has also had the honor of performing the choreography of Savion Glover at a showcase in New York City. She performed on tour in Australia, dancing all over the continent in Elvis to the Max. Her choreography has been seen in many productions in which she performed, including shows at Caesars Windsor in Ontario, Canada. Credits also include film, television, commercials, and industrials.</p>
 
-<p>She currently teaches at Broadway Dance Center and Steps on Broadway. Other teaching credits include Beyond The Stars Dance Convention, Phoenix Tap Fest, OKC Tap Fest, Gregg Russell's Tap Into the Network, Tradition In Tap, and The Rockette Experience© at Radio City Music Hall.</p>
+<p>She was on the faculty at Broadway Dance Center and Steps on Broadway in NYC, and is thrilled to be launching Tap Dance Detroit. Other teaching credits include Debbie Allen Dance Academy Summer Intensive, Gregg Russell's Tap Into the Network, Big Apple Tap Festival, and The Rockette Experience© at Radio City Music Hall.</p>
 
 <p>In 2011, Denise was invited to speak at the TEDx Detroit Conference about her contributions to the cultural landscape in Detroit, including founding and producing Motor City Tap Fest and founding the Detroit Tap Repertory.</p>
 
