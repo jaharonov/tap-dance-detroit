@@ -505,7 +505,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>11:30am-12:30pm</td>
 						<td>Beginner 1 (1+ years)<br/>Jamie Hetherington</td>
-						<td><strong>11:30am-12:30pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
+						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
