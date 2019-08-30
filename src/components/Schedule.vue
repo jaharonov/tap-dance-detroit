@@ -509,7 +509,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>12:30pm-1:00pm</td>
+						<td>12:30pm-4:30pm</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
