@@ -75,7 +75,7 @@ Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married 
           <img src="/static/faculty_jer-vernier.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
-        <h3 class="red-text mx-auto text-left big">Jer Vernier</h3>
+        <h3 class="red-text mx-auto text-left big">JER VERNIER</h3>
           <p>Jer Vernier spent much of his early years training at Center for Creative Studies in Detroit, where I was a member of the Tap Repertory Ensemble. After graduating high school he majored in Dance at Marygrove College and also studied at Edge Performing Arts Center in Hollywood, CA.</p>
           <p>He has performed with Dance Detroit, Detroit Tap Repertory, Detroit Symphony Orchestra and in multiple venues across the United States and Canada.</p>
           <p>Jer knew from his first dance class that teaching others was going to be his calling in life, and at age 14 began conducting dance classes on his own. He has taught countless students throughout Metro Detroit and have won numerous awards for his choreography.</p>
@@ -86,7 +86,7 @@ Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married 
           <img src="/static/faculty_lisa-allai-stop.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
-        <h3 class="red-text mx-auto text-left big">Lisa Allai-Stop</h3>
+        <h3 class="red-text mx-auto text-left big">LISA ALLAI-STOP</h3>
           <p>Lisa Allai-Stop is devoted to dance education and has been educating children and adults for over 30 years.  She is trained in various dance forms with a strong passion for tap, contemporary and hula (Polynesian dance).  Lisa has had the opportunity to perform professionally alongside the unforgettable Ms. Eartha Kitt at the Detroit Music Hall, the Detroit Piston's Halftime show, live news slots promoting the Motor City Tap Festival and the International Festival and countless other local and national venues and events.</p>
           <p>Currently, Lisa continues as a performing member of the Detroit Tap Repertory, rehearsal director for the Detroit Tap Repertory Unlimited group and serves as historian for the company.  She is also the director of the Tropical Wahines professional Polynesian Dance troupe.</p>
           <p>Ms. Allai-Stop has choreographed for the Henry Ford College Full Circle Dance Company, for the Detroit Tap Repertory, Club Di Movimiento in Aruba, Wayne County Community College District and choreographed for local community theatre as well.  Additionally, Lisa has taught for the Detroit Dance City Festival, 
@@ -99,7 +99,7 @@ Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married 
           <img src="/static/faculty_molly-sute.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
-        <h3 class="red-text mx-auto text-left big">Molly Sute</h3>
+        <h3 class="red-text mx-auto text-left big">MOLLY SUTE</h3>
           <p>Molly Sute is a Detroit-based dance performer, educator, and choreographer. She is currently an apprentice member of M.A.D.D. Rhythms (Chicago, IL), the director of the tap program at The Dance Academy (Westland, MI).  Molly also recently obtained a dual degree in Dance and Public Relations from Wayne State University.</p>
           <p>Growing up in a competitive dance program, she developed a diverse foundation and a passion for performing. However, tap quickly became her niche after joining the Detroit Tap Repertory at the age of 12. During her seven years as a dancer and choreographer for DTR, she was able to train under the likes of Professor Robert L. Reed, Sarah Reich, Starinah Dixon, along with developing a network among the Michigan tap dance community. Molly continues to immerse herself in the international tap dance community through M.A.D.D. Rhythms and personal ventures, establishing valuable connections with the industry’s best.</p>
           <p>On top of recognition for the choreography she sets on her competitive students at The Dance Academy, Molly has worked to establish herself as an emerging choreographer in Michigan’s dance industry. In 2017, she won Motor City Tap Fest’s Young Choreographer’s Competition, and in the same year, was awarded the prestigious Copperfoot Award For Contribution to Repertoire by Wayne State University’s Department of Theatre and Dance. Molly came on as the movement coach and choreographer for The Hilberry Theatre’s production of As You Like It, and she was also nominated for Best Choreography Alongside a Float for the movement she set on the Warrior Strong float in America’s Thanksgiving Day Parade in 2018. </p>
@@ -110,9 +110,21 @@ Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married 
           <img src="/static/faculty_mallory-marshall.png" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
-        <h3 class="red-text mx-auto text-left big">Mallory Marshall</h3>
+        <h3 class="red-text mx-auto text-left big">MALLORY MARSHALL</h3>
           <p>At a young 18 years old, Mallory Marshall has established herself as a dance performer, educator and choreographer in the Metro Detroit area. She was a student of The Dance Shoppe in Waterford, MI, where she trained in all subjects of dance for 16 years. In 2016, she became a faculty member at The Dance Shoppe, and began teaching at other studios around MI as well. Mallory has been awarded at numerous competitions and conventions, particularly for her tap dancing, including her most recent title of Dance Masters Miss Dance of America 2019. Mallory has always had a passion for teaching and choreography, and hopes to pursue both at a professional level. She attends Wayne State University 
             in Detroit as a Dance Major, where she continues to broaden her education and appreciation for the art of dance.</p>
+</mdb-col>
+    </mdb-row>
+    <mdb-row class="mx-auto pt-5">
+      <mdb-col lg="4" class="pt-4">
+          <img src="/static/faculty_heidi_schultz.png" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
+      </mdb-col>
+      <mdb-col lg="8" class="text-justify pt-3">
+        <h3 class="red-text mx-auto text-left big">HEIDI SCHULTZ</h3>
+          <p>Heidi Schultz has been teaching tappers of all levels—from absolute beginners to professionals—for more than 30 years. Heidi is the founder, director, and choreographer of two Washington, D.C.-based rhythm tap companies: Tappening and Tappenstance. She loves to tap to a wide range of music including R&B, electronica, reggae, hip hop, Latin, classical, jazz, and rock. She has performed in all types of settings from street festivals to the Kennedy Center in D.C. and Lincoln Center in N.Y.C. After more than 20 years, she is back in Michigan where her tap career started. </p>
+          <p>Heidi has studied, performed, and jammed with finest tap dancers across the U.S. Her tap family includes such greats as Chloe Arnold, Maud Arnold, Bril Barrett (Chicago’s M.A.D.D. Rhythms), Michelle Dorrance, Jason Holley, Jason Janas, Quynn Johnson, Toni Lombre, Joseph Webb, Baakari Wilder, and the Footworks Percussive Dance Ensemble.
+With a MA in Applied Anthropology, she works as a research editor at National Geographic Magazine.
+</p>
 </mdb-col>
     </mdb-row>
   </mdb-container>
