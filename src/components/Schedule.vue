@@ -150,21 +150,27 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>4:30pm-6:00pm</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>4:30pm-5:30pm</td>
+						<td>Intro to Ballroom<br/>Emily Rose Merrell</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>6:00pm-7:30pm</td>
+						<td>5:30pm-6:30pm</td>
+						<td>Intro to Latin Dance<br/>Emily Rose Merrell</td>
 						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
+					</tr>
+					<tr scope="row">
+						<td>6:30pm-7:30pm</td>
+						<td>Intro to Acting and Voice<br/>Emily Rose Merrell</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
-						<td>RENTAL AVAILABLE</td>
+						<td>Intermediate Ballroom<br/>Emily Rose Merrell</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>

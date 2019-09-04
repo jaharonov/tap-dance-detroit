@@ -127,6 +127,15 @@ With a MA in Applied Anthropology, she works as a research editor at National Ge
 </p>
 </mdb-col>
     </mdb-row>
+        <mdb-row class="mx-auto pt-5">
+      <mdb-col lg="4" class="pt-4">
+          <img src="/static/faculty_emily_rose_merrell.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
+      </mdb-col>
+      <mdb-col lg="8" class="text-justify pt-3">
+        <h3 class="red-text mx-auto text-left big">EMILY ROSE MERRELL</h3>
+          <p>Emily Rose has been teaching ballroom dance at franchise and independent studios all over the metro Detroit area since 1996.  Her early training in acting, voice and dance at Flint Youth Theatre, and Theater Arts degree from Kalamazoo College paved the way for her career as a professional actor, dancer, and choreographer.  She has performed with professionals and students alike at showcases, competitions, exhibitions, corporate and charity events.  Emily teaches acting voice, and dance to all ages and enjoys passing along the joy of the performing arts.</p>
+</mdb-col>
+    </mdb-row>
   </mdb-container>
 </template>
 
