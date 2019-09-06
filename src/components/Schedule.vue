@@ -170,7 +170,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
-						<td>Intermediate Ballroom<br/>Emily Rose Merrell</td>
+						<td>7:30pm-8:30pm<br/>Intermediate Ballroom<br/>Emily Rose Merrell</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
