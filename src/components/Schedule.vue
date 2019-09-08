@@ -14,12 +14,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
         
     </mdb-row>
   <mdb-row class="align-items-center justify-content-center p-5">
-    <mdb-col lg="3" class="text-justify">
+    <mdb-col lg="6" class="text-justify">
 	<h4 class="deep-orange-text">PRICING</h4>
 	 <ul>
-    <li>single class - $18</li>
-    <li>5-class package - $87.50</li>   
-    <li>10-class package - $170</li>
+    <li><strong>SINGLE CLASS:</strong>  90 minute class: $18, 60 minute class: $15</li>
+    <li><strong>5-CLASS PACKAGE:</strong>  90 minute classes: $87.50, 60 minute classes: $70</li>   
+    <li><strong>10-CLASS PACKAGE:</strong>  90 minute classes: $170, 60 minute classes: $135</li>
+	<li><strong>STUDENT DISCOUNT:</strong> $12 per 90-minute class, $10 per 60-minute class with student ID</li>
     </ul>
 	</mdb-col>
 	<mdb-col lg="3" class="text-justify">
@@ -334,13 +335,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>11:00am-12:30pm</td>
 						<td>Intermediate Jazz (no tap!)<br/>Denise Caston-Clark</td>
-						<td>Advanced Beginner (3+ years)<br/>Molly Sute</td>
+						<td><strong>8-WEEK SESSION FROM 9/14-11/2 <br/>11:00am-12:00pm <br/>6-7 Year-Old Tap/Jazz Combo</strong><br/>Molly Sute</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>12:30pm-2:00pm</td>
 						<td>Beginner Jazz (no tap!)<br/>Denise Caston-Clark</td>
-						<td>Advanced<br/>Molly Sute</td>
+						<td><strong>8-WEEK SESSION FROM 9/14-11/2 <br/>12:00pm-12:30pm <br/>First Shuffles (4-5 years old)</strong><br/>Molly Sute</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
@@ -385,9 +386,9 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<h4 class="deep-orange-text big">FIRST SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Mondays or Wednesdays 4:00pm-4:30pm</strong></span>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Mondays or Wednesdays 4:00pm-4:30pm or Saturdays from 12:00pm-12:30pm</strong></span>
     <p class="big">This 8-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
-	<p><p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $100</p>
+	<p><p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. Saturday class will begin September 14 and go through November 2. $100</p>
 	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $75</p>
 	</div>
   <div class="mt-5 align-items-center justify-content-start p-3">
