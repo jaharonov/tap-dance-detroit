@@ -9,8 +9,7 @@ import Gallery from '@/components/Gallery'
 import Schedule from '@/components/Schedule'
 import Rentals from '@/components/Rentals'
 import Staff from '@/components/Staff'
-import BlogHome from '@/components/BlogHome'
-import BlogPost from '@/components/BlogPost'
+import Blog from '@/components/Blog'
 import TddPresents from '@/components/TddPresents'
 // import Blog from '@/components/Blog'
 
@@ -27,13 +26,8 @@ export default new Router({
     },
     {
       path: '/blog/',
-      name: 'Blog-Home',
-      component: BlogHome
-    },
-    {
-      path: '/blog/:slug',
-      name: 'Blog-Post',
-      component: BlogPost
+      name: 'Blog',
+      component: Blog
     },
     {
       path: '/about',

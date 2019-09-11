@@ -19,6 +19,7 @@
           <mdb-nav-item to="/schedule" waves>SCHEDULE</mdb-nav-item>
           <mdb-nav-item to="/rentals" waves>RENTALS</mdb-nav-item>
           <mdb-nav-item to="/about" waves>ABOUT</mdb-nav-item>
+          <mdb-nav-item to="/blog" waves>BLOG</mdb-nav-item>
           <mdb-nav-item to="/donate" waves>DONATE</mdb-nav-item>
           <mdb-nav-item to="/faculty" waves>FACULTY</mdb-nav-item>
           <mdb-nav-item to="/gallery" waves>GALLERY</mdb-nav-item>
@@ -27,7 +28,7 @@
       </mdb-navbar-toggler>
     </mdb-navbar>
     <main :style="{marginTop: '100px'}">
-      <router-view></router-view>
+      <router-view :key="$route.fullPath"></router-view>
     </main>
     <mdb-footer light class="red accent-3">
       <p class="footer-copyright mb-0 py-3 text-center big">
