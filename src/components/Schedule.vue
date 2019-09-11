@@ -88,7 +88,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>12:00pm-1:00pm</td>
-						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
+						<td>Beginner 1 (0-1 year experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -113,7 +113,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
                     <tr scope="row">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 2 (5+ years)<br/>Paige Baidel</td>
-						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
+						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
@@ -140,7 +140,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
           <tr scope="row">
 						<td>11:30pm-12:30pm</td>
-						<td>Beginner 1 (1+ years) <br/> Jamie Hetherington</td>
+						<td>Beginner 1 (0-1 year experience) <br/> Jamie Hetherington</td>
 						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -191,7 +191,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>1:00pm-2:30pm</td>
-						<td>Beginner 1 (1+ years) <br/>Nia Silao </td>
+						<td>Beginner 1 (0-1 year experience) <br/>Nia Silao </td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -217,7 +217,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
           <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 2 (5+ years) <br/>Kelsey Rose Young</td>
-						<td>Beginner 1 (1+ years) <br/> Denise Caston-Clark</td>
+						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
 						<td>(7pm-8pm)<br/>WERQ Fitness with Erica Egrin. This class is $12.</td>
 					</tr>
 				</mdb-tbl-body>
@@ -244,7 +244,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>11:30am-12:30pm</td>
-						<td>Beginner 1 (1+ years)<br/>Jamie Hetherington</td>
+						<td>Beginner 1 (0-1 year experience)<br/>Jamie Hetherington</td>
 						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -289,7 +289,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>12:00pm-1:00pm</td>
-						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
+						<td>Beginner 1 (0-1 year experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -314,7 +314,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 2 (5+ years) <br/>Jer Vernier</td>
-						<td>Beginner 1 (1+ years)<br/>Denise Caston-Clark</td>
+						<td>Beginner 1 (0-1 year experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
@@ -346,7 +346,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>2:00pm-3:30pm</td>
-						<td>Beginner 1<br/> Lisa Allai-Stop </td>
+						<td>Beginner 1 (0-1 year experience)<br/> Lisa Allai-Stop </td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
