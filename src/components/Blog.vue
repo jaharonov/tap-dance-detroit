@@ -6,7 +6,7 @@
 <mdb-row>
     <h3 class="mx-auto text-center p-3 grey-text big">COMING SOON!</h3>
 </mdb-row>
-<!-- <div id="dib-posts"></div> -->
+<div id="dib-posts"></div>
   </mdb-container>
 </template>
 <style>
