@@ -342,7 +342,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>12:30pm-2:00pm</td>
 						<td>Beginner Jazz (no tap!)<br/>Denise Caston-Clark</td>
 						<td><strong>8-WEEK SESSION FROM 9/14-11/2 <br/>12:00pm-12:30pm <br/>First Shuffles (4-5 years old)</strong><br/>Molly Sute</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>Advanced <br/>Molly Sute</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>2:00pm-3:30pm</td>
