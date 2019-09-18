@@ -93,13 +93,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>4:00pm-4:30pm</td>
-						<td><strong>4:00pm-4:30pm First Shuffles (4-5 year olds)</strong> <br/>Paige Baidel</td>
+						<td>4:00pm-5:00pm</td>
+						<td><strong>4:30pm-5:00pm First Shuffles (4-5 year olds)</strong> <br/>Paige Baidel</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>4:30pm-6:00pm</td>
+						<td>5:00pm-6:00pm</td>
 						<td>Intermediate 1 (4+ years) <br/>Paige Baidel</td>
 						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
@@ -145,13 +145,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
-						<td>3:45pm-4:30pm</td>
-						<td><strong> 3:45pm-4:30pm Second Shuffles (6-7 year olds)</strong> <br/>Denise Caston-Clark</td>
+						<td>4:00pm-5:00pm</td>
+						<td><strong>Second Shuffles (6-7 year olds)</strong> <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>4:30pm-5:30pm</td>
+						<td>5:00pm-6:00pm</td>
 						<td>Intro to Ballroom<br/>Emily Rose Merrell</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
@@ -197,12 +197,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-4:30pm</td>
-						<td><strong> 4:00pm-4:30pm First Shuffles (4-5 year olds)</strong><br/>Denise Caston-Clark</td>
+						<td><strong> 4:30pm-5:00pm First Shuffles (4-5 year olds)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
-						<td>4:30pm-6:00pm</td>
+						<td>5:00pm-6:00pm</td>
 						<td>Beginner 2 (2+ years)<br/> Kelsey Rose Young</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
@@ -388,7 +388,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<h4 class="deep-orange-text big">FIRST SHUFFLES</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Mondays or Wednesdays 4:00pm-4:30pm or Saturdays from 12:00pm-12:30pm</strong></span>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Mondays or Wednesdays 4:30pm-5:00pm or Saturdays from 12:00pm-12:30pm</strong></span>
     <p class="big">This 8-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
 	<p><p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. Saturday class will begin September 14 and go through November 2. $100</p>
 	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $75</p>
@@ -398,7 +398,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </div>
     <div class="align-items-center justify-content-start pl-3">
     
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Tuesdays 3:45pm-4:30pm</strong></span>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Tuesdays 4:00pm-5:00pm</strong></span>
     <p class="big">This 8-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
 	<p><p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $120</p>
 	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $90</p>
