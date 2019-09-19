@@ -3,16 +3,16 @@
       <mdb-row class="mx-auto p-3">
         <h1 class="mx-auto text-center display-4 p-3 red-text big">BLOG</h1>
     </mdb-row>
-<mdb-row class="mx-auto p-3">
+
   <div id="dib-posts"></div>  
-</mdb-row>
+
 
   </mdb-container>
 </template>
 <style>
 
 </style>
-<script>
+<script type="text/javascript">
 var dib_id = '1H47JH5P4ERQPBMJWRMA'
   
   import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter } from 'mdbvue';

@@ -255,7 +255,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
-						<td>4:30pm-6:00pm</td>
+						<td>5:00pm-6:00pm</td>
 						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark<br/>(5+ years) </td>
 						<td>Beginner 2 (2+ years)<br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
@@ -300,7 +300,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
-						<td>4:30pm-6:00pm</td>
+						<td>5:00pm-6:00pm</td>
 						<td>Beginner 2 (2+ years)<br/>Jer Vernier</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
