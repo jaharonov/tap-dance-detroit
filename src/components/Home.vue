@@ -1,40 +1,5 @@
 <template>
   <mdb-container fluid>
-    <mdb-row class="mt-5 justify-content-center pl-5 pr-5">
-	<h4 class="deep-orange-text big">FALL SPECIAL: 2 weeks of unlimited classes for $29.99 if purchased by Friday, 9/27</h4><br/>
-    </mdb-row>
-  <mdb-row class="align-items-center justify-content-center p-5">
-    <mdb-col lg="6" class="text-justify">
-	<h4 class="deep-orange-text">PRICING</h4>
-	 <ul>
-	<li><strong>UNLIMITED CLASSES:</strong>Unlimited monthly class pass: $115 (Includes all tap, jazz, and ballroom classes.)</li>
-    <li><strong>SINGLE CLASS:</strong>  90 minute class: $18, 60 minute class: $15</li>
-    <li><strong>5-CLASS PACKAGE:</strong>  90 minute classes: $87.50, 60 minute classes: $70</li>   
-    <li><strong>10-CLASS PACKAGE:</strong>  90 minute classes: $170, 60 minute classes: $135</li>
-	<li><strong>STUDENT DISCOUNT:</strong> $12 per 90-minute class, $10 per 60-minute class with student ID</li>
-    </ul>
-	</mdb-col>
-  </mdb-row>
-    <mdb-row class="mx-auto pt-3">
-      <mdb-col lg="2">
-          
-      </mdb-col>
-      <mdb-col lg="4" class="pt-1">
-          <img src="/static/beatles-on-tap-show.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-          <div class="text-center"><a href="https://www.ticketweb.com/event/beatles-on-tap-the-magic-bag-tickets/9815475?pl=magicbag" target="_blank"><mdb-btn class="btn-grad">Tickets</mdb-btn></a></div>
-      </mdb-col>
-      <mdb-col lg="4" class="justify-content-center align-items-right">
-          <img src="/static/women-in-tap.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-          <div class="text-center"><a href="https://www.tapdancedetroit.org/#/tddpresents" target="_blank"><mdb-btn class="btn-grad">Register</mdb-btn></a></div>
-</mdb-col>
-<mdb-col lg="2">
-      </mdb-col>
-    </mdb-row>
-    <!-- <mdb-row class="mx-auto">
-        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
-    </mdb-row> -->
-    <section class="logo pb-5">
-    <!-- <section class="logo pb-5"> -->
     <mdb-row class="mx-auto pt-5">
         <h4 class="grey-text mx-auto text-center big">Michigan's destination for tap dance, with daily drop-in classes for all levels.</h4>
     </mdb-row>
@@ -78,6 +43,42 @@
         </mdb-modal>
       </mdb-col>
     </mdb-row>
+    <mdb-row class="mt-5 justify-content-center pl-5 pr-5">
+	<h4 class="deep-orange-text big">FALL SPECIAL: 2 weeks of unlimited classes for $29.99 if purchased by Friday, 9/27</h4><br/>
+    </mdb-row>
+  <mdb-row class="align-items-center justify-content-center p-5">
+    <mdb-col lg="6" class="text-justify">
+	<h4 class="deep-orange-text">PRICING</h4>
+	 <ul>
+	<li><strong>UNLIMITED CLASSES:</strong>Unlimited monthly class pass: $115 (Includes all tap, jazz, and ballroom classes.)</li>
+    <li><strong>SINGLE CLASS:</strong>  90 minute class: $18, 60 minute class: $15</li>
+    <li><strong>5-CLASS PACKAGE:</strong>  90 minute classes: $87.50, 60 minute classes: $70</li>   
+    <li><strong>10-CLASS PACKAGE:</strong>  90 minute classes: $170, 60 minute classes: $135</li>
+	<li><strong>STUDENT DISCOUNT:</strong> $12 per 90-minute class, $10 per 60-minute class with student ID</li>
+    </ul>
+	</mdb-col>
+  </mdb-row>
+    <mdb-row class="mx-auto pt-3">
+      <mdb-col lg="2">
+          
+      </mdb-col>
+      <mdb-col lg="4" class="pt-1">
+          <img src="/static/beatles-on-tap-show.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+          <div class="text-center"><a href="https://www.ticketweb.com/event/beatles-on-tap-the-magic-bag-tickets/9815475?pl=magicbag" target="_blank"><mdb-btn class="btn-grad">Tickets</mdb-btn></a></div>
+      </mdb-col>
+      <mdb-col lg="4" class="justify-content-center align-items-right">
+          <img src="/static/women-in-tap.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+          <div class="text-center"><a href="https://www.tapdancedetroit.org/#/tddpresents" target="_blank"><mdb-btn class="btn-grad">Register</mdb-btn></a></div>
+</mdb-col>
+<mdb-col lg="2">
+      </mdb-col>
+    </mdb-row>
+    <!-- <mdb-row class="mx-auto">
+        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
+    </mdb-row> -->
+    <section class="logo pb-5">
+    <!-- <section class="logo pb-5"> -->
+    
     <!-- <mdb-row class="mx-auto pb-5">
     <div class="mx-auto text-center big">
     <mdb-btn outline="deep-orange" @click.native="modal = true">PRIVATE LESSONS AVAILABLE</mdb-btn>
