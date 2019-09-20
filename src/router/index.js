@@ -10,7 +10,7 @@ import Schedule from '@/components/Schedule'
 import Rentals from '@/components/Rentals'
 import Staff from '@/components/Staff'
 import Blog from '@/components/Blog'
-import TddPresents from '@/components/TddPresents'
+import Upcoming from '@/components/Upcoming'
 // import Blog from '@/components/Blog'
 
 Vue.use(Router)
@@ -65,9 +65,9 @@ export default new Router({
       component: Rentals
     },
     {
-      path: '/tddpresents',
-      name: 'TddPresents', 
-      component: TddPresents
+      path: '/upcoming',
+      name: 'Upcoming', 
+      component: Upcoming
     }
   ]
 })

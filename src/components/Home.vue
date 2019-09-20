@@ -1,18 +1,28 @@
 <template>
   <mdb-container fluid>
-    <!-- <mdb-row>
-            <div class="red-text text-left p-2" v-parallax="0.1">
-              <h4 class="big">HOME TO MOTOR CITY TAP FEST AND <br/> THE DETROIT TAP REPERTORY</h4>
-            </div>
-          </mdb-row> -->
-    <!-- <mdb-view v-parallax="0.0" class="landing">
-      <mdb-mask class="gradient d-flex justify-content-right align-items-center">
-          
-      </mdb-mask>
-    </mdb-view> -->
-    <!-- <div class="test">
-      <img src="/static/landing-class-photo.png/">
-    </div> -->
+    <mdb-row class="mt-5 justify-content-start p-5">
+	<h4 class="deep-orange-text big">FALL SPECIAL: 2 weeks of unlimited classes for $29.99 if purchased by Friday, 9/27.</h4><br/>
+    <h4 class="grey-text big">Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
+We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</h4>
+  </mdb-row>
+  <mdb-row class="justify-content-center pb-3">
+      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+        <a href="#youth"><mdb-btn class="btn-grad"><h4>Click for more info on youth and adult classes!</h4></mdb-btn></a>
+        
+    </mdb-row>
+  <mdb-row class="align-items-center justify-content-center p-5">
+    <mdb-col lg="6" class="text-justify">
+	<h4 class="deep-orange-text">PRICING</h4>
+	 <ul>
+	<li><strong>UNLIMITED CLASSES:</strong>Unlimited monthly class pass: $115 (Includes all tap, jazz, and ballroom classes.)</li>
+    <li><strong>SINGLE CLASS:</strong>  90 minute class: $18, 60 minute class: $15</li>
+    <li><strong>5-CLASS PACKAGE:</strong>  90 minute classes: $87.50, 60 minute classes: $70</li>   
+    <li><strong>10-CLASS PACKAGE:</strong>  90 minute classes: $170, 60 minute classes: $135</li>
+	<li><strong>STUDENT DISCOUNT:</strong> $12 per 90-minute class, $10 per 60-minute class with student ID</li>
+    </ul>
+	</mdb-col>
+  
+  </mdb-row>
     <mdb-row class="mx-auto pt-3">
       <mdb-col lg="2">
           
