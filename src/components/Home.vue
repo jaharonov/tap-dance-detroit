@@ -1,5 +1,18 @@
 <template>
   <mdb-container fluid>
+    <mdb-row class="align-items-center p-5">
+      <mdb-col size="6" class="text-center p-3 img-fluid-grow mx-auto">
+        <mdb-carousel :interval="8000">
+    <mdb-carousel-item img src="/static/tdd_home_1.jpg" alt="First slide" />
+    <mdb-carousel-item img src="/static/tdd_home_2.jpg" alt="Second slide" />
+  </mdb-carousel>
+      </mdb-col>
+      <mdb-col size="6" class="text-center mb-5">
+        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view pb-2" style="max-height: 15rem;"/><br/>
+        <a href="https://www.facebook.com/tapdancedetroit/" class="social"><img src="/static/facebook-logo.png" class="p-2 social"/></a>
+        <a href="https://www.instagram.com/tapdancedetroit/" class="social"><img src="/static/instagram-logo.png" class="p-2 social"/></a>
+      </mdb-col>
+    </mdb-row>
     <mdb-row class="mx-auto pt-5">
         <h4 class="grey-text mx-auto text-center big">Michigan's destination for tap dance, with daily drop-in classes for all levels.</h4>
     </mdb-row>
@@ -122,19 +135,19 @@
     </mdb-modal>
   </div>
   </mdb-row> -->
-  <mdb-row class="mx-auto">
-        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
-    </mdb-row>
+  
   </mdb-container>
   
 </template>
 
 <script>
-import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter } from 'mdbvue';
+import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter, mdbCarousel, mdbCarouselItem } from 'mdbvue';
   export default {
     name: 'AppPage',
     components: {
       mdbTbl,
+      mdbCarousel,
+      mdbCarouselItem,
       mdbTblHead,
       mdbTblBody,
       mdbContainer,
@@ -489,4 +502,8 @@ import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar
 };
 
 .btn-grad:hover { background-position: right center; }
+
+.social:hover {
+    cursor: pointer;
+}
 </style>
