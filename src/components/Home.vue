@@ -9,8 +9,8 @@
       </mdb-col>
       <mdb-col size="6" class="text-center mb-5">
         <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view pb-2" style="max-height: 15rem;"/><br/>
-        <a href="https://www.facebook.com/tapdancedetroit/" class="social"><img src="/static/facebook-logo.png" class="p-2 social"/></a>
-        <a href="https://www.instagram.com/tapdancedetroit/" class="social"><img src="/static/instagram-logo.png" class="p-2 social"/></a>
+        <a href="https://www.facebook.com/tapdancedetroit/" target="_blank"><img src="/static/facebook-logo.png" class="p-2"/></a>
+        <a href="https://www.instagram.com/tapdancedetroit/" target="_blank"><img src="/static/instagram-logo.png" class="p-2"/></a>
       </mdb-col>
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
