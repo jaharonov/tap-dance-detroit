@@ -148,19 +148,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>4:00pm-5:00pm</td>
-						<td><strong>Second Shuffles (6-7 year olds)</strong> <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-					<tr scope="row">
-						<td>5:00pm-6:00pm</td>
-						<td>Intro to Ballroom<br/>Emily Rose Merrell</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>5:30pm-6:30pm</td>
-						<td>Intro to Latin Dance<br/>Emily Rose Merrell</td>
+						<td>Beginner Ballroom and Latin<br/>Emily Rose Merrell</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -171,9 +165,9 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
-						<td>7:30pm-9:00pm</td>
+						<td>7:30pm-8:30pm</td>
 						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
-						<td>7:30pm-8:30pm<br/>Intermediate Ballroom<br/>Emily Rose Merrell</td>
+						<td>Intermediate Latin<br/>Emily Rose Merrell</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
