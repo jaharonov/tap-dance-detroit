@@ -212,7 +212,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
             <h4 class="title">2 FIT 2 QUIT</h4>
           </mdb-modal-header>
           <mdb-modal-body class="grey-text">
-            <p>2 Fit 2 Quit is a stretch and strengthen class that will focus on core, upper body and lower body strengthening, 
+            <p>2 Fit 2 Quit is a stretch and strengthen class that will focus on core, upper body and lowe body strengthening, 
 				while stretching to improve flexibility and promote long lean muscles.</p>
           </mdb-modal-body>
           <!-- <mdb-modal-footer>
@@ -450,11 +450,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 </template>
 
 <script>
-import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter } from 'mdbvue';
+import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbInput, mdbModalFooter } from 'mdbvue';
   export default {
     name: 'AppPage',
     components: {
-      mdbTbl,
+	  mdbInput,  
+	  mdbTbl,
       mdbTblHead,
       mdbTblBody,
       mdbContainer,

@@ -158,6 +158,7 @@ module.exports = {
                 'allowSamePrecedence': true
             }
         ],
+        'no-mixed-spaces-and-tabs': 'off',
         'no-mixed-requires': 'error',
         'no-multi-assign': 'error',
         'no-multi-spaces': 'off',
