@@ -7,7 +7,7 @@
         <h2 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">November 9th-10th</h2>
     </mdb-row>
     <mdb-row class="mx-auto pt-2">
-        <h2 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">2 levels, 2 days of classes, followed by <i>Beatles On Tap</i> at the <a href="https://www.ticketweb.com/event/beatles-on-tap-the-magic-bag-tickets/9815475?pl=magicbag" class="grey-text" target="_blank">Magic Bag Theatre</a>! Use discount code "WOMENINTAP" through September 3rd for 10% off.</h2>
+        <h2 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">2 levels, 2 days of classes, followed by <i>Beatles On Tap</i> at the <a href="https://www.ticketweb.com/event/beatles-on-tap-the-magic-bag-tickets/9815475?pl=magicbag" class="grey-text" target="_blank">Magic Bag Theatre</a></h2>
     </mdb-row>
     <mdb-row class="mx-auto pt-2">
     </mdb-row>

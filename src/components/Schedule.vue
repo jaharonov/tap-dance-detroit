@@ -206,7 +206,21 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>6:00pm-7:30pm</td>
-						<td>Advanced <br/>Kelsey Rose Young</td>
+						<td><mdb-btn @click.native="modal = true" outline="red">2 FIT 2 QUIT</mdb-btn>
+        <mdb-modal :show="modal" @close="modal = false" cascade class="text-left">
+          <mdb-modal-header class="red white-text">
+            <h4 class="title">2 FIT 2 QUIT</h4>
+          </mdb-modal-header>
+          <mdb-modal-body class="grey-text">
+            <p>2 Fit 2 Quit is a stretch and strengthen class that will focus on core, upper body and lower body strengthening, 
+				while stretching to improve flexibility and promote long lean muscles.</p>
+          </mdb-modal-body>
+          <!-- <mdb-modal-footer>
+            <mdb-btn color="secondary" @click.native="showModal = false">Close</mdb-btn>
+            <mdb-btn color="primary">Save changes</mdb-btn>
+          </mdb-modal-footer> -->
+        </mdb-modal>
+							<br/>Kelsey Rose Young</td>
 						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -464,7 +478,8 @@ import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar
     },
     data() {
       return {
-        showModal: false
+		showModal: false,
+		modal: false,
       };
     }
   }

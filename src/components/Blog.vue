@@ -3,8 +3,8 @@
       <mdb-row class="mx-auto p-3">
         <h1 class="mx-auto text-center display-4 p-3 red-text big">BLOG</h1>
     </mdb-row>
-
-  <div id="dib-posts"></div>  
+  <div id="dib-recent-posts"></div>
+  <!-- <div id="dib-posts"></div>   -->
 
 
   </mdb-container>
@@ -14,7 +14,7 @@
 </style>
 <script type="text/javascript">
 var dib_id = '1H47JH5P4ERQPBMJWRMA'
-  
+var dib_recent_posts = 20;  
   import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter } from 'mdbvue';
   export default {
     name: 'AppPage',
