@@ -5,7 +5,7 @@
   </mdb-row>
 	
   <mdb-row class="mt-5 justify-content-start p-5">
-	<h4 class="deep-orange-text big">FALL SPECIAL: 2 weeks of unlimited classes for $29.99 if purchased by Friday, 9/27.</h4><br/>
+	<h4 class="deep-orange-text big">FALL SPECIAL: 2 weeks of unlimited classes for $29.99.</h4><br/>
     <h4 class="grey-text big">Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
 We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</h4>
   </mdb-row>
