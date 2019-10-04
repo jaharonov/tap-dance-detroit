@@ -81,7 +81,7 @@
       </mdb-col>
       <mdb-col lg="4" class="justify-content-center align-items-right">
           <img src="/static/women-in-tap.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-          <div class="text-center"><a href="https://www.tapdancedetroit.org/#/tddpresents" target="_blank"><mdb-btn class="btn-grad">Register</mdb-btn></a></div>
+          <div class="text-center"><a href="https://www.tapdancedetroit.org/#/upcoming" target="_blank"><mdb-btn class="btn-grad">Register</mdb-btn></a></div>
 </mdb-col>
 <mdb-col lg="2">
       </mdb-col>
