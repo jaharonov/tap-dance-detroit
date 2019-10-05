@@ -419,7 +419,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </div>
     <div class="align-items-center justify-content-start pl-3">
     
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Wednesdays or Thursdays 6:00pm-7:30pm</strong></span>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Wednesdays or Thursdays 6:00pm-7:00pm</strong></span>
     <p class="big">This 8-week session is for 8-10 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
 	<p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $140</p>
 	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $105</p>
