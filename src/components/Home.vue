@@ -57,7 +57,7 @@
       </mdb-col>
     </mdb-row>
     <mdb-row class="mt-5 justify-content-center pl-5 pr-5">
-	<h4 class="deep-orange-text big">FALL SPECIAL: 2 weeks of unlimited classes for $29.99 if purchased by Friday, 9/27</h4><br/>
+	<h4 class="deep-orange-text big">FALL SPECIAL: 2 weeks of unlimited classes for $29.99.</h4><br/>
     </mdb-row>
   <mdb-row class="align-items-center justify-content-center p-5">
     <mdb-col lg="6" class="text-justify">
