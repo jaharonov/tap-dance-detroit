@@ -199,7 +199,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:00pm-6:00pm</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>Beginner 2 (2+ years)<br/> Kelsey Rose Young</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						
