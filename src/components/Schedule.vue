@@ -136,13 +136,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>10:30am-11:30am</td>
-						<td>Advanced Beginner (3+ years) <br/> Jamie Hetherington</td>
+						<td>Advanced Beginner (3+ years) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
           <tr scope="row">
-						<td>11:30pm-12:30pm</td>
-						<td>Beginner 1 (0-1 year experience) <br/> Jamie Hetherington</td>
+						<td>12:00pm-1:00pm</td>
+						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
 						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -248,13 +248,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				
 					<tr scope="row">
 						<td>10:30am-11:30am</td>
-						<td>Advanced Beginner (3+ years) <br/> Jamie Hetherington</td>
+						<td>Advanced Beginner (3+ years) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
-						<td>11:30am-12:30pm</td>
-						<td>Beginner 1 (0-1 year experience)<br/>Jamie Hetherington</td>
+						<td>12:00pm-1:00pm</td>
+						<td>Beginner 1 (0-1 year experience)<br/>Denise Caston-Clark</td>
 						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
