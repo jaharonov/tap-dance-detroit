@@ -96,7 +96,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:00pm</td>
-						<td><strong>4:30pm-5:00pm First Shuffles (4-5 year olds)</strong> <br/>Paige Baidel</td>
+						<td><strong>4:30pm-5:00pm First Shuffles (4-5 year olds)</strong> <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
