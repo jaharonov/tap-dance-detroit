@@ -154,7 +154,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>5:30pm-6:30pm</td>
-						<td>Beginner Ballroom and Latin<br/>Emily Rose Merrell</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -221,7 +221,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
           </mdb-modal-footer> -->
         </mdb-modal>
 							<br/>Kelsey Rose Young</td>
-						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
+						<td><strong>6:00pm-7:00pm Teens</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
           <tr scope="row" class="deep-orange lighten-4">
@@ -324,7 +324,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
             <h4 class="title">ROCKette ON Jazz</h4>
           </mdb-modal-header>
           <mdb-modal-body class="grey-text">
-            <p>Learn how to dance like a Rockette from former Radio City Rockette Denise Caston-Clark</p>
+            <p>Learn the precision style jazz of the Radio City Rockettes from a former Rockette herself!</p>
           </mdb-modal-body>
          
         </mdb-modal><br/>Advanced Beginner <br/>
