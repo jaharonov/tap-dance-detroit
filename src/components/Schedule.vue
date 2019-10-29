@@ -108,13 +108,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>6:00pm-7:30pm</td>
-						<td>Advanced Beginner (3+ years)<br/>Paige Baidel</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>Intermediate 1 (4+ years) <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row">
 						<td>7:30pm-9:00pm</td>
-						<td>Intermediate 2 (5+ years)<br/>Paige Baidel</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
