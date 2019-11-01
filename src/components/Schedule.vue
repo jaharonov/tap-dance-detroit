@@ -102,20 +102,20 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>5:00pm-6:00pm</td>
-						<td>RENTAL AVAILABLE</td>
 						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>6:00pm-7:30pm</td>
-						<td>RENTAL AVAILABLE</td>
 						<td>Intermediate 1 (4+ years) <br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row">
 						<td>7:30pm-9:00pm</td>
-						<td>RENTAL AVAILABLE</td>
 						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
@@ -160,14 +160,14 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>6:30pm-7:30pm</td>
-						<td>Intro to Acting and Voice<br/>Emily Rose Merrell</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-8:30pm</td>
 						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
-						<td>Intermediate Latin<br/>Emily Rose Merrell</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
@@ -226,9 +226,9 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
           <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
-						<td>Intermediate 2 (5+ years) <br/>Kelsey Rose Young</td>
 						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
 						<td>(7pm-8pm)<br/>WERQ Fitness with Erica Egrin. This class is $12.</td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
 			</mdb-tbl>
@@ -401,8 +401,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <div class="align-items-center justify-content-start pl-3">
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/><strong class="big">Tuesdays or Thursdays 11:30am-12:00pm</strong> </span>
 	<p class="big">2-3 year olds</p>
-    <p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $100</p>
-	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $75</p>
+    <p>Tuesdays 11/5-12/15 or Thursdays 11/7-12/17 $100</p>
+	
 	</div>
     <div class="mt-5 align-items-center justify-content-start p-3">
 	<h4 class="deep-orange-text big">FIRST SHUFFLES</h4>
