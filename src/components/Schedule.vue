@@ -401,7 +401,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <div class="align-items-center justify-content-start pl-3">
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/><strong class="big">Tuesdays or Thursdays 11:30am-12:00pm</strong> </span>
 	<p class="big">2-3 year olds</p>
-    <p>Tuesdays 11/5-12/15 or Thursdays 11/7-12/17 $100</p>
+    <p>Tuesdays 11/5-12/15 or Thursdays 11/7-12/17 $75</p>
 	
 	</div>
     <div class="mt-5 align-items-center justify-content-start p-3">
