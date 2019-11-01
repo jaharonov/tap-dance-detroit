@@ -221,7 +221,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
           </mdb-modal-footer> -->
         </mdb-modal>
 							<br/>Kelsey Rose Young</td>
-						<td><strong>6:00pm-7:00pm Tap Fundamentals For Teens</strong><br/>Denise Caston-Clark</td>
+						<td><strong>6:00pm-7:00pm Tap Fundamentals For Teens(11/6-12/18)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
           <tr scope="row" class="deep-orange lighten-4">
