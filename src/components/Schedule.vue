@@ -362,7 +362,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>12:30pm-2:00pm</td>
-						<td>Advanced Beginner Jazz (no tap!)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>Intermediate 1-2<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
