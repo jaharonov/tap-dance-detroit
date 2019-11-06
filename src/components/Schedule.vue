@@ -199,14 +199,15 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:00pm-6:00pm</td>
-						<td>Beginner 2 (2+ years)<br/> Kelsey Rose Young</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						
 					</tr>
 					<tr scope="row">
 						<td>6:00pm-7:30pm</td>
-						<td><mdb-btn @click.native="modal = true" outline="red">2 FIT 2 QUIT</mdb-btn>
+						<td>RENTAL AVAILABLE</td>
+						<!-- <td><mdb-btn @click.native="modal = true" outline="red">2 FIT 2 QUIT</mdb-btn>
         <mdb-modal :show="modal" @close="modal = false" cascade class="text-left">
           <mdb-modal-header class="red white-text">
             <h4 class="title">2 FIT 2 QUIT</h4>
@@ -215,12 +216,9 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
             <p>2 Fit 2 Quit is a stretch and strengthen class that will focus on core, upper body and lowe body strengthening, 
 				while stretching to improve flexibility and promote long lean muscles.</p>
           </mdb-modal-body>
-          <!-- <mdb-modal-footer>
-            <mdb-btn color="secondary" @click.native="showModal = false">Close</mdb-btn>
-            <mdb-btn color="primary">Save changes</mdb-btn>
-          </mdb-modal-footer> -->
+          
         </mdb-modal>
-							<br/>Kelsey Rose Young</td>
+							<br/>Kelsey Rose Young</td> -->
 						<td><strong>6:00pm-7:00pm Tap Fundamentals For Teens(11/6-12/18)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
