@@ -1,6 +1,6 @@
 <template>
   <mdb-container>
-    <mdb-row class="mx-auto pt-2">
+    <!-- <mdb-row class="mx-auto pt-2">
         <h1 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">Tap Dance Detroit presents: Fall Masters Series featuring Women In Tap</h1>
     </mdb-row>
     <mdb-row class="mx-auto pt-2">
@@ -180,7 +180,7 @@
                She has performed with <i>The Chamber Orchestra Kremlin</i>, choreographed for and performed at Jacob’s Pillow, and with  members of <i>The Tap Collective</i>, 
                choreographed and performed the Morton Gould Tap Dance Concerto with the Brooklyn Symphony Orchestra. <a href="www.lynneschwabtapz.com" class="red-text">www.lynnschwabtapz.com</a></p>
 </mdb-col>
-    </mdb-row>
+    </mdb-row> -->
     
   </mdb-container>
 </template>

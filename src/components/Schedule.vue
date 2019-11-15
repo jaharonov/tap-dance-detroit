@@ -136,7 +136,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>10:30am-11:30am</td>
-						<td>Advanced Beginner (3+ years) <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -246,7 +246,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				
 					<tr scope="row">
 						<td>10:30am-11:30am</td>
-						<td>Advanced Beginner (3+ years) <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -315,7 +315,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>6:00pm-7:30pm</td>
-						<td>Advanced Beginner (3+ years)<br/>Jer Vernier</td>
+						<td>RENTAL AVAILABLE</td>
 						<td><mdb-btn @click.native="showRock = true" outline="red">ROCKette ON Jazz</mdb-btn>
         <mdb-modal :show="showRock" @close="showRock = false" cascade class="text-left">
           <mdb-modal-header class="red white-text">

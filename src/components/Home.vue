@@ -71,7 +71,7 @@
     </ul>
 	</mdb-col>
   </mdb-row>
-    <mdb-row class="mx-auto pt-3">
+    <!-- <mdb-row class="mx-auto pt-3">
       <mdb-col lg="2">
           
       </mdb-col>
@@ -85,7 +85,7 @@
 </mdb-col>
 <mdb-col lg="2">
       </mdb-col>
-    </mdb-row>
+    </mdb-row> -->
     <!-- <mdb-row class="mx-auto">
         <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
     </mdb-row> -->
