@@ -71,10 +71,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </mdb-row>
   
 <section class="demo-section pt-5" id="schedule">
-	<h2 class="red-text"><mdb-icon fab icon="canadian-maple-leaf" size="2x" />FALL SCHEDULE<mdb-icon fab icon="canadian-maple-leaf" size="2x" /></h2>
+	<h2 class="red-text text-center"><mdb-icon icon="snowflake" size="2x" /><strong> FALL 2 AND WINTER 1 SCHEDULE </strong><mdb-icon icon="snowflake" size="2x" /></h2>
 	<mdb-row class="mt-5 align-items-center justify-content-center p-3">
 
-    <h4 class="deep-orange-text">Fall schedule starts September 3rd for adults and September 9th for youth.</h4>
+    <h4 class="red-text">Winter schedule starts January 4!</h4> 
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">Register here!</mdb-btn></a>
+	
     </mdb-row>
 		<h4>Monday</h4>
 		<section>
@@ -97,13 +99,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row">
 						<td>4:00pm-5:00pm</td>
 						<td><strong>4:30pm-5:00pm First Shuffles (4-5 year olds)</strong> <br/>Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
+						<td><strong>4:30-5:30pm Winter 1 Shuffles and Chassés Tap/Jazz Bundle - $175</strong></td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>5:00pm-6:00pm</td>
 						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>5:00pm-5:30pm <strong>January 4-February 24</strong> Jazz 1 Winter 1 session, 4-6 year-olds - $100</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
@@ -135,8 +137,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 				
 					<tr scope="row" class="deep-orange lighten-4">
-						<td>10:30am-11:30am</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>11:30am-12:00pm</td>
+						<td>Wee Shuffles Winter 1 session - January 7-February 25 - $100</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -192,34 +194,22 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>4:00pm-4:30pm</td>
-						<td><strong> 4:30pm-5:00pm First Shuffles (4-5 year olds)</strong><br/>Denise Caston-Clark</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>4:00pm-5:00pm</td>
+						<td><strong> 4:30pm-5:00pm First Shuffles (4-6 year olds) </strong><br/>(Winter 1 session January 4-February 24: $100)<br/>Denise Caston-Clark</td>
+						<td><strong>4:30-5:30pm Winter 1 Shuffles and Chassés Tap/Jazz Bundle, January 4-February 24: $175</strong></td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:00pm-6:00pm</td>
-						<td>RENTAL AVAILABLE</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
+						<td>5:00pm-5:30pm <strong>January 4-February 24</strong> Jazz 1 Winter 1 session, 4-6 year-olds - $100</td>
 						<td>RENTAL AVAILABLE</td>
 						
 					</tr>
 					<tr scope="row">
-						<td>6:00pm-7:30pm</td>
-						<td>RENTAL AVAILABLE</td>
-						<!-- <td><mdb-btn @click.native="modal = true" outline="red">2 FIT 2 QUIT</mdb-btn>
-        <mdb-modal :show="modal" @close="modal = false" cascade class="text-left">
-          <mdb-modal-header class="red white-text">
-            <h4 class="title">2 FIT 2 QUIT</h4>
-          </mdb-modal-header>
-          <mdb-modal-body class="grey-text">
-            <p>2 Fit 2 Quit is a stretch and strengthen class that will focus on core, upper body and lowe body strengthening, 
-				while stretching to improve flexibility and promote long lean muscles.</p>
-          </mdb-modal-body>
-          
-        </mdb-modal>
-							<br/>Kelsey Rose Young</td> -->
-						<td><strong>6:00pm-7:00pm Tap Fundamentals For Teens(11/6-12/18)</strong><br/>Denise Caston-Clark</td>
+						<td>6:00pm-7:00pm</td>
+						<td>ABSOLUTE beginner series for adults - January 6-February 12 - $105</td>
+						<td><strong>Tap Fundamentals For Teens(11/6-12/18)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
           <tr scope="row" class="deep-orange lighten-4">
@@ -270,15 +260,15 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>6:00pm-7:30pm</td>
-						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
-						<td>Advanced Beginner (3+ years)<br/>Lisa Allai-Stop</td>
-						<td>RENTAL AVAILABLE</td>
+						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark<br/>(Young Shuffles Winter 1 session, 7-10 year-olds - $120)</td>
+						<td>Advanced Beginner (3+ years)<br/>Lisa Allai-Stop<br/></td>
+						<td><strong>6:45pm-7:30pm</strong> Jazz 1 Winter 1 session, 7-10 year-olds - $120</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate/Advanced Broadway Style <br/>Denise Caston-Clark </td>
 						<td>Intermediate 1 (4+ years) <br/>Lisa Allai-Stop</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>Winter 1 Shuffles and Chassés Tap/Jazz Bundle, 7-10 year-olds: $220</td>
 					</tr>
 				</mdb-tbl-body>
 			</mdb-tbl>
@@ -353,9 +343,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>11:00am-12:30pm</td>
 						<td>Intermediate Jazz (no tap!)<br/>Denise Caston-Clark</td>
-						<td><strong>11:00am-12:00pm <br/>8-WEEK SESSION FROM 9/14-11/2 <br/>6-7 Year-Old Tap/Jazz Combo</strong><br/>Molly Sute<hr/>
-						<strong>12:00pm-12:30pm <br/>8-WEEK SESSION FROM 9/14-11/2 <br/>First Shuffles (4-5 years old)</strong><br/>Molly Sute
-						</td>
+						<td><strong>11:00-12:00</strong> Winter 1 Shuffles and Chassés Tap/Jazz Bundle, 6-8 year-olds - $160</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
@@ -379,6 +367,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				</mdb-tbl-body>
 			</mdb-tbl>
 		</section>
+
+		
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
@@ -407,8 +397,9 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </div>
     <div class="align-items-center justify-content-start pl-3">
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Mondays or Wednesdays 4:30pm-5:00pm or Saturdays from 12:00pm-12:30pm</strong></span>
-    <p class="big">This 8-week session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
-	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $75</p>
+    <p class="big">This session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
+	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th: $75</p>
+	<p>Winter 1: 8-week January 3-February 24: $100</p>
 	</div>
   <!-- <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text big">SECOND SHUFFLES</h4>
