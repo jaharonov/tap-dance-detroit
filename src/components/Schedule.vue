@@ -375,8 +375,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	</mdb-row>
 	</section>
 <section class="demo-section pt-5" id="schedule">
-	<h2 class="red-text text-center"><mdb-icon icon="snowflake" size="2x" /><strong>WINTER SCHEDULE</strong><mdb-icon icon="snowflake" size="2x" /></h2>
-	<mdb-row class="mt-5 align-items-center justify-content-center p-3">
+	<h2 class="red-text text-center"><mdb-icon icon="snowflake" size="2x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="2x" /></h2>
+	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="winter">
 
     <h4 class="red-text">Winter schedule starts January 4!</h4> 
 				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">Register here!</mdb-btn></a>

@@ -1,13 +1,15 @@
 <template>
   <mdb-container fluid>
-    <mdb-row class="align-items-center p-5">
-      <mdb-col size="6" class="text-center p-3 img-fluid-grow mx-auto">
+    <mdb-row class="align-items-center p-5 ml-5">
+      <mdb-col size="6" class="text-center img-fluid-grow mx-auto">
         <mdb-carousel :interval="8000">
-    <mdb-carousel-item img src="/static/tdd_home_1.jpg" alt="First slide" />
-    <mdb-carousel-item img src="/static/tdd_home_2.jpg" alt="Second slide" />
+    <mdb-carousel-item img src="/static/absolute_beginner.png" alt="First slide" />
+    <mdb-carousel-item img src="/static/tdd_home_1.jpg" alt="Second slide" />
+    <mdb-carousel-item img src="/static/tdd_home_2.jpg" alt="Third slide" />
   </mdb-carousel>
+  <a href="https://www.tapdancedetroit.org/#/winter"><mdb-btn outline="red">SEE WINTER SCHEDULE!</mdb-btn></a>
       </mdb-col>
-      <mdb-col size="6" class="text-center mb-5">
+      <mdb-col size="6" class="text-center img-fluid-grow mx-auto">
         <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view pb-2" style="max-height: 15rem;"/><br/>
         <a href="https://www.facebook.com/tapdancedetroit/" target="_blank"><img src="/static/facebook-logo.png" class="p-2"/></a>
         <a href="https://www.instagram.com/tapdancedetroit/" target="_blank"><img src="/static/instagram-logo.png" class="p-2"/></a>
@@ -30,12 +32,6 @@
             <h4 class="title"><fa class="fas fa-pencil-alt" />CONTACT US!</h4>
           </mdb-modal-header>
           <mdb-modal-body class="grey-text">
-            <!-- <form method="POST" action="https://formspree.io/j.aharonov@gmail.com">
-  <input type="email" name="Email" placeholder="Your email">
-  <textarea name="Name" placeholder="Your name"></textarea>
-  <textarea name="message" placeholder="Your message"></textarea>
-  <button type="submit">Send Test</button>
-</form> -->
 <form method="POST" action="https://formspree.io/info@tapdancedetroit.org">
     <p class="h4 text-center mb-4">Private lessons are available. Contact us for more info!</p>
     <div class="grey-text">
@@ -49,10 +45,6 @@
     </div>
   </form>
           </mdb-modal-body>
-          <!-- <mdb-modal-footer>
-            <mdb-btn color="secondary" @click.native="showModal = false">Close</mdb-btn>
-            <mdb-btn color="primary">Save changes</mdb-btn>
-          </mdb-modal-footer> -->
         </mdb-modal>
       </mdb-col>
     </mdb-row>
@@ -71,42 +63,7 @@
     </ul>
 	</mdb-col>
   </mdb-row>
-    <!-- <mdb-row class="mx-auto pt-3">
-      <mdb-col lg="2">
-          
-      </mdb-col>
-      <mdb-col lg="4" class="pt-1">
-          <img src="/static/beatles-on-tap-show.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-          <div class="text-center"><a href="https://www.ticketweb.com/event/beatles-on-tap-the-magic-bag-tickets/9815475?pl=magicbag" target="_blank"><mdb-btn class="btn-grad">Tickets</mdb-btn></a></div>
-      </mdb-col>
-      <mdb-col lg="4" class="justify-content-center align-items-right">
-          <img src="/static/women-in-tap.png" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-          <div class="text-center"><a href="https://www.tapdancedetroit.org/#/upcoming" target="_blank"><mdb-btn class="btn-grad">Register</mdb-btn></a></div>
-</mdb-col>
-<mdb-col lg="2">
-      </mdb-col>
-    </mdb-row> -->
-    <!-- <mdb-row class="mx-auto">
-        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
-    </mdb-row> -->
     <section class="logo pb-5">
-    <!-- <section class="logo pb-5"> -->
-    
-    <!-- <mdb-row class="mx-auto pb-5">
-    <div class="mx-auto text-center big">
-    <mdb-btn outline="deep-orange" @click.native="modal = true">PRIVATE LESSONS AVAILABLE</mdb-btn>
-    <mdb-modal :show="modal" @close="modal = false">
-      <mdb-modal-header>
-        <mdb-modal-title>Private Lessons</mdb-modal-title>
-      </mdb-modal-header>
-      <mdb-modal-body>Private lessons are available! For more info, please email <a class="red-text" href="mailto:info@tapdancedetroit.org.">info@tapdancedetroit.org</a> or call 917-687-4811.</mdb-modal-body>
-      <mdb-modal-footer>
-        <mdb-btn outline="deep-orange" @click.native="modal = false">Close</mdb-btn>
-      </mdb-modal-footer>
-    </mdb-modal>
-  </div>
-  </mdb-row> -->
-    <!-- </section> -->
     <mdb-row>
       <img src="/static/landing-class-photo.png" class="img-fluid z-depth-1 jump" style="width: 100%;"/>
     </mdb-row>
@@ -118,28 +75,8 @@
             </div>
           </mdb-row>
     </section>
-    <!-- <mdb-row class="mx-auto">
-        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/>
-    </mdb-row> -->
-    <!-- <mdb-row class="mx-auto pb-5">
-    <div class="mx-auto text-center big">
-    <mdb-btn outline="deep-orange" @click.native="modal = true">PRIVATE LESSONS AVAILABLE<br/>CLICK FOR MORE INFO</mdb-btn>
-    <mdb-modal :show="modal" @close="modal = false">
-      <mdb-modal-header>
-        <mdb-modal-title>Private Lessons</mdb-modal-title>
-      </mdb-modal-header>
-      <mdb-modal-body>Private lessons are available! For more info, please email info@tapdancedetroit.org.</mdb-modal-body>
-      <mdb-modal-footer>
-        <mdb-btn outline="deep-orange" @click.native="modal = false">Close</mdb-btn>
-      </mdb-modal-footer>
-    </mdb-modal>
-  </div>
-  </mdb-row> -->
-  
   </mdb-container>
-  
 </template>
-
 <script>
 import { mdbInput, mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter, mdbCarousel, mdbCarouselItem } from 'mdbvue';
   export default {
