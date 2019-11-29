@@ -7,7 +7,7 @@
     <mdb-carousel-item img src="/static/tdd_home_1.jpg" alt="Second slide" />
     <mdb-carousel-item img src="/static/tdd_home_2.jpg" alt="Third slide" />
   </mdb-carousel>
-  <a href="#/schedule"><mdb-btn outline="red">SEE SCHEDULE!</mdb-btn></a>
+  <router-link to="/schedule"><mdb-btn outline="red">SEE SCHEDULE!</mdb-btn></router-link>
       </mdb-col>
       <mdb-col size="6" class="text-center img-fluid-grow mx-auto">
         <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view pb-2" style="max-height: 15rem;"/><br/>

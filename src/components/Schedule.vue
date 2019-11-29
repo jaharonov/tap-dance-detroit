@@ -348,8 +348,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>12:30pm-2:00pm</td>
-						<td>RENTAL AVAILABLE</td>
 						<td>Intermediate 1-2<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
@@ -375,11 +375,11 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	</mdb-row>
 	</section>
 <section class="demo-section pt-5" id="schedule">
-	<h2 class="red-text text-center"><mdb-icon icon="snowflake" size="2x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="2x" /></h2>
+	<h2 class="blue-text text-center"><mdb-icon icon="snowflake" size="2x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="2x" /></h2>
 	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="winter">
 
-    <h4 class="red-text">Winter schedule starts January 4!</h4> 
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">Register here!</mdb-btn></a>
+    <h4 class="blue-text">Winter schedule starts January 4!</h4> 
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="blue">Register here!</mdb-btn></a>
 	
     </mdb-row>
 		<h4>Monday</h4>
@@ -394,7 +394,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 				</mdb-tbl-head>
 				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row" class="blue lighten-4">
 						<td>12:00pm-1:00pm</td>
 						<td>Beginner 1 (0-1 year experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
@@ -406,19 +406,19 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row">
+					<tr scope="row" class="blue lighten-4">
 						<td>5:00pm-6:00pm</td>
 						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
 						<td><strong>5:00pm-5:30pm</strong>Jazz 1 Winter 1 session: 4-6 year-olds</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row">
 						<td>6:00pm-7:30pm</td>
 						<td>Intermediate 1 (4+ years) <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row">
+                    <tr scope="row" class="blue lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
@@ -440,7 +440,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				</mdb-tbl-head>
 				<mdb-tbl-body>
 				
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row" class="blue lighten-4">
 						<td>11:30am-12:00pm</td>
 						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
@@ -452,7 +452,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
+                    <tr scope="row" class="blue lighten-4">
 						<td>4:00pm-5:00pm</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
@@ -464,13 +464,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row">
+					<tr scope="row" class="blue lighten-4">
 						<td>6:30pm-7:30pm</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
+                    <tr scope="row">
 						<td>7:30pm-8:30pm</td>
 						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
 						<td>RENTAL AVAILABLE</td>
@@ -491,7 +491,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 				</mdb-tbl-head>
 				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row" class="blue lighten-4">
 						<td>1:00pm-2:30pm</td>
 						<td>Beginner 1 (0-1 year experience) <br/>Nia Silao </td>
 						<td>RENTAL AVAILABLE</td>
@@ -503,7 +503,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row" class="blue lighten-4">
 						<td>5:00pm-6:00pm</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td><strong>5:00pm-5:30pm</strong> Jazz 1 Winter 1 session, 4-6 year-olds</td>
@@ -516,7 +516,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td><strong>Tap Fundamentals For Teens(11/6-12/18)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-          <tr scope="row" class="deep-orange lighten-4">
+          <tr scope="row" class="blue lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
 						<td>(7pm-8pm)<br/>WERQ Fitness with Erica Egrin. (This class is $12.)</td>
@@ -538,37 +538,37 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				</mdb-tbl-head>
 				<mdb-tbl-body>
 				
-					<tr scope="row">
+					<tr scope="row" class="blue lighten-4">
 						<td>10:30am-11:30am</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row">
 						<td>12:00pm-1:00pm</td>
 						<td>Beginner 1 (0-1 year experience)<br/>Denise Caston-Clark</td>
 						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row">
+					<tr scope="row" class="blue lighten-4">
 						<td>12:30pm-4:30pm</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
+                    <tr scope="row">
 						<td>5:00pm-6:00pm</td>
 						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark<br/>(5+ years) </td>
 						<td>Beginner 2 (2+ years)<br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row">
+                    <tr scope="row" class="blue lighten-4">
 						<td>6:00pm-7:30pm</td>
 						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
 						<td>Advanced Beginner (3+ years)<br/>Lisa Allai-Stop<br/></td>
 						<td><strong>6:45pm-7:30pm</strong>Jazz 1 Winter 1 session, 4-6 year-olds</td>
 					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
+                    <tr scope="row">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate/Advanced Broadway Style <br/>Denise Caston-Clark </td>
 						<td>Intermediate 1 (4+ years) <br/>Lisa Allai-Stop</td>
@@ -589,7 +589,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 				</mdb-tbl-head>
 				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row" class="blue lighten-4">
 						<td>12:00pm-1:00pm</td>
 						<td>Beginner 1 (0-1 year experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
@@ -601,7 +601,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row" class="blue lighten-4">
 						<td>5:00pm-6:00pm</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
@@ -623,7 +623,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 		Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
+                    <tr scope="row" class="blue lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 2 (5+ years) <br/>Jer Vernier</td>
 						<td>Beginner 1 (0-1 year experience)<br/>Denise Caston-Clark</td>
@@ -644,7 +644,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 				</mdb-tbl-head>
 				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row" class="blue lighten-4">
 						<td>11:00am-12:30pm</td>
 						<td>Intermediate Jazz (no tap!)<br/>Denise Caston-Clark</td>
 						<td><strong>11:00am-12:00pm<br/>6-7 Year-Old Tap/Jazz Combo</strong><br/>Molly Sute<hr/>
@@ -654,11 +654,11 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>12:30pm-2:00pm</td>
-						<td>RENTAL AVAILABLE</td>
 						<td>Intermediate 1-2<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
+					<tr scope="row" class="blue lighten-4">
 						<td>2:00pm-3:30pm</td>
 						<td>Beginner 1 (0-1 year experience)<br/> Lisa Allai-Stop </td>
 						<td>RENTAL AVAILABLE</td>
@@ -678,7 +678,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">Register for classes!</mdb-btn></a>
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="blue">Register for classes!</mdb-btn></a>
 	</div>
 	</mdb-row>
 	</section>
@@ -748,6 +748,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	    <div class="align-items-center justify-content-center p-5">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <a href="#schedule"><mdb-btn class="btn-grad"><mdb-icon fab icon="canadian-maple-leaf" size="2x" /><br/>VIEW FULL FALL SCHEDULE</mdb-btn></a>
+		<a href="#winter"><mdb-btn class="btn-grad2"><mdb-icon icon="snowflake" size="2x" /><br/>VIEW FULL WINTER SCHEDULE</mdb-btn></a>
         
     </div>
    </mdb-col>
@@ -832,6 +833,9 @@ body {
 	margin-top: -1px;
 }
 .btn-grad {background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%)}
+.btn-grad:hover { background-position: right center; }
+
+.btn-grad2 {background-image: linear-gradient(to right, #3F69FF 0%, #80DFFF 51%, #3F69FF 100%)}
 .btn-grad:hover { background-position: right center; }
 
 </style>
