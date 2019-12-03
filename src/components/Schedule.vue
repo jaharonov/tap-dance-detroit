@@ -5,7 +5,7 @@
   </mdb-row>
 	
   <mdb-row class="mt-5 justify-content-start p-5">
-	<h4 class="deep-orange-text big">FALL SPECIAL: 2 weeks of unlimited classes for $29.99.</h4><br/>
+	<h4 class="deep-orange-text big">NEW STUDENT SPECIAL: 2 weeks of unlimited classes for $29.99.</h4><br/>
     <h4 class="grey-text big">Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
 We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</h4>
   </mdb-row>
@@ -72,9 +72,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
   <section class="demo-section pt-5" id="schedule">
 	<h2 class="red-text text-center"><mdb-icon fab icon="canadian-maple-leaf" size="2x" />FALL SCHEDULE<mdb-icon fab icon="canadian-maple-leaf" size="2x" /></h2>
 	<mdb-row class="mt-5 align-items-center justify-content-center p-3">
-
     <h4 class="deep-orange-text">Fall schedule starts September 3rd for adults and September 9th for youth.</h4>
     </mdb-row>
+	<mdb-row class="mt-5 align-items-center justify-content-center p-1">
+    <a href="#winter"><mdb-btn class="btn-grad2"><mdb-icon icon="snowflake" size="2x" /><br/>VIEW FULL WINTER SCHEDULE</mdb-btn></a><br/>
+    </mdb-row>
+	
 		<h4>Monday</h4>
 		<section>
 			<mdb-tbl bordered>
@@ -379,7 +382,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="winter">
 
     <h4 class="blue-text">Winter schedule starts January 4!</h4> 
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="blue">Register here!</mdb-btn></a>
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="blue">Register for Winter Session!</mdb-btn></a>
 	
     </mdb-row>
 		<h4>Monday</h4>
