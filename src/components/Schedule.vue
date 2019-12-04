@@ -104,13 +104,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>5:00pm-6:00pm</td>
-						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
+						<td>Beginner 2 (2+ years experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>6:00pm-7:30pm</td>
-						<td>Intermediate 1 (4+ years) <br/>Denise Caston-Clark</td>
+						<td>Intermediate 1 (4+ years experience) <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -167,7 +167,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
-						<td>7:30pm-8:30pm</td>
+						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
@@ -201,16 +201,15 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:00pm-6:00pm</td>
+						<td>Intermediate 1 (4+ years experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
-						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						
 					</tr>
 					<tr scope="row">
 						<td>6:00pm-7:30pm</td>
-						<td>RENTAL AVAILABLE</td>
-						
 						<td><strong>6:00pm-7:00pm Tap Fundamentals For Teens(11/6-12/18)</strong><br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
           <tr scope="row" class="deep-orange lighten-4">
@@ -256,19 +255,19 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>5:00pm-6:00pm</td>
 						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark<br/>(5+ years) </td>
-						<td>Beginner 2 (2+ years)<br/>Lisa Allai-Stop</td>
+						<td>Beginner 2 (2+ years experience)<br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row">
 						<td>6:00pm-7:30pm</td>
 						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
-						<td>Advanced Beginner (3+ years)<br/>Lisa Allai-Stop</td>
+						<td>Advanced Beginner (3+ years experience)<br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate/Advanced Broadway Style <br/>Denise Caston-Clark </td>
-						<td>Intermediate 1 (4+ years) <br/>Lisa Allai-Stop</td>
+						<td>Intermediate 1 (4+ years experience) <br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
@@ -301,7 +300,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>5:00pm-6:00pm</td>
 						<td>RENTAL AVAILABLE</td>
-						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
@@ -343,7 +342,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>11:00am-12:30pm</td>
-						<td>Intermediate Jazz (no tap!)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td><strong>11:00am-12:00pm <br/>8-WEEK SESSION FROM 9/14-11/2 <br/>6-7 Year-Old Tap/Jazz Combo</strong><br/>Molly Sute<hr/>
 						<strong>12:00pm-12:30pm <br/>8-WEEK SESSION FROM 9/14-11/2 <br/>First Shuffles (4-5 years old)</strong><br/>Molly Sute
 						</td>
@@ -351,7 +350,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>12:30pm-2:00pm</td>
-						<td>Intermediate 1-2<br/>Denise Caston-Clark</td>
+						<td>Intermediate 1-2 (4+ years experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -363,7 +362,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>3:30pm-5:00pm</td>
-						<td>Intermediate 1<br/> Lisa Allai-Stop </td>
+						<td>Intermediate 1 (4+ years experience)<br/> Lisa Allai-Stop </td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -410,14 +409,14 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="blue lighten-4">
-						<td>5:00pm-6:00pm</td>
-						<td>Beginner 2 (2+ years<br/>Denise Caston-Clark</td>
-						<td><strong>5:00pm-5:30pm</strong>Jazz 1 Winter 1 session: 4-6 year-olds</td>
+						<td>5:00pm-4:30pm</td>
+						<td>Jazz 1 Winter 1 session: 4-6 year-olds</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>6:00pm-7:30pm</td>
-						<td>Intermediate 1 (4+ years) <br/>Denise Caston-Clark</td>
+						<td>6:30pm-7:30pm</td>
+						<td>Intermediate 1 (4+ years experience) <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -474,7 +473,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row">
-						<td>7:30pm-8:30pm</td>
+						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 1-2 Broadway Style <br/>Denise Caston-Clark </td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
@@ -507,18 +506,25 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="blue lighten-4">
-						<td>5:00pm-6:00pm</td>
-						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
+						<td>5:00pm-5:30pm</td>
 						<td><strong>5:00pm-5:30pm</strong> Jazz 1 Winter 1 session, 4-6 year-olds</td>
 						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
 						
+					</tr>
+					<tr scope="row" class="blue lighten-4">
+						<td>5:30pm-6:30pm</td>
+						<td>Tap Fundamentals for Teens</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>6:00pm-7:00pm</td>
 						<td>ABSOLUTE Beginner Series for Adults</td>
-						<td><strong>Tap Fundamentals For Teens(11/6-12/18)</strong><br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
+					
           <tr scope="row" class="blue lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
@@ -561,20 +567,20 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>5:00pm-6:00pm</td>
-						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark<br/>(5+ years) </td>
-						<td>Beginner 2 (2+ years)<br/>Lisa Allai-Stop</td>
+						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="blue lighten-4">
 						<td>6:00pm-7:30pm</td>
-						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
-						<td>Advanced Beginner (3+ years)<br/>Lisa Allai-Stop<br/></td>
+						<td><strong>6:00pm-6:45pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark<hr/>6:45pm-7:30pm<br/>Jazz 1 (8-10 year olds)</td>
+						<td>Advanced Beginner (3+ years experience)<br/>Lisa Allai-Stop<br/></td>
 						<td><strong>6:45pm-7:30pm</strong>Jazz 1 Winter 1 session, 4-6 year-olds</td>
 					</tr>
                     <tr scope="row">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate/Advanced Broadway Style <br/>Denise Caston-Clark </td>
-						<td>Intermediate 1 (4+ years) <br/>Lisa Allai-Stop</td>
+						<td>Intermediate 1 (4+ years experience) <br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
@@ -607,13 +613,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="blue lighten-4">
 						<td>5:00pm-6:00pm</td>
 						<td>RENTAL AVAILABLE</td>
-						<td>Intermediate 1 (4+ years)<br/>Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>6:00pm-7:30pm</td>
 						<td>RENTAL AVAILABLE</td>
-						<td><mdb-btn @click.native="showRock = true" outline="red">ROCKette ON Jazz</mdb-btn>
+						<td><mdb-btn @click.native="showRock = true" outline="blue">ROCKette ON Jazz</mdb-btn>
         <mdb-modal :show="showRock" @close="showRock = false" cascade class="text-left">
           <mdb-modal-header class="red white-text">
             <h4 class="title">ROCKette ON Jazz</h4>
@@ -650,14 +656,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="blue lighten-4">
 						<td>11:00am-12:30pm</td>
 						<td>Intermediate Jazz (no tap!)<br/>Denise Caston-Clark</td>
-						<td><strong>11:00am-12:00pm<br/>6-7 Year-Old Tap/Jazz Combo</strong><br/>Molly Sute<hr/>
-						<strong>12:00pm-12:30pm<br/>First Shuffles (4-5 years old)</strong><br/>Molly Sute
-						</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>12:30pm-2:00pm</td>
-						<td>Intermediate 1-2<br/>Denise Caston-Clark</td>
+						<td>Intermediate 1-2 (4+ years experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -669,7 +673,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>3:30pm-5:00pm</td>
-						<td>Intermediate 1<br/> Lisa Allai-Stop </td>
+						<td>Intermediate 1 (4+ years experience)<br/> Lisa Allai-Stop </td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -693,49 +697,53 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <a id="youth"><h3 class="grey-text big">TDD YOUTH PROGRAM</h3></a>
 	</div>
 	<div class="mt-5 align-items-center justify-content-start p-3">
-	<h4 class="deep-orange-text big">WEE SHUFFLES</h4>
+	<h4 class="deep-orange-text big">2-3 YEAR-OLDS</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/><strong class="big">Tuesdays or Thursdays 11:30am-12:00pm</strong> </span>
-	<p class="big">2-3 year olds</p>
-    <p>Tuesdays 11/5-12/15 or Thursdays 11/7-12/17 $75</p>
-	
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/><strong class="big"> Tuesdays or Thursdays 11:30am-12:00pm</strong> </span>
+	<p class="big"><strong> January 7-February 25 - $100</strong></p>
+
 	</div>
     <div class="mt-5 align-items-center justify-content-start p-3">
-	<h4 class="deep-orange-text big">FIRST SHUFFLES</h4>
+	<h4 class="deep-orange-text big">4-6 YEAR-OLDS</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Mondays or Wednesdays 4:30pm-5:00pm or Saturdays from 12:00pm-12:30pm</strong></span>
-    <p class="big">This session is for 4-5 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
-	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th: $75</p>
-	<p>Winter 1: 8-week January 3-February 24: $100</p>
-	<p>Winter 1: Shuffles and Chassés Tap/Jazz Bundle - January 4-February 24: $175. Mondays or Wednesdays 4:30pm-5:30pm</p>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Mondays or Wednesdays 4:30pm-5:00pm</strong></span>
+    <p class="big">This session is for 4-6 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
+	<p class="big"><strong>Winter 1: 8-week January 3-February 24: $100</strong></p>
+	<p class="big"><strong>Winter 1: Shuffles and Chassés Tap/Jazz Bundle - January 4-February 24: $175. Mondays or Wednesdays 4:30pm-5:30pm</strong></p>
 	</div>
-  <!-- <div class="mt-5 align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text big">SECOND SHUFFLES</h4>
+  <div class="mt-5 align-items-center justify-content-start p-3">
+    <h4 class="deep-orange-text big">6-8 YEAR-OLDS</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
     
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Tuesdays 4:00pm-5:00pm</strong></span>
-    <p class="big">This 8-week session is for 6-7 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
-	<p><p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $120</p>
-	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $90</p>
-  </div>  -->
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">COMING SOON</strong></span>
+    
+  </div> 
 
   <div class="mt-5 align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text big">YOUNG SHUFFLES</h4>
+    <h4 class="deep-orange-text big">8-10 YEAR-OLDS</h4>
     </div>
     <div class="align-items-center justify-content-start pl-3">
     
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Wednesdays or Thursdays 6:00pm-7:00pm</strong></span>
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Wednesdays or Thursdays 6:00pm-7:30pm</strong></span>
     <p class="big">This 8-week session is for 8-10 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
-	<p>Fall 1: 8-week session starting the week of September 9th and ending the week of October 28th. $140</p>
-	<p>Fall 2: 6-week session starting on the week of November 4th and ending the week of December 16th. $105</p>
-	<p>Thursdays 6:00-7:30 Winter 1 Shuffles and Chassés Tap/Jazz Bundle, 7-10 year-olds - $220</p>
-	<p>Saturdays 11:00-12:00 Winter 1 Shuffles and Chassés Tap/Jazz Bundle, 6-8 year-olds - $160
-</p>
+	<p class="big"><strong>6:00pm-6:45pm Young Shuffles Tap 1 for 8-10 year-olds - $120</strong></p>
+	<p class="big"><strong>6:45pm-7:30pm Jazz 1 for 8-10 year-olds - $120</strong></p>
+	<p class="big"><strong>Take both classes! Tap/Jazz Bundle - $220</strong></p>
+	
   </div> 
   
+  <div class="mt-5 align-items-center justify-content-start p-3">
+    <h4 class="deep-orange-text big">TEENS/TWEENS</h4>
+    </div>
+    <div class="align-items-center justify-content-start pl-3">
+    
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Wednesdays 5:30pm-6:30pm</strong></span>
+    <p class="big">Tap Fundamentals for Teens</p>
+	
+  </div> 
 	<!-- <div class="mt-5 align-items-center justify-content-start p-3">
     <h4 class="deep-orange-text">Fall schedule starts September 8th. Details coming soon!</h4>
     </div> -->
