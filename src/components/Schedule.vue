@@ -344,6 +344,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>11:00am-12:30pm</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>12:30pm-2:00pm</td>
@@ -375,10 +376,10 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	</section>
 <section class="demo-section pt-5" id="schedule">
 	<h2 class="blue-text text-center"><mdb-icon icon="snowflake" size="2x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="2x" /></h2>
-	<mdb-row class="mt-5 align-items-center justify-content-center p-3" id="winter">
+	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
 
     <h4 class="blue-text">Winter schedule starts January 4!</h4> 
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="blue">Register for Winter Session!</mdb-btn></a>
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR WINTER SESSIONS!</mdb-btn></a>
 	
     </mdb-row>
 		<h4>Monday</h4>
@@ -682,7 +683,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="blue">Register for classes!</mdb-btn></a>
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">Register for classes!</mdb-btn></a>
 	</div>
 	</mdb-row>
 	</section>
