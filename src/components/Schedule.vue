@@ -343,9 +343,6 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					<tr scope="row" class="deep-orange lighten-4">
 						<td>11:00am-12:30pm</td>
 						<td>RENTAL AVAILABLE</td>
-						<td><strong>11:00am-12:00pm <br/>8-WEEK SESSION FROM 9/14-11/2 <br/>6-7 Year-Old Tap/Jazz Combo</strong><br/>Molly Sute<hr/>
-						<strong>12:00pm-12:30pm <br/>8-WEEK SESSION FROM 9/14-11/2 <br/>First Shuffles (4-5 years old)</strong><br/>Molly Sute
-						</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
