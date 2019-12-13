@@ -98,7 +98,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-5:00pm</td>
-						<td><strong>4:30pm-5:00pm First Shuffles (4-5 year olds)</strong> <br/>Denise Caston-Clark</td>
+						<td><strong>4:30pm-5:00pm First Shuffles Tap 1(4-5 year olds)</strong> <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -195,7 +195,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:00pm-4:30pm</td>
-						<td><strong> 4:30pm-5:00pm First Shuffles (4-5 year olds)</strong><br/>Denise Caston-Clark</td>
+						<td><strong> 4:30pm-5:00pm First Shuffles Tap 1(4-5 year olds)</strong><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -255,12 +255,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
                     <tr scope="row" class="deep-orange lighten-4">
 						<td>5:00pm-6:00pm</td>
 						<td>Intermediate 2 (5+ years)<br/>Denise Caston-Clark<br/>(5+ years) </td>
-						<td>Beginner 2 (2+ years experience)<br/>Lisa Allai-Stop</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row">
 						<td>6:00pm-7:30pm</td>
-						<td><strong>6:00pm-7:00pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark</td>
+						<td><strong>6:00pm-7:00pm Young Shuffles Tap 1(8-10 year olds)</strong><br/>Denise Caston-Clark</td>
 						<td>Advanced Beginner (3+ years experience)<br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -378,7 +378,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<h2 class="blue-text text-center"><mdb-icon icon="snowflake" size="2x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="2x" /></h2>
 	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
 
-    <h4 class="blue-text">Winter schedule starts January 4!</h4> 
+    <h4 class="blue-text">Winter schedule starts January 2!</h4> 
 				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR WINTER SESSIONS!</mdb-btn></a>
 	
     </mdb-row>
@@ -401,19 +401,19 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>4:00pm-5:00pm</td>
-						<td><strong>4:30pm-5:00pm First Shuffles (4-5 year olds)</strong> <br/>Denise Caston-Clark</td>
+						<td>4:30pm-5:00pm</td>
+						<td><strong>4:30pm-5:00pm First Shuffles Tap 1(4-5 year olds)</strong> <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="blue lighten-4">
-						<td>5:00pm-4:30pm</td>
+						<td>5:00pm-5:30pm</td>
 						<td>Jazz 1 Winter 1 session: 4-6 year-olds</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>6:30pm-7:30pm</td>
+						<td>6:00pm-7:30pm</td>
 						<td>Intermediate 1 (4+ years experience) <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
@@ -449,7 +449,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
           <tr scope="row">
 						<td>12:00pm-1:00pm</td>
 						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
-						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="blue lighten-4">
@@ -492,20 +492,20 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				</mdb-tbl-head>
 				<mdb-tbl-body>
 					<tr scope="row" class="blue lighten-4">
-						<td>1:00pm-2:30pm</td>
+						<td>1:00pm-2:00pm</td>
 						<td>Beginner 1 (0-1 year experience) <br/>Nia Silao </td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>4:00pm-5:00pm</td>
-						<td><strong> 4:30pm-5:00pm First Shuffles (4-6 year olds) </strong><br/><br/>Denise Caston-Clark</td>
+						<td>4:30pm-5:00pm</td>
+						<td><strong> 4:30pm-5:00pm First Shuffles Tap 1 (4-6 year olds) </strong><br/><br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="blue lighten-4">
 						<td>5:00pm-5:30pm</td>
-						<td><strong>5:00pm-5:30pm</strong> Jazz 1 Winter 1 session, 4-6 year-olds</td>
+						<td>Jazz 1 Winter 1 session, 4-6 year-olds</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						
@@ -517,7 +517,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
-						<td>6:00pm-7:00pm</td>
+						<td>6:30pm-7:30pm</td>
 						<td>ABSOLUTE Beginner Series for Adults</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
@@ -546,15 +546,15 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				<mdb-tbl-body>
 				
 					<tr scope="row" class="blue lighten-4">
-						<td>10:30am-11:30am</td>
-						<td>RENTAL AVAILABLE</td>
+						<td>11:30am-12:00pm</td>
+						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
 						<td>12:00pm-1:00pm</td>
 						<td>Beginner 1 (0-1 year experience)<br/>Denise Caston-Clark</td>
-						<td><strong>11:30am-12:00pm Wee Shuffles (2-3 year olds)</strong> <br/> Denise Caston-Clark</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="blue lighten-4">
@@ -565,19 +565,19 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>5:00pm-6:00pm</td>
-						<td>RENTAL AVAILABLE</td>
+						<td><strong>Parent/Kid DanceFit</strong><br/> - Jazz dance work out for parents and kids with former Rockette Denise Caston-Clark!</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row" class="blue lighten-4">
 						<td>6:00pm-7:30pm</td>
-						<td><strong>6:00pm-6:45pm Young Shuffles (8-10 year olds)</strong><br/>Denise Caston-Clark<hr/>6:45pm-7:30pm<br/>Jazz 1 (8-10 year olds)</td>
+						<td><strong>6:00pm-6:45pm Young Shuffles Tap 1(8-10 year olds)</strong><br/>Denise Caston-Clark<hr/><strong>6:45pm-7:30pm</strong><br/>Jazz 1 (8-10 year olds)</td>
 						<td>Advanced Beginner (3+ years experience)<br/>Lisa Allai-Stop<br/></td>
-						<td><strong>6:45pm-7:30pm</strong>Jazz 1 Winter 1 session, 4-6 year-olds</td>
+						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row">
 						<td>7:30pm-9:00pm</td>
-						<td>Intermediate/Advanced Broadway Style <br/>Denise Caston-Clark </td>
+						<td>Intermediate 1-2 Broadway Style Tap<br/>Denise Caston-Clark </td>
 						<td>Intermediate 1 (4+ years experience) <br/>Lisa Allai-Stop</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -652,8 +652,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 				</mdb-tbl-head>
 				<mdb-tbl-body>
 					<tr scope="row" class="blue lighten-4">
-						<td>11:00am-12:30pm</td>
-						<td>Intermediate Jazz (no tap!)<br/>Denise Caston-Clark</td>
+						<td>11:00am-12:00pm</td>
+						<td><strong>Tap/Jazz combo</strong> (6-8 year-olds)</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -716,8 +716,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </div>
     <div class="align-items-center justify-content-start pl-3">
     
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">COMING SOON</strong></span>
-    
+    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Saturdays 11:00am-12:00pm</strong></span>
+    <p class="big"><strong>Tap/Jazz Combo</strong>8-week session with Denise Caston-Clark from January 4-February 22. $140 </p>
   </div> 
 
   <div class="mt-5 align-items-center justify-content-start p-3">
@@ -739,7 +739,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <div class="align-items-center justify-content-start pl-3">
     
     <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Wednesdays 5:30pm-6:30pm</strong></span>
-    <p class="big">Tap Fundamentals for Teens</p>
+    <p class="big"><strong>Tap Fundamentals for Teens</strong>8 weeks, January 8-February 26. $140</p>
 	
   </div> 
 	<!-- <div class="mt-5 align-items-center justify-content-start p-3">
