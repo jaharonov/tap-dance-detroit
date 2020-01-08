@@ -229,7 +229,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
           <tr scope="row" class="blue lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Beginner 1 (0-1 year experience) <br/> Denise Caston-Clark</td>
-						<td>(7pm-8pm)<br/>WERQ Fitness with Erica Egrin. (This class is $12.)</td>
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
