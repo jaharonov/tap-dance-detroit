@@ -3,7 +3,7 @@
     <mdb-row class="align-items-center p-5 ml-5">
       <mdb-col size="6" class="text-center img-fluid-grow mx-auto">
         <mdb-carousel :interval="8000">
-    <mdb-carousel-item img src="/static/absolute_beginner.png" alt="First slide" />
+    <mdb-carousel-item img src="/static/absolute_beginner-update.png" alt="First slide" />
     <mdb-carousel-item img src="/static/tdd_home_1.jpg" alt="Second slide" />
     <mdb-carousel-item img src="/static/tdd_home_2.jpg" alt="Third slide" />
   </mdb-carousel>

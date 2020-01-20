@@ -275,7 +275,17 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
                     <tr scope="row" class="blue lighten-4">
 						<td>6:00pm-7:30pm</td>
 						<td><strong>6:00pm-6:45pm Young Shuffles Tap 1(8-10 year olds)</strong><br/>Denise Caston-Clark<hr/><strong>6:45pm-7:30pm</strong><br/>Jazz 1 (8-10 year olds)</td>
-						<td>Advanced Beginner (3+ years experience)<br/>Lisa Allai-Stop<br/></td>
+						<td><mdb-btn @click.native="showJazz = true" outline="blue">Beginner 1 Jazz</mdb-btn>
+        <mdb-modal :show="showJazz" @close="showJazz = false" cascade class="text-left">
+          <mdb-modal-header class="red white-text">
+            <h4 class="title">Beginner 1 Jazz</h4>
+          </mdb-modal-header>
+          <mdb-modal-body class="grey-text">
+            <p>If you've always wanted to try jazz or you did it a long time ago in a galaxy far, far away, this is a great class to get started!
+In addition to being a beautiful art form, jazz classes will stretch you, strengthen you, and you get to do it with some attitude.</p>
+          </mdb-modal-body>
+         
+        </mdb-modal><br/>Lisa Allai-Stop<br/></td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
                     <tr scope="row">
@@ -503,6 +513,7 @@ import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar
 		showModal: false,
 		modal: false,
 		showRock: false,
+		showJazz: false
       };
     }
   }
