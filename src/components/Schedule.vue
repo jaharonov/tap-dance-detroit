@@ -275,7 +275,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
                     <tr scope="row" class="blue lighten-4">
 						<td>6:00pm-7:30pm</td>
 						<td><strong>6:00pm-6:45pm Young Shuffles Tap 1(8-10 year olds)</strong><br/>Denise Caston-Clark<hr/><strong>6:45pm-7:30pm</strong><br/>Jazz 1 (8-10 year olds)</td>
-						<td><mdb-btn @click.native="showJazz = true" outline="blue">Beginner 1 Jazz</mdb-btn>
+						<td><strong>6:30pm-7:30pm</strong><mdb-btn @click.native="showJazz = true" outline="blue">Beginner 1 Jazz</mdb-btn>
         <mdb-modal :show="showJazz" @close="showJazz = false" cascade class="text-left">
           <mdb-modal-header class="red white-text">
             <h4 class="title">Beginner 1 Jazz</h4>
