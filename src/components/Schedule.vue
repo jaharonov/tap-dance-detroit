@@ -371,6 +371,11 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row">
+						<td>12:00pm-12:45pm</td>
+						<td></td>
+						<td><a href="http://www.detroityogafit.com" target="_blank"><mdb-btn outline="blue">YogaFit Basics</mdb-btn></a><br/>$12</td>
+						<td>RENTAL AVAILABLE</td>
+					<tr scope="row">
 						<td>12:30pm-2:00pm</td>
 						<td>Intermediate 1-2 (4+ years experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
