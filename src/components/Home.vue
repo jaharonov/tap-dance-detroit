@@ -1,10 +1,10 @@
 <template>
   <mdb-container fluid>
-    <mdb-row class="mt-5 justify-content-center p-5">
+    <mdb-row class="justify-content-center text-center p-5">
       <h2 class="deep-orange-text big"><strong>HOME TO MOTOR CITY TAP FEST AND THE DETROIT TAP REPERTORY</strong></h2>
       </mdb-row>
     <mdb-row class="mx-auto">
-      <mdb-col lg="6" class="text-center img-fluid-grow mx-auto">
+      <mdb-col lg="6" class="text-center img-fluid-grow mx-auto pb-3">
         <mdb-carousel :interval="8000">
     <mdb-carousel-item img src="/static/absolute_beginner-update.png" alt="First slide" />
     <mdb-carousel-item img src="/static/tdd_home_1.jpg" alt="Second slide" />
@@ -72,16 +72,16 @@
       <img src="/static/landing-class-photo.png" class="img-fluid z-depth-1 jump" style="width: 100%;"/>
     </mdb-row>
     <mdb-row>
-            <div class="mx-auto text-center big" v-parallax="0.65">
+            <div class="mx-auto text-center big" v-parallax="0.2">
               
               
                 <mdb-card>
-          <mdb-cardbody>
-          <mdb-row class="align-items-center justify-content-center pt-5">
+          <mdb-cardbody class="p-5">
+          <mdb-row class="align-items-center justify-content-center">
       
       <h4 class="deep-orange-text big">FRIENDS OF TAP DANCE DETROIT</h4><br/>
   </mdb-row>
-  <mdb-row class="align-items-center justify-content-center p-5">
+  <mdb-row class="align-items-center justify-content-center">
       <p class="grey-text mx-auto text-center big"><strong>Andrea Sevonty | Cheryl Lieblang | Abbey Prizgint | JuDonna Foreman | Aaron Macerelli | Barbara Bernado | Jaclyn Heikkila | Lisa Stop | Rosy Hong</strong></p>
       <p class="grey-text mx-auto text-center big"><strong>Bob Meadows | Carol Price | Terrye Mock | Steven Kemp | Detroit Tap Rep | Gregory Patterson | Claudia Cole | Budweg Family | Dawn Plants</strong></p>
   </mdb-row>
