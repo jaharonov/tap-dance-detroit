@@ -1,7 +1,10 @@
 <template>
   <mdb-container fluid>
-    <mdb-row class="align-items-center p-5 ml-5">
-      <mdb-col size="6" class="text-center img-fluid-grow mx-auto">
+    <mdb-row class="mt-5 justify-content-center p-5">
+      <h2 class="deep-orange-text big"><strong>HOME TO MOTOR CITY TAP FEST AND THE DETROIT TAP REPERTORY</strong></h2>
+      </mdb-row>
+    <mdb-row class="mx-auto">
+      <mdb-col lg="6" class="text-center img-fluid-grow mx-auto">
         <mdb-carousel :interval="8000">
     <mdb-carousel-item img src="/static/absolute_beginner-update.png" alt="First slide" />
     <mdb-carousel-item img src="/static/tdd_home_1.jpg" alt="Second slide" />
@@ -9,7 +12,7 @@
   </mdb-carousel>
   <router-link to="/schedule"><mdb-btn outline="red">SEE SCHEDULE!</mdb-btn></router-link>
       </mdb-col>
-      <mdb-col size="6" class="text-center img-fluid-grow mx-auto">
+      <mdb-col lg="6" class="text-center img-fluid-grow mx-auto">
         <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view pb-2" style="max-height: 15rem;"/><br/>
         <a href="https://www.facebook.com/tapdancedetroit/" target="_blank"><img src="/static/facebook-logo.png" class="p-2"/></a>
         <a href="https://www.instagram.com/tapdancedetroit/" target="_blank"><img src="/static/instagram-logo.png" class="p-2"/></a>
@@ -25,7 +28,7 @@
         <p class="grey-text mx-auto text-center big"><strong>917-687-4811 <a class="red-text" v-bind:href="`mailto:info@tapdancedetroit.org`">info@tapdancedetroit.org</a></strong></p>
     </mdb-row>
     <mdb-row>
-      <mdb-col size="12" class="text-center mb-5">
+      <mdb-col col="12" class="text-center mb-5">
         <mdb-btn @click.native="showModal = true" outline="red">PRIVATE LESSONS ARE AVAILABLE</mdb-btn>
         <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
           <mdb-modal-header class="red white-text">
@@ -63,30 +66,36 @@
     </ul>
 	</mdb-col>
   </mdb-row>
-  <mdb-row class="align-items-center justify-content-center pt-5">
+    <section class="logo pb-5">
+
+    <mdb-row>
+      <img src="/static/landing-class-photo.png" class="img-fluid z-depth-1 jump" style="width: 100%;"/>
+    </mdb-row>
+    <mdb-row>
+            <div class="mx-auto text-center big" v-parallax="0.65">
+              
+              
+                <mdb-card>
+          <mdb-cardbody>
+          <mdb-row class="align-items-center justify-content-center pt-5">
+      
       <h4 class="deep-orange-text big">FRIENDS OF TAP DANCE DETROIT</h4><br/>
   </mdb-row>
   <mdb-row class="align-items-center justify-content-center p-5">
       <p class="grey-text mx-auto text-center big"><strong>Andrea Sevonty | Cheryl Lieblang | Abbey Prizgint | JuDonna Foreman | Aaron Macerelli | Barbara Bernado | Jaclyn Heikkila | Lisa Stop | Rosy Hong</strong></p>
       <p class="grey-text mx-auto text-center big"><strong>Bob Meadows | Carol Price | Terrye Mock | Steven Kemp | Detroit Tap Rep | Gregory Patterson | Claudia Cole | Budweg Family | Dawn Plants</strong></p>
   </mdb-row>
-    <section class="logo pb-5">
-    <mdb-row>
-      <img src="/static/landing-class-photo.png" class="img-fluid z-depth-1 jump" style="width: 100%;"/>
-    </mdb-row>
-    <mdb-row>
-            <div class="white-text mx-auto text-center big" v-parallax="0.60">
-              
-              <h2 class="big">HOME TO MOTOR CITY TAP FEST AND THE DETROIT TAP REPERTORY</h2>
-              
+  </mdb-cardbody>
+  </mdb-card>
             </div>
           </mdb-row>
+      
     </section>
     
   </mdb-container>
 </template>
 <script>
-import { mdbInput, mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter, mdbCarousel, mdbCarouselItem } from 'mdbvue';
+import { mdbInput, mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbModalFooter, mdbCarousel, mdbCarouselItem, mdbCard, mdbCardBody } from 'mdbvue';
   export default {
     name: 'AppPage',
     components: {
@@ -94,6 +103,8 @@ import { mdbInput, mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol,
       mdbTbl,
       mdbCarousel,
       mdbCarouselItem,
+      mdbCard,
+      mdbCardBody,
       mdbTblHead,
       mdbTblBody,
       mdbContainer,
