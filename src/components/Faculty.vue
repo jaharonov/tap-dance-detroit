@@ -21,10 +21,10 @@
 </mdb-col>
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
-      <mdb-col lg="4" class="pt-4">
+      <!-- <mdb-col lg="4" class="pt-4">
           <img src="/static/faculty_kelsey-rose-young.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
-      </mdb-col>
-      <mdb-col lg="8" class="text-justify pt-3">
+      </mdb-col> -->
+      <!-- <mdb-col lg="8" class="text-justify pt-3">
         <h3 class="red-text mx-auto text-left big">KELSEY ROSE YOUNG</h3>
           <p>Kelsey Rose Young is a performer, teacher, and choreographer based in Detroit, Michigan. Kelsey is on faculty with Showstopper Dance Convention, Fuzion Dance Camp, and Motor City Tap Fest. She has recently taught at the Big Apple Tap Festival and the Phoenix Tap Festival.</p>
 
@@ -37,7 +37,7 @@
 <p>As a choreographer, Kelsey draws from her training and range of experiences as a singer and dancer to create a style that is intricate, gritty, passionate, and entertaining. Her pieces have received many awards and accolades across the country and she is quickly becoming one of the Midwest’s premier tap choreographers.</p>
 
 <p>Kelsey is a member of Cecchetti Council of America and has also studied and competed in ballroom dancing. She works independently as a choreographer for students throughout the Nation. Over the years, Kelsey has worked with Jay Sean, the Jonas Brothers, Debbie Gibson, and Radio Disney. She has performed in the Detroit, Macy’s and Chicago Thanksgiving Day Parades, at the Detroit Jazz Festival, and at TedX Detroit. She most recently has performed and choreographed a half time show for the NBA’s Detroit Pistons.</p>
-</mdb-col>
+</mdb-col> -->
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4" class="pt-4">
@@ -49,17 +49,17 @@
 </mdb-col>
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
-      <mdb-col lg="4" class="pt-4">
+      <!-- <mdb-col lg="4" class="pt-4">
           <img src="/static/faculty_jamie-hetherington.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
         <h3 class="red-text mx-auto text-left big">JAMIE HETHERINGTON</h3>
           <p>Jamie has been tap dancing for  over 25 years. The majority of her dance training was at The Dance Shoppe, where she is now part of the faculty. She loves sharing her passion for tap.
 Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married with 2 awesome boys.</p>
-</mdb-col>
+</mdb-col> -->
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
-      <mdb-col lg="4" class="pt-4">
+      <!-- <mdb-col lg="4" class="pt-4">
           <img src="/static/faculty_paige-baidel.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
@@ -67,7 +67,7 @@ Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married 
           <p>Paige Baidel is a performer, teacher, and business professional currently residing in Milford, Michigan. She trained in various dance styles from the age of 3, but has always been most passionate about tap dancing. Paige currently serves as Coordinator for the pre-professional tap company- the Detroit Tap Repertory and has performed across Metro Detroit, including America’s Thanksgiving Day Parade, Detroit Pistons Halftime, Channel 7 WXYZ – TV, Fox 2 Detroit News, Orchestra Hall and Music Hall. 
             She has also traveled to Phoenix, Arizona to perform in various Tap 24.7 shows under the direction of Suzy Guarino-Hall, performed at the Big Apple Tap Festival and was an Assistant on Faculty to Ray Hesselink, Shelby Kaufman and Vikas Arun at Motor City Tap Fest, along with being a member of the Pre-Pro Crew. At Tap City - The New York City Tap Festival, Paige has been a work study and trained with Sam Weber and Brenda Bufalino in the adult residency program. Additionally, 
             she has had the pleasure of studying under various acclaimed tap dancers and choreographers, such as Karen Callaway-Williams, Denise Caston, Barbara Duffy, Savion Glover, Jenefer Miller, Sarah Reich, Gregg Russell, Dianne Walker and numerous others. Paige has always loved tap dancing and continues to be inspired by legendary tap masters, history, music, travel, life experiences and her dance students.</p>
-</mdb-col>
+</mdb-col> -->
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4" class="pt-4">
@@ -106,14 +106,14 @@ Jamie has a BFA from GVSU, with an emphasis in ceramics. She is happily married 
 </mdb-col>
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
-      <mdb-col lg="4" class="pt-4">
+      <!-- <mdb-col lg="4" class="pt-4">
           <img src="/static/faculty_mallory-marshall.png" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
         <h3 class="red-text mx-auto text-left big">MALLORY MARSHALL</h3>
           <p>At a young 18 years old, Mallory Marshall has established herself as a dance performer, educator and choreographer in the Metro Detroit area. She was a student of The Dance Shoppe in Waterford, MI, where she trained in all subjects of dance for 16 years. In 2016, she became a faculty member at The Dance Shoppe, and began teaching at other studios around MI as well. Mallory has been awarded at numerous competitions and conventions, particularly for her tap dancing, including her most recent title of Dance Masters Miss Dance of America 2019. Mallory has always had a passion for teaching and choreography, and hopes to pursue both at a professional level. She attends Wayne State University 
             in Detroit as a Dance Major, where she continues to broaden her education and appreciation for the art of dance.</p>
-</mdb-col>
+</mdb-col> -->
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4" class="pt-4">
@@ -128,13 +128,13 @@ With a MA in Applied Anthropology, she works as a research editor at National Ge
 </mdb-col>
     </mdb-row>
         <mdb-row class="mx-auto pt-5">
-      <mdb-col lg="4" class="pt-4">
+      <!-- <mdb-col lg="4" class="pt-4">
           <img src="/static/faculty_emily_rose_merrell.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
         <h3 class="red-text mx-auto text-left big">EMILY ROSE MERRELL</h3>
           <p>Emily Rose has been teaching ballroom dance at franchise and independent studios all over the metro Detroit area since 1996.  Her early training in acting, voice and dance at Flint Youth Theatre, and Theater Arts degree from Kalamazoo College paved the way for her career as a professional actor, dancer, and choreographer.  She has performed with professionals and students alike at showcases, competitions, exhibitions, corporate and charity events.  Emily teaches acting voice, and dance to all ages and enjoys passing along the joy of the performing arts.</p>
-</mdb-col>
+</mdb-col> -->
     </mdb-row>
   </mdb-container>
 </template>
