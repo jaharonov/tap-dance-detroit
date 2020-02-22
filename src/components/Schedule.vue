@@ -105,13 +105,13 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row">
 						<td>4:30pm-5:00pm</td>
-						<td><strong>4:30pm-5:00pm Wee Shuffles (2-3 year olds)</strong> <br/>Denise Caston-Clark</td>
+						<td><strong>Wee Shuffles (2-3 year olds)</strong> <br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 					<tr scope="row" class="blue lighten-4">
 						<td>5:00pm-5:30pm</td>
-						<td>First Shuffles Tap 1(4-5 year olds)</td>
+						<td>First Shuffles (4-5 year olds)</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
