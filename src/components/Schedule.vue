@@ -123,7 +123,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row" class="blue lighten-4">
 						<td>7:30pm-9:00pm</td>
-						<td>Beginner 1-2 (0-1 year experience) <br/> Denise Caston-Clark</td>
+						<td>Beginner 1-2 (1-3 year experience) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -228,7 +228,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					
           <tr scope="row" class="blue lighten-4">
 						<td>7:30pm-9:00pm</td>
-						<td>Beginner 1-2 (0-1 year experience) <br/> Denise Caston-Clark</td>
+						<td>Beginner 1-2 (1-3 year experience) <br/> Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -346,7 +346,7 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
                     <tr scope="row" class="blue lighten-4">
 						<td>7:30pm-9:00pm</td>
 						<td>Intermediate 2 (5+ years) <br/>Jer Vernier</td>
-						<td>Beginner 1-2 (0-1 year experience)<br/>Denise Caston-Clark</td>
+						<td>Beginner 1-2 (1-3 year experience)<br/>Denise Caston-Clark</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
 				</mdb-tbl-body>
