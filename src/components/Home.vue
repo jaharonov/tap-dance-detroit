@@ -1,8 +1,18 @@
 <template>
   <mdb-container fluid>
-    <mdb-row class="justify-content-center text-center p-5">
+    <mdb-row class="justify-content-center text-center">
       <h2 class="deep-orange-text big"><strong>HOME TO MOTOR CITY TAP FEST AND THE DETROIT TAP REPERTORY</strong></h2>
       </mdb-row>
+      <mdb-row class="justify-content-center text-center p-5">
+      <h3 class="deep-orange-text big"><strong>TAP DANCE DETROIT WILL REMAIN OPEN!</strong></h3><br/>
+      </mdb-row>
+<mdb-row class="justify-content-center text-center">
+<p style="font-size: 1.5em;">Classes are inherently small and meet the need for social distancing.</p>
+<p style="font-size: 1.5em;">The studio continues to be cleaned diligently, and your health and safety are our priority.</p>
+</mdb-row>
+<mdb-row class="justify-content-center text-center">
+<p style="font-size: 1.5em;" class="pb-5">All are welcome.</p>
+</mdb-row>
     <mdb-row class="mx-auto">
       <mdb-col lg="6" class="text-center img-fluid-grow mx-auto pb-3">
         <mdb-carousel :interval="8000">

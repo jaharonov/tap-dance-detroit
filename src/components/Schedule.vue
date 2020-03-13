@@ -168,7 +168,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-3">
 						<td>6:00pm-7:00pm</td>
-						<td>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td>
+						<!-- <td>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td> -->
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -267,7 +268,8 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>5:00pm-6:00pm</td>
-						<td><strong>Parent/Kid DanceFit</strong><br/> - Jazz dance work out for parents and kids with former Rockette Denise Caston-Clark!</td>
+						<!-- <td><strong>Parent/Kid DanceFit</strong><br/> - Jazz dance work out for parents and kids with former Rockette Denise Caston-Clark!</td> -->
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -285,7 +287,8 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
           </mdb-modal-body>
          
         </mdb-modal><br/>Lisa Allai-Stop<br/></td>
-						<td><strong>6:00pm-7:00pm</strong>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td>
+		<td>RENTAL AVAILABLE</td>
+						<!-- <td><strong>6:00pm-7:00pm</strong>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td> -->
 					</tr>
                     <tr scope="row">
 						<td>7:30pm-9:00pm</td>
@@ -365,7 +368,8 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-3">
 						<td>8:00am-9:00am</td>
-						<td>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td>
+						<!-- <td>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td> -->
+						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 					</tr>
@@ -401,7 +405,7 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
 				</mdb-tbl-body>
 			</mdb-tbl>
 		</section>
-<h4>SUNDAY</h4>
+<!-- <h4>SUNDAY</h4>
 		<section>
 			<mdb-tbl bordered>
 				<mdb-tbl-head>
@@ -421,7 +425,7 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
 					</tr>
 				</mdb-tbl-body>
 			</mdb-tbl>
-		</section>
+		</section> -->
 
 		
 		<mdb-row class="text-justify">
