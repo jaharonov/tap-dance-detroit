@@ -23,11 +23,21 @@
   <router-link to="/schedule"><mdb-btn outline="red">SEE SCHEDULE!</mdb-btn></router-link>
       </mdb-col>
       <mdb-col lg="6" class="text-center img-fluid-grow mx-auto">
-        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view pb-2" style="max-height: 15rem;"/><br/>
-        <a href="https://www.facebook.com/tapdancedetroit/" target="_blank"><img src="/static/facebook-logo.png" class="p-2"/></a>
-        <a href="https://www.instagram.com/tapdancedetroit/" target="_blank"><img src="/static/instagram-logo.png" class="p-2"/></a>
+        <img src="/static/live_tap_dance_detroit.png" class="mx-auto d-block view pb-2" style="max-height: 25rem;"/><br/>
+        <p><strong>SIGN UP FOR CLASSES AT THE FOLLOWING LINKS:</strong></p>
+        <p><a class="red-text" href="https://motor-city-tap-fest.myshopify.com/products/live-with-tap-dance-detroit-beginner" target="_blank">Beginner Class</a></p>
+        <p><a class="red-text" href="https://motor-city-tap-fest.myshopify.com/products/live-with-tap-dance-detroit-advanced-beginner" target="_blank">Advanced Beginner Class</a></p>
+        <p><a class="red-text" href="https://motor-city-tap-fest.myshopify.com/products/live-with-tap-dance-detroit-intermediate" target="_blank">Intermediate Class</a></p>
+        
       </mdb-col>
     </mdb-row>
+    <mdb-row class="mx-auto pt-5">
+        <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/><br/>
+    </mdb-row> 
+    <mdb-row class="mx-auto pt-5 justify-content-center">
+        <a href="https://www.facebook.com/tapdancedetroit/" target="_blank"><img src="/static/facebook-logo.png" class="pr-2"/></a>
+        <a href="https://www.instagram.com/tapdancedetroit/" target="_blank"><img src="/static/instagram-logo.png" class="pl-2"/></a>
+      </mdb-row>
     <mdb-row class="mx-auto pt-5">
         <h4 class="grey-text mx-auto text-center big">Michigan's destination for tap dance, with daily drop-in classes for all levels.</h4>
     </mdb-row>
