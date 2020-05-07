@@ -4,7 +4,7 @@
       <h2 class="deep-orange-text big"><strong>HOME TO MOTOR CITY TAP FEST AND THE DETROIT TAP REPERTORY</strong></h2>
       </mdb-row>
       <mdb-row class="justify-content-center text-center p-5">
-      <h3 class="deep-orange-text big"><strong>We are closed due to COVID-19 and the Michigan shelter-in-place order. We will reopen on May 15.</strong></h3><br/>
+      <h3 class="deep-orange-text big"><strong>We are closed due to COVID-19 and the Michigan shelter-in-place order. We will reopen on June 1.</strong></h3><br/>
       </mdb-row>
 <mdb-row class="justify-content-center text-center">
 <p style="font-size: 1.5em;">Video classes are available! Email <strong><a class="red-text" v-bind:href="`mailto:info@tapdancedetroit.org`">info@tapdancedetroit.org</a></strong> to keep dancing at home.</p>
