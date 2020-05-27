@@ -77,14 +77,15 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	</div>
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
-	<h2 class="orange-text text-center"><mdb-icon icon="sun" size="2x" /><strong> SPRING SCHEDULE </strong><mdb-icon icon="sun" size="2x" /></h2>
+	<h2 class="orange-text text-center"><mdb-icon icon="sun" size="2x" /><strong> SUMMER SCHEDULE </strong><mdb-icon icon="sun" size="2x" /></h2>
 	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
 
     <!-- <h4 class="blue-text">Spring Classes!</h4>  -->
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR SPRING SESSION!</mdb-btn></a>
-	
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR SUMMER SESSION!</mdb-btn></a>
+	<iframe src="https://dancestudio-pro.com/apps/api_classes_resp.php?id=zaqlxajd29jd25cfea9701936309jasdklj21dx5cfea970193a1" width="100%" height="600px" scrolling="yes"
+frameborder="0"></iframe>
     </mdb-row>
-		<h4>Monday</h4>
+		<!-- <h4>Monday</h4>
 		<section>
 			<mdb-tbl bordered>
 				<mdb-tbl-head>
@@ -168,7 +169,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
 					<tr scope="row" class="deep-orange lighten-3">
 						<td>6:00pm-7:00pm</td>
-						<!-- <td>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td> -->
+					
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
@@ -268,7 +269,6 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 					</tr>
                     <tr scope="row">
 						<td>5:00pm-6:00pm</td>
-						<!-- <td><strong>Parent/Kid DanceFit</strong><br/> - Jazz dance work out for parents and kids with former Rockette Denise Caston-Clark!</td> -->
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
@@ -288,7 +288,7 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
          
         </mdb-modal><br/>Lisa Allai-Stop<br/></td>
 		<td>RENTAL AVAILABLE</td>
-						<!-- <td><strong>6:00pm-7:00pm</strong>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td> -->
+					
 					</tr>
                     <tr scope="row">
 						<td>7:30pm-9:00pm</td>
@@ -368,7 +368,7 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-3">
 						<td>8:00am-9:00am</td>
-						<!-- <td>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td> -->
+
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
 						<td>RENTAL AVAILABLE</td>
@@ -404,33 +404,10 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
 					</tr>
 				</mdb-tbl-body>
 			</mdb-tbl>
-		</section>
-<!-- <h4>SUNDAY</h4>
-		<section>
-			<mdb-tbl bordered>
-				<mdb-tbl-head>
-					<tr>
-						<th>Time</th>
-						<th>Studio 1</th>
-						<th>Studio 2</th>
-						<th>Studio 3</th>
-					</tr>
-				</mdb-tbl-head>
-				<mdb-tbl-body>
-                    <tr scope="row" class="deep-orange lighten-3">
-						<td>5:00pm-6:00pm</td>
-						<td><strong>Every 4th Sunday of the Month!</strong><br/>XTreme Hip Hop<br/> by Tonya and Nicole<br/>Read about Xtreme Hip Hop <a class="red-text" href="https://www.xtremefitnesswithphil.com/about" target="_blank">here</a>.<br/>$10 per class</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-				</mdb-tbl-body>
-			</mdb-tbl>
 		</section> -->
-
 		
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
-      <!-- <mdb-col size="12" class="text-center mb-5"> -->
 				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">Register for classes!</mdb-btn></a>
 	</div>
 	</mdb-row>
@@ -490,22 +467,16 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
     <p class="big"><strong>Tap Fundamentals for Teens</strong> 8 weeks: $140</p>
 	
   </div> 
-	<!-- <div class="mt-5 align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text">Fall schedule starts September 8th. Details coming soon!</h4>
-    </div> -->
 		<hr class="deep-orange"/>
   </mdb-col>
    <mdb-col lg="4" class="p-3 pt-5 text-justify">
 	   <div class="align-items-center justify-content-center p-5">
-      <!-- <mdb-col size="12" class="text-center mb-5"> -->
 				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad">REGISTER FOR YOUTH CLASSES!</mdb-btn></a>
 	</div>
 	
        <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
 	    <div class="align-items-center justify-content-center p-5">
-      <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <a href="#schedule"><mdb-btn class="btn-grad"><mdb-icon icon="sun" size="2x" /><br/>VIEW FULL SPRING SCHEDULE</mdb-btn></a>
-		<!-- <a href="#winter"><mdb-btn class="btn-grad2"><mdb-icon icon="snowflake" size="2x" /><br/>VIEW FULL WINTER SCHEDULE</mdb-btn></a> -->
         
     </div>
    </mdb-col>
