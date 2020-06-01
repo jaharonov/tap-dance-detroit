@@ -4,7 +4,7 @@
       <h2 class="deep-orange-text big"><strong style="text-transform: uppercase;">Daily drop-in tap classes for adults | Children and Teen programs</strong></h2>
       </mdb-row>
       <mdb-row class="justify-content-center text-center p-5">
-      <h3 class="deep-orange-text big"><strong>We are closed due to COVID-19 and the Michigan shelter-in-place order. We will reopen on June 15.</strong></h3><br/>
+      <h3 class="deep-orange-text big"><strong>We are closed due to COVID-19 and the Michigan safer at home order. We will reopen on June 15.</strong></h3><br/>
       </mdb-row>
 <mdb-row class="justify-content-center text-center">
 <p style="font-size: 1.5em;">Video classes are available! Email <strong><a class="red-text" v-bind:href="`mailto:info@tapdancedetroit.org`">info@tapdancedetroit.org</a></strong> to keep dancing at home.</p>
