@@ -18,7 +18,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     <mdb-col lg="6" class="text-justify">
 	<h4 class="deep-orange-text">PRICING</h4>
 	 <ul>
-	<li><strong>UNLIMITED CLASSES:</strong>Unlimited monthly class pass: $115 (Includes all tap, jazz, and ballroom classes.)</li>
+	<li><strong>UNLIMITED CLASSES:</strong>Unlimited monthly class pass: $115</li>
     <li><strong>SINGLE CLASS:</strong>  90 minute class: $18, 60 minute class: $15</li>
     <li><strong>5-CLASS PACKAGE:</strong>  90 minute classes: $87.50, 60 minute classes: $70</li>   
     <li><strong>10-CLASS PACKAGE:</strong>  90 minute classes: $170, 60 minute classes: $135</li>
