@@ -15,15 +15,19 @@ Class sizes are limited to ensure safe distancing.</strong></h3><br/>
 <p style="font-size: 1.5em;" class="pb-5">All are welcome.</p>
 </mdb-row>
     <mdb-row class="mx-auto">
-      <mdb-col lg="6" class="text-center img-fluid-grow mx-auto pb-3">
-        <mdb-carousel :interval="8000">
+      <mdb-col lg="4" class="text-center img-fluid-grow mx-auto pb-3">
+        <mdb-carousel :interval="8000" class="pb-5">
     <!-- <mdb-carousel-item img src="/static/absolute_beginner-update.png" alt="First slide" /> -->
     <mdb-carousel-item img src="/static/tdd_home_1.jpg" alt="Second slide" />
     <mdb-carousel-item img src="/static/tdd_home_2.jpg" alt="Third slide" />
   </mdb-carousel>
   <router-link to="/schedule"><mdb-btn outline="red">SEE SCHEDULE!</mdb-btn></router-link>
       </mdb-col>
-      <mdb-col lg="6" class="text-center img-fluid-grow mx-auto">
+      <mdb-col lg="4" class="text-center img-fluid-grow mx-auto">
+        <img src="/static/mctf_summer_series_2020.png" class="mx-auto d-block view pb-2" style="max-height: 25rem;"/><br/>
+       <router-link to="/upcoming"><mdb-btn outline="red">SEE SCHEDULE AND REGISTER!</mdb-btn></router-link>      
+      </mdb-col>
+       <mdb-col lg="4" class="text-center img-fluid-grow mx-auto">
         <img src="/static/live_tap_dance_detroit.png" class="mx-auto d-block view pb-2" style="max-height: 25rem;"/><br/>
         <p><strong>SIGN UP FOR CLASSES AT THE FOLLOWING LINKS:</strong></p>
         <p><a class="red-text" href="https://motor-city-tap-fest.myshopify.com/products/live-with-tap-dance-detroit-beginner" target="_blank">Beginner Class</a></p>

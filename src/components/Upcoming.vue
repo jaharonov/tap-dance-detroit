@@ -1,20 +1,19 @@
 <template>
   <mdb-container>
+    <mdb-row class="mx-auto pt-2">
+        <h1 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">Motor City Tap Fest Summer Series</h1>
+    </mdb-row>
+    <mdb-row class="mx-auto pt-2">
+        <h2 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">July 19, 2020</h2>
+    </mdb-row>
     <!-- <mdb-row class="mx-auto pt-2">
-        <h1 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">Tap Dance Detroit presents: Fall Masters Series featuring Women In Tap</h1>
-    </mdb-row>
-    <mdb-row class="mx-auto pt-2">
-        <h2 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">November 9th-10th</h2>
-    </mdb-row>
-    <mdb-row class="mx-auto pt-2">
         <h2 class="mx-auto text-center p-3 red-text big" style="text-transform: uppercase;">2 levels, 2 days of classes, followed by <i>Beatles On Tap</i> at the <a href="https://www.ticketweb.com/event/beatles-on-tap-the-magic-bag-tickets/9815475?pl=magicbag" class="grey-text" target="_blank">Magic Bag Theatre</a></h2>
-    </mdb-row>
-    <mdb-row class="mx-auto pt-2">
-    </mdb-row>
-    	<mdb-row class="mt-5 align-items-start justify-content-center p-3" id="schedule">
-        <h1 class="red-text mx-auto text-center big pt-5" style="text-transform: uppercase;">SCHEDULE and registration</h1>
-      <mdb-col lg="7" class="pt-5">
-	<h4>Saturday November 9, 2019</h4>
+    </mdb-row> -->
+    <!-- <mdb-row class="mx-auto pt-2">
+    </mdb-row> -->
+    	<mdb-row class="mx-auto p-3" id="schedule">
+      <mdb-col lg="12" class="pt-5">
+	<h2 class="red-text mx-auto text-start big" style="text-transform: uppercase;">SCHEDULE</h2>
 		<section>
 			<mdb-tbl bordered>
 				<mdb-tbl-head>
@@ -26,37 +25,29 @@
 				</mdb-tbl-head>
 				<mdb-tbl-body>
 					<tr scope="row" class="deep-orange lighten-4">
-						<td>9:30am-10:45am</td>
-						<td>Lynn Schwab</td>
-						<td>Germaine Salsberg</td>
+						<td>11:00am-12:15pm</td>
+						<td>Karen Callaway Williams</td>
+						<td>Jason Bernard</td>
 					</tr>
 					<tr scope="row">
-						<td>11:00am-12:15pm</td>
+						<td>12:30pm-1:45pm</td>
 						<td>Germaine Goodson</td>
-						<td>Debbi Dee</td>
-					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>12:30pm-1:00pm</td>
-						<td colspan="2">LUNCH</td>
-					</tr>
-          <tr scope="row">
-						<td>1:00pm-2:15pm</td>
-						<td>Germaine Salsberg</td>
-						<td>Lynn Schwab</td>
+						<td>Karen Callaway Williams</td>
 					</tr>
           <tr scope="row" class="deep-orange lighten-4">
+						<td>2:00pm-3:15pm</td>
+						<td>Jason Bernard</td>
+						<td>Germaine Salsberg</td>
+					</tr>
+          <tr scope="row">
 						<td>2:30pm-3:45pm</td>
 						<td>Debbi Dee</td>
 						<td>Germaine Goodson</td>
 					</tr>
-          <tr scope="row">
-						<td>5:00pm-8:00pm</td>
-						<td colspan="2">Party and in-studio showcase at Tap Dance Detroit</td>
-					</tr>
 				</mdb-tbl-body>
 			</mdb-tbl>
 		</section>
-        <h4 class="pt-5">Sunday November 10, 2019</h4>
+        <!-- <h4 class="pt-5">Sunday November 10, 2019</h4>
 		<section>
 			<mdb-tbl bordered>
 				<mdb-tbl-head>
@@ -97,29 +88,29 @@
 					</tr>
 				</mdb-tbl-body>
 			</mdb-tbl>
-		</section>
+		</section> -->
   
       </mdb-col>
-      <mdb-col lg="4" class="pt-5 pl-5">
-          <div id='collection-component-78ded2091df' class="pt-5"></div>
+      <mdb-col lg="12" class="pt-5">
+        <h2 class="red-text mx-auto text-start big" style="text-transform: uppercase;">REGISTRATION</h2>
+          <div id='collection-component-1593274894870' class="pt-5"></div>
       </mdb-col>
     </mdb-row>
 		
-    <mdb-row class="mx-auto pt-5">
+    <mdb-row class="mx-auto pt-3">
       <mdb-col lg="4" class="pt-2">
           
-          <img src="/static/debbi_dee.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
+          <img src="/static/jason_bernard.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify">
-        <h4 class="red-text mx-auto text-left big" style="text-transform: uppercase;">Debbi Dee</h4>
-          <p class="pt-3">Debbi Dee has earned the honor of being referred to as a “teachers” teacher. 
-            She is known as a true technician as well as a Dynamic Stylist, Innovative and whose Energy is unsurpassed.</p>
-          <p>Her expanding knowledge can be seen on platforms through-out the United States and has taught Internationally as a 
-            “Master Teacher” in Japan, France, South America and Canada.</p>
-          <p>Debbi has been a guest faculty for “Tradition-In-Tap” in New York, National Tap Dance Day in Dallas, St. Louis Tap 
-            Festival, Motor City Tap Festival, So Flo Tap Festival and The Big Apple Tap Festival, where she has also been given 
-            the honor of hosting the history talks for many years.  Along with many other tap events through-out the U.S., she has
-            held choreography positions as well as being a “Master Teacher” at Walt Disney World, Florida.</p>
+        <h4 class="red-text mx-auto text-left big" style="text-transform: uppercase;">Jason E. Bernard</h4>
+          <p class="pt-3">Jason E. Bernard is a native New Yorker from The Bronx. At the age of 17 Jason made his Broadway debut
+             in the Tony Award Winning musical "Bring in 'da noise, Bring in 'da funk". 
+             One year later he returned to Broadway in the international dance phenomenon "Riverdance". 
+             Jason made his feature film debut in the Spike Lee film "Bamboozled" as J. Bunny. 
+             He also had the honor to dance alongside Gregory Hines in the Showtime original television movie "Bojangles". 
+             Jason was a part of the original company of "Cotton Club Parade"( "After Midnight" on Broadway) at City Center Encores!  
+             Jason is a member of the faculty at LA Dance Magic. Jason is honored to perform and teach the art form of Tap Dancing all around the world.</p>
 </mdb-col>
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
@@ -149,38 +140,27 @@
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4" class="pt-2">
           
-          <img src="/static/germaine_goodson.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
+          <img src="/static/karen_callaway.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify">
-        <h4 class="red-text mx-auto text-left big" style="text-transform: uppercase;">Germaine Goodson</h4>
-          <p>I was born in Philadelphia, PA., It seems that I have been Dancing, My entire Life!  I am Blessed & 
-              Grateful to have lived My Life as a Dancer, Teacher & Choreographer!  I have had an Extraordinarily Amazing Career.  
-              I Believe that Education & Experience have allowed Me to Perform with the Almighty & Legendary Greats.  I am 1/2 of 
-              the Classy Tap Act, known as The Rhythm Queens!  My Dance Partner, Deborah Mitchell & I, have Performed together, for the past 35 Years.  
-              Our highlights of Our Performances include, the Opening Act, for the Legendary Band Leader, Cab Calloway!  The Broadway/Off Broadway Productions, with The Nicholas Brothers.  
-              We Worked with Many of the Leaders of the Tap Community, who were recognized, as the Very Best! They are My Heroes! I am Inspired to Dream Big! Set Goals & Focus on Achieving them! I Encourage You to practice Discipline, to Persevere & Work Hard, I have made Big Dreams, & I am 
-              Living Proof, that Dreams Do Come True!  Live, Love, Dance!  Tap is Great for Your Heart ❤️ & for Your Soul of Soles!🙏🏽. <a href="www.germainegoodson.net" target="_blank" class="red-text">www.germainegoodson.net</a></p>
+        <h4 class="red-text mx-auto text-left big" style="text-transform: uppercase;">Karen Callaway</h4>
+          <p>Karen is an international, award-winning artist, recognized for her outstanding artistry and contributions to the tap world. 
+            She is known for being both the first African-American female tap dancer and dance captain in Riverdance – The Show and the only 
+            African-American female tap dancer and dance captain in Riverdance on Broadway. Other Broadway credits include the Tony Award Nominated 
+            Duke Ellington musical Play On. Karen has been featured on the cover of Flow Magazine and in the documentary, Been Rich All my Life. 
+            The story of the Silver Belles, a group of chorus girls from the 1920s. 1930s and 1940s. 
+            Ms. Callaway Williams has performed with the original Silver Belles at the Cotton Club and the Apollo Theatre; and for the likes of Bill Clinton, 
+            Paul Newman and Joanne Woodward. She is currently a Second-Generation Silver Belle and the Artistic Director of this group. Karen has toured extensively performing in 
+            35 States and 13 countries having just returned from a two and a half month run of Hinton Battle’s American Variety Bang in Osaka, Japan.</p>
+          <p>Ms. Karen Callaway Williams is a living legend in the tap dance world. She is mentioned several times in the Tap History book Tap Dancing America by Constance Valis Hill. 
+            She was featured in a Black History edition of ESSENCE Magazine, which highlighted four female African-American tap artists. In 2013, 
+            Karen was a Flo-Bert Honoree and received the Florence Mills Award. In July 2015 she was awarded the prestigious Hoofers Award from the American Tap Dance Foundation. 
+            Dance Magazine heralded her as “a graceful dream with taps as happy as a song.” The New York Times called her “a gifted traditionalist with laughing eyes”. 
+            She was also appeared in the documentary Bojangles: the Legacy and in a special guest spot on Sesame Street. Karen is a Featured Artist and was the first Dance Captain and 
+            charter member of the New Jersey Tap Ensemble having recently celebrated 24 years with the company, performing in their high energy shows A Stop on the A-Train, 
+            The Next Step, Rhythm is our Business, By George It’s Gershwin and Pass it on.</p>
 </mdb-col>
-    </mdb-row>
-    <mdb-row class="mx-auto pt-5">
-      <mdb-col lg="4" class="pt-2">
-          
-          <img src="/static/lynne_schwab.png" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
-      </mdb-col>
-      <mdb-col lg="8" class="text-justify">
-        <h4 class="red-text mx-auto text-left big" style="text-transform: uppercase;"> Lynn Schwab</h4>
-          <p><strong>Lynn Schwab</strong> lives in New York City and is presently on faculty at <i>Steps on Broadway</i> and <i>The American Tap Dance Foundation</i>. She is the Co-Director  
-              and choreographer for <i>Tap It Out</i>, the  annual out-of-doors event of the New York City Tap Festival, 
-              and she teaches and performs at festivals and workshops throughout the U.S.A., Europe, Brazil, Japan and Taiwan.</p>
-          <p>She was a member of Tony Waag’s <i>Tap City on Tour</i>, Max Pollak’s <i>RumbaTap</i>, and a founding member of <i>Barbara Duffy and Company</i>.  
-              With these groups, she performed throughout the world and at such notable New York venues as Town Hall, The Duke on 42nd Street, 
-              Judson Church, Lincoln Center Out-of-Doors,  Joe’s Pub, The River-to-River Festival, Off Broadway's La MAMA, Central Park’s SummerStage,  
-              Studio 54, Symphony Space, The Joyce and The Joyce SoHo Theaters, BAM and The New Victory Theater on Broadway.</p>
-            <p>Lynn co-produced, co-created, and performed in <i>One More Than Two</i>, an evening length tap piece, which premiered in NYC in September of 2018.  
-               She has performed with <i>The Chamber Orchestra Kremlin</i>, choreographed for and performed at Jacob’s Pillow, and with  members of <i>The Tap Collective</i>, 
-               choreographed and performed the Morton Gould Tap Dance Concerto with the Brooklyn Symphony Orchestra. <a href="www.lynneschwabtapz.com" class="red-text">www.lynnschwabtapz.com</a></p>
-</mdb-col>
-    </mdb-row> -->
+    </mdb-row> 
     
   </mdb-container>
 </template>
@@ -217,224 +197,225 @@
         showModal: false
       }
     },
-//   created () {
-//     (function () {
-//       // var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
-//       if (window.ShopifyBuy) {
-//         if (window.ShopifyBuy.UI) {
-//           ShopifyBuyInit();
-//         } else {
-//           loadScript();
+  created () {
+    (function () {
+      // var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+      if (window.ShopifyBuy) {
+        if (window.ShopifyBuy.UI) {
+          ShopifyBuyInit();
+        } else {
+          loadScript();
 
-//         }
-//       } else {
-//         loadScript();
-//       }
+        }
+      } else {
+        loadScript();
+      }
 
-//       function loadScript() {
-//         var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
-//         var script = document.createElement('script');
-//         script.async = true;
-//         script.src = scriptURL;
-//         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
-//         script.onload = ShopifyBuyInit;
-//       }
+      function loadScript() {
+        var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = scriptURL;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+        script.onload = ShopifyBuyInit;
+      }
 
-//       function ShopifyBuyInit() {
-//         var client = ShopifyBuy.buildClient({
-//           domain: 'overtaps.myshopify.com',
-//           storefrontAccessToken: '244fc4d27a412190862e1ff0232cb6d0',
-//         });
+      function ShopifyBuyInit() {
+        var client = ShopifyBuy.buildClient({
+          domain: 'motor-city-tap-fest.myshopify.com',
+          storefrontAccessToken: '117fccd80a775a170fd38575ce898f1c',
+        });
 
-//         ShopifyBuy.UI.onReady(client).then(function (ui) {
-//            ui.createComponent('collection', {
-//             id: 137587392623,
-//             node: document.getElementById('collection-component-78ded2091df'),
-//             moneyFormat: '%24%7B%7Bamount%7D%7D',
-//             options: {
-// "product": {
-//     "variantId": "all",
-//     "width": "240px",
-//     "contents": {
-//       "imgWithCarousel": false,
-//       "variantTitle": false,
-//       "description": false,
-//       "buttonWithQuantity": false,
-//       "quantity": false
-//     },
-//     "styles": {
-//       "product": {
-//         "@media (max-width: 601px)": {
-//           "max-width": "100%",
-//           "margin-left": "10",
-//           "margin-right": "10",
-//           "margin-bottom": "50px",
+        ShopifyBuy.UI.onReady(client).then(function (ui) {
+           ui.createComponent('collection', {
+            id: '203043668123',
+            node: document.getElementById('collection-component-1593274894870'),
+            moneyFormat: '%24%7B%7Bamount%7D%7D',
+            options: {
+"product": {
+    "variantId": "all",
+    "width": "240px",
+    "contents": {
+      "img": false,
+      "imgWithCarousel": false,
+      "variantTitle": false,
+      "description": false,
+      "buttonWithQuantity": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (max-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "10",
+          "margin-right": "10",
+          "margin-bottom": "50px",
 
-//         }
-//       },
-//       "button": {
-//         "background-color": "#ff5252",
-//         "font-family": "Noto Sans KR, sans-serif",
-//         ":hover": {
-//           "background-color": "#ff1744"
-//         },
-//         ":focus": {
-//           "background-color": "#ff1744"
-//         },
-//       },
-//       "variantTitle": {
-//         "font-family": "Noto Sans KR, sans-serif"
-//       },
-//       "title": {
-//         "font-family": "Noto Sans KR, sans-serif"
-//       },
-//       "description": {
-//         "font-family": "Noto Sans KR, sans-serif"
-//       },
-//       "price": {
-//         "font-family": "Noto Sans KR, sans-serif"
-//       },
-//       "compareAt": {
-//         "font-size": "12px",
-//         "font-family": "Noto Sans KR, sans-serif"
-//       }
-//     },
-//     "googleFonts": [
-//       "Roboto Condensed",
-//       "Roboto Condensed",
-//       "Roboto Condensed",
-//       "Roboto Condensed",
-//       "Roboto Condensed",
-//       "Roboto Condensed"
-//     ]
-//   },
-//   "cart": {
-//     "contents": {
-//       "button": true,
-//       "note": true
-//     },
-//     "text": {
-//       "notice": 'Shipping and discount codes are added at checkout.',
-//       "noteDescription": 'Student Name'
-//     },
-//     "styles": {
-//       "button": {
-//         "background-color": "#ff5252",
-//         "font-family": "Noto Sans KR, sans-serif",
-//         ":hover": {
-//           "background-color": "#ff1744"
-//         },
-//         ":focus": {
-//           "background-color": "ff1744"
-//         },
-//       },
-//       "footer": {
-//         "background-color": "#ffffff"
-//       }
-//     },
-//     "googleFonts": [
-//       "Roboto Condensed"
-//     ]
-//   },
-//   "modalProduct": {
-//     "contents": {
-//       "img": false,
-//       "imgWithCarousel": true,
-//       "variantTitle": false,
-//       "buttonWithQuantity": true,
-//       "button": false,
-//       "quantity": false
-//     },
-//     "styles": {
-//       "product": {
-//         "@media (min-width: 601px)": {
-//           "max-width": "100%",
-//           "margin-left": "0px",
-//           "margin-bottom": "0px"
-//         }
-//       },
-//       "button": {
-//         "background-color": "#ff5252",
-//         "font-family": "Noto Sans KR, sans-serif",
-//         ":hover": {
-//           "background-color": "#ff1744"
-//         },
-//         ":focus": {
-//           "background-color": "#da611f"
-//         },
-//       },
-//       "variantTitle": {
-//         "font-family": "Noto Sans KR, sans-serif",
-//       },
-//       "title": {
-//         "font-family": "Noto Sans KR, sans-serif"
-//       },
-//       "description": {
-//         "font-family": "Noto Sans KR, sans-serif",
-//       },
-//       "price": {
-//         "font-family": "Noto Sans KR, sans-serif",
-//       },
-//       "compareAt": {
-//         "font-family": "Noto Sans KR, sans-serif",
-//       }
-//     },
-//     "googleFonts": [
-//       "Roboto Condensed",
-//       "Roboto Condensed",
-//       "Roboto Condensed",
-//       "Roboto Condensed",
-//       "Roboto Condensed",
-//       "Roboto Condensed"
-//     ]
-//   },
-//   "toggle": {
-//     "styles": {
-//       "toggle": {
-//         "font-family": "Noto Sans KR, sans-serif",
-//         "background-color": "#ff5252",
-//         ":hover": {
-//           "background-color": "#ff1744"
-//         },
-//         ":focus": {
-//           "background-color": "#ff1744"
-//         },
-//       }
-//     },
-//     "googleFonts": [
-//       "Roboto Condensed"
-//     ]
-//   },
-//   "option": {
-//     "styles": {
-//       "label": {
-//         "font-family": "Noto Sans KR, sans-serif",
-//       },
-//       "select": {
-//         "font-family": "Noto Sans KR, sans-serif",
-//       }
-//     },
-//     "googleFonts": [
-//       "Roboto Condensed",
-//       "Roboto Condensed"
-//     ]
-//   },
-//   "productSet": {
-//     "styles": {
-//       "products": {
-//         "@media (min-width: 601px)": {
-//           "margin-left": "-20px"
-//         }
-//       }
-//     }
-//   }
-// }
-//           });
-//         });
-//       }
-//     })();
-//     this.fetchData()
-//   },
+        }
+      },
+      "button": {
+        "background-color": "#ff5252",
+        "font-family": "Noto Sans KR, sans-serif",
+        ":hover": {
+          "background-color": "#ff1744"
+        },
+        ":focus": {
+          "background-color": "#ff1744"
+        },
+      },
+      "variantTitle": {
+        "font-family": "Noto Sans KR, sans-serif"
+      },
+      "title": {
+        "font-family": "Noto Sans KR, sans-serif"
+      },
+      "description": {
+        "font-family": "Noto Sans KR, sans-serif"
+      },
+      "price": {
+        "font-family": "Noto Sans KR, sans-serif"
+      },
+      "compareAt": {
+        "font-size": "12px",
+        "font-family": "Noto Sans KR, sans-serif"
+      }
+    },
+    "googleFonts": [
+      "Roboto Condensed",
+      "Roboto Condensed",
+      "Roboto Condensed",
+      "Roboto Condensed",
+      "Roboto Condensed",
+      "Roboto Condensed"
+    ]
+  },
+  "cart": {
+    "contents": {
+      "button": true,
+      "note": true
+    },
+    "text": {
+      "notice": 'Shipping and discount codes are added at checkout.',
+      "noteDescription": 'Student Name'
+    },
+    "styles": {
+      "button": {
+        "background-color": "#ff5252",
+        "font-family": "Noto Sans KR, sans-serif",
+        ":hover": {
+          "background-color": "#ff1744"
+        },
+        ":focus": {
+          "background-color": "ff1744"
+        },
+      },
+      "footer": {
+        "background-color": "#ffffff"
+      }
+    },
+    "googleFonts": [
+      "Roboto Condensed"
+    ]
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#ff5252",
+        "font-family": "Noto Sans KR, sans-serif",
+        ":hover": {
+          "background-color": "#ff1744"
+        },
+        ":focus": {
+          "background-color": "#da611f"
+        },
+      },
+      "variantTitle": {
+        "font-family": "Noto Sans KR, sans-serif",
+      },
+      "title": {
+        "font-family": "Noto Sans KR, sans-serif"
+      },
+      "description": {
+        "font-family": "Noto Sans KR, sans-serif",
+      },
+      "price": {
+        "font-family": "Noto Sans KR, sans-serif",
+      },
+      "compareAt": {
+        "font-family": "Noto Sans KR, sans-serif",
+      }
+    },
+    "googleFonts": [
+      "Roboto Condensed",
+      "Roboto Condensed",
+      "Roboto Condensed",
+      "Roboto Condensed",
+      "Roboto Condensed",
+      "Roboto Condensed"
+    ]
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-family": "Noto Sans KR, sans-serif",
+        "background-color": "#ff5252",
+        ":hover": {
+          "background-color": "#ff1744"
+        },
+        ":focus": {
+          "background-color": "#ff1744"
+        },
+      }
+    },
+    "googleFonts": [
+      "Roboto Condensed"
+    ]
+  },
+  "option": {
+    "styles": {
+      "label": {
+        "font-family": "Noto Sans KR, sans-serif",
+      },
+      "select": {
+        "font-family": "Noto Sans KR, sans-serif",
+      }
+    },
+    "googleFonts": [
+      "Roboto Condensed",
+      "Roboto Condensed"
+    ]
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
+          });
+        });
+      }
+    })();
+    this.fetchData()
+  },
   watch: {
     // call again the method if the route changes
     '$route': 'fetchData'
