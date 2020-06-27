@@ -39,11 +39,6 @@
 						<td>Jason Bernard</td>
 						<td>Germaine Salsberg</td>
 					</tr>
-          <tr scope="row">
-						<td>2:30pm-3:45pm</td>
-						<td>Debbi Dee</td>
-						<td>Germaine Goodson</td>
-					</tr>
 				</mdb-tbl-body>
 			</mdb-tbl>
 		</section>
