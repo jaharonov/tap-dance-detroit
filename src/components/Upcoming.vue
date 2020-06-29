@@ -138,7 +138,7 @@
           <img src="/static/karen_callaway.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify">
-        <h4 class="red-text mx-auto text-left big" style="text-transform: uppercase;">Karen Callaway</h4>
+        <h4 class="red-text mx-auto text-left big" style="text-transform: uppercase;">Karen Callaway Williams</h4>
           <p>Karen is an international, award-winning artist, recognized for her outstanding artistry and contributions to the tap world. 
             She is known for being both the first African-American female tap dancer and dance captain in Riverdance – The Show and the only 
             African-American female tap dancer and dance captain in Riverdance on Broadway. Other Broadway credits include the Tony Award Nominated 
