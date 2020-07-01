@@ -31,7 +31,7 @@
 					</tr>
 					<tr scope="row">
 						<td>12:30pm-1:45pm</td>
-						<td>Germaine Goodson</td>
+						<td>Germaine Salsberg</td>
 						<td>Karen Callaway Williams</td>
 					</tr>
           <tr scope="row" class="deep-orange lighten-4">
