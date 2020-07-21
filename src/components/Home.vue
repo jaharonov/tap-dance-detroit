@@ -7,15 +7,15 @@
       <h3 class="deep-orange-text big"><strong>We are open! 
 Class sizes are limited to ensure safe distancing.</strong></h3><br/>
       </mdb-row>
-<mdb-row class="justify-content-center text-center">
+<!-- <mdb-row class="justify-content-center text-center">
 <p style="font-size: 1.5em;">Video classes are available! Email <strong><a class="red-text" v-bind:href="`mailto:info@tapdancedetroit.org`">info@tapdancedetroit.org</a></strong> to keep dancing at home.</p>
 
-</mdb-row>
+</mdb-row> -->
 <mdb-row class="justify-content-center text-center">
 <p style="font-size: 1.5em;" class="pb-5">All are welcome.</p>
 </mdb-row>
     <mdb-row class="mx-auto">
-      <mdb-col lg="4" class="text-center img-fluid-grow mx-auto pb-3">
+      <mdb-col lg="10" class="text-center img-fluid-grow mx-auto pb-3">
         <mdb-carousel :interval="8000" class="pb-5">
     <!-- <mdb-carousel-item img src="/static/absolute_beginner-update.png" alt="First slide" /> -->
     <mdb-carousel-item img src="/static/tdd_home_1.jpg" alt="Second slide" />
@@ -23,18 +23,18 @@ Class sizes are limited to ensure safe distancing.</strong></h3><br/>
   </mdb-carousel>
   <router-link to="/schedule"><mdb-btn outline="red">SEE SCHEDULE!</mdb-btn></router-link>
       </mdb-col>
-      <mdb-col lg="4" class="text-center img-fluid-grow mx-auto">
+      <!-- <mdb-col lg="6" class="text-center img-fluid-grow mx-auto">
         <img src="/static/mctf_summer_series_2020.png" class="mx-auto d-block view pb-2" style="max-height: 25rem;"/><br/>
        <router-link to="/upcoming"><mdb-btn outline="red">SEE SCHEDULE AND REGISTER!</mdb-btn></router-link>      
-      </mdb-col>
-       <mdb-col lg="4" class="text-center img-fluid-grow mx-auto">
+      </mdb-col> -->
+       <!-- <mdb-col lg="4" class="text-center img-fluid-grow mx-auto">
         <img src="/static/live_tap_dance_detroit.png" class="mx-auto d-block view pb-2" style="max-height: 25rem;"/><br/>
         <p><strong>SIGN UP FOR CLASSES AT THE FOLLOWING LINKS:</strong></p>
         <p><a class="red-text" href="https://motor-city-tap-fest.myshopify.com/products/live-with-tap-dance-detroit-beginner" target="_blank">Beginner Class</a></p>
         <p><a class="red-text" href="https://motor-city-tap-fest.myshopify.com/products/live-with-tap-dance-detroit-advanced-beginner" target="_blank">Advanced Beginner Class</a></p>
         <p><a class="red-text" href="https://motor-city-tap-fest.myshopify.com/products/live-with-tap-dance-detroit-intermediate" target="_blank">Intermediate Class</a></p>
         
-      </mdb-col>
+      </mdb-col> -->
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
         <img src="/static/tdd_logo_trans_high.png" class="mx-auto d-block view" style="max-height: 15rem;"/><br/>
