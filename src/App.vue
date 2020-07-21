@@ -20,7 +20,7 @@
           <mdb-nav-item to="/schedule" waves>SCHEDULE</mdb-nav-item>
           <mdb-nav-item to="/faculty" waves>FACULTY</mdb-nav-item>
           <mdb-nav-item to="/rentals" waves>RENTALS</mdb-nav-item>
-          <mdb-nav-item to="/upcoming" waves>UPCOMING EVENTS</mdb-nav-item>
+          <!-- <mdb-nav-item to="/upcoming" waves>UPCOMING EVENTS</mdb-nav-item> -->
           <mdb-nav-item to="/donate" waves>DONATE</mdb-nav-item>
           <!-- <mdb-nav-item to="/blog" waves>BLOG</mdb-nav-item> -->
           <mdb-nav-item to="/gallery" waves>GALLERY</mdb-nav-item>
