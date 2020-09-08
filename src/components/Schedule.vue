@@ -77,11 +77,11 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	</div>
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
-	<h2 class="orange-text text-center"><mdb-icon icon="sun" size="2x" /><strong> SUMMER SCHEDULE </strong><mdb-icon icon="sun" size="2x" /></h2>
+	<h2 class="orange-text text-center"><mdb-icon fab icon="canadian-maple-leaf" size="2x" /><strong> FALL SCHEDULE </strong><mdb-icon fab icon="canadian-maple-leaf" size="2x" /></h2>
 	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
 
     <!-- <h4 class="blue-text">Spring Classes!</h4>  -->
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR SUMMER SESSION!</mdb-btn></a>
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR FALL SESSION!</mdb-btn></a>
 	<iframe src="https://dancestudio-pro.com/apps/api_classes_resp.php?id=zaqlxajd29jd25cfea9701936309jasdklj21dx5cfea970193a1" width="100%" height="600px" scrolling="yes"
 frameborder="0"></iframe>
     </mdb-row>
@@ -413,7 +413,7 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
 	</mdb-row>
 	</section>
 	<section>
-	<mdb-row>
+	<!-- <mdb-row>
     <mdb-col lg="8" class="text-justify">
     <div class="mt-5 align-items-center justify-content-start p-3 pt-5">
     <hr class="deep-orange"/>
@@ -481,7 +481,7 @@ In addition to being a beautiful art form, jazz classes will stretch you, streng
     </div>
    </mdb-col>
 	 
-   </mdb-row>
+   </mdb-row> -->
    </section>
 </mdb-container>
 </template>
