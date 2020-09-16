@@ -76,9 +76,9 @@ Class sizes are limited to ensure safe distancing.</strong></h3><br/>
         </mdb-modal>
       </mdb-col>
     </mdb-row>
-    <mdb-row class="mt-5 justify-content-center pl-5 pr-5">
+    <!-- <mdb-row class="mt-5 justify-content-center pl-5 pr-5">
 	<h4 class="deep-orange-text big">NEW STUDENT SPECIAL: 2 weeks of unlimited classes for $29.99.</h4><br/>
-    </mdb-row>
+    </mdb-row> -->
   <mdb-row class="align-items-center justify-content-center p-5">
     <mdb-col lg="6" class="text-justify">
 	<h4 class="deep-orange-text">PRICING</h4>
