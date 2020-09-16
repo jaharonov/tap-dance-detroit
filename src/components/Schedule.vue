@@ -19,10 +19,10 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<h4 class="deep-orange-text">PRICING</h4>
 	 <ul>
 	<li><strong>UNLIMITED CLASSES:</strong>Unlimited monthly class pass: $120</li>
+	<li><strong>SUPER UNLIMITED CLASSES:</strong> for dancers taking more than one form of dance:$130</li>
     <li><strong>SINGLE CLASS:</strong>  90 minute class: $18, 60 minute class: $15</li>
     <li><strong>5-CLASS PACKAGE:</strong>  90 minute classes: $87.50, 60 minute classes: $85</li>   
     <li><strong>10-CLASS PACKAGE:</strong>  90 minute classes: $170, 60 minute classes: $135</li>
-	<li><strong>SUPER UNLIMITED CLASSES:</strong>$130</li>
     </ul>
 	</mdb-col>
 	<mdb-col lg="3" class="text-justify">
