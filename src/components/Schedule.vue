@@ -77,7 +77,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	</div>
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
-	<h2 class="orange-text text-center"><mdb-icon fab icon="canadian-maple-leaf" size="2x" /><strong> FALL SCHEDULE </strong><mdb-icon fab icon="canadian-maple-leaf" size="2x" /></h2>
+	<h2 class="blue-text text-center"><mdb-icon icon="snowflake" size="2x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="2x" /></h2>
 	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
 
     <!-- <h4 class="blue-text">Spring Classes!</h4>  -->
