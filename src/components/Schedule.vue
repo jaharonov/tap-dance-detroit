@@ -77,11 +77,11 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	</div>
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
-	<h2 class="blue-text text-center"><mdb-icon icon="snowflake" size="2x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="2x" /></h2>
+	<h2 class="blue-text text-center"><mdb-icon icon="snowflake" size="1x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="1x" /></h2>
 	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
 
     <!-- <h4 class="blue-text">Spring Classes!</h4>  -->
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR FALL SESSION!</mdb-btn></a>
+				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR WINTER SESSION!</mdb-btn></a>
 	<iframe src="https://dancestudio-pro.com/apps/api_classes_resp.php?id=zaqlxajd29jd25cfea9701936309jasdklj21dx5cfea970193a1" width="100%" height="600px" scrolling="yes"
 frameborder="0"></iframe>
     </mdb-row>
