@@ -9,11 +9,11 @@
     <h4 class="grey-text big">Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
 We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</h4>
   </mdb-row> -->
-  <mdb-row class="justify-content-center pb-3">
-      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+  <!-- <mdb-row class="justify-content-center pb-3">
+      
         <a href="#youth"><mdb-btn class="btn-grad"><h4>Click for more info on our youth classes!</h4></mdb-btn></a>
         
-    </mdb-row>
+    </mdb-row> -->
   <mdb-row class="align-items-center justify-content-center p-5">
     <mdb-col lg="6" class="text-justify">
 	<h4 class="deep-orange-text">PRICING</h4>
@@ -81,12 +81,19 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
 
     <!-- <h4 class="blue-text">Spring Classes!</h4>  -->
+<<<<<<< HEAD
 				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR WINTER SESSION!</mdb-btn></a>
 	<!-- <iframe src="https://dancestudio-pro.com/apps/api_classes_resp.php?id=zaqlxajd29jd25cfea9701936309jasdklj21dx5cfea970193a1" width="100%" height="600px" scrolling="yes"
 frameborder="0"></iframe> -->
 <healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="381544197c15" data-widget-version="1" ></healcode-widget>
     </mdb-row>
 		
+=======
+	<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="381544197c15" data-widget-version="1" ></healcode-widget>
+				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR WINTER SESSION!</mdb-btn></a>
+	
+    </mdb-row>
+>>>>>>> 90675ba7e58d4d1ad0cd5c93a01a988b45f4a841
 		
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
@@ -94,77 +101,7 @@ frameborder="0"></iframe> -->
 	</div>
 	</mdb-row>
 	</section>
-	<section>
-	<!-- <mdb-row>
-    <mdb-col lg="8" class="text-justify">
-    <div class="mt-5 align-items-center justify-content-start p-3 pt-5">
-    <hr class="deep-orange"/>
-    <a id="youth"><h3 class="grey-text big">TDD YOUTH PROGRAM</h3></a>
-	</div>
-	<div class="mt-5 align-items-center justify-content-start p-3">
-	<h4 class="deep-orange-text big">2-3 YEAR-OLDS</h4>
-    </div>
-    <div class="align-items-center justify-content-start pl-3">
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/><strong class="big"> Tuesdays or Thursdays 11:30am-12:00pm</strong> </span>
-	<p class="big"><strong> 8-week Session: $100</strong></p>
-
-	</div>
-    <div class="mt-5 align-items-center justify-content-start p-3">
-	<h4 class="deep-orange-text big">4-6 YEAR-OLDS</h4>
-    </div>
-    <div class="align-items-center justify-content-start pl-3">
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Mondays or Wednesdays 4:30pm-5:00pm</strong></span>
-    <p class="big">This session is for 4-6 year-olds to discover the joy of tap dancing, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class.</p>
-	<p class="big"><strong> 8-week Session: $100</strong></p>
-	<p class="big"><strong>Shuffles and Chassés Tap/Jazz Bundle: $175. Mondays or Wednesdays 4:30pm-5:30pm</strong></p>
-	</div>
-  <div class="mt-5 align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text big">6-8 YEAR-OLDS</h4>
-    </div>
-    <div class="align-items-center justify-content-start pl-3">
-    
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Saturdays 11:00am-12:00pm</strong></span>
-    <p class="big"><strong>Tap/Jazz Combo</strong> 8-week session with Denise Caston-Clark. $140 </p>
-  </div> 
-
-  <div class="mt-5 align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text big">8-10 YEAR-OLDS</h4>
-    </div>
-    <div class="align-items-center justify-content-start pl-3">
-    
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Wednesdays or Thursdays 6:00pm-7:30pm</strong></span>
-    <p class="big">This 8-week session is for 8-10 year-olds to discover the joy of tap dancing or continue exploring what they've already developed, learning basic steps and participating in fun interactive activities that will teach them spacial awareness and musicality. The dancers will show off what they've learned after the last class!</p>
-	<p class="big"><strong>6:00pm-6:45pm Young Shuffles Tap 1 for 8-10 year-olds - $120</strong></p>
-	<p class="big"><strong>6:45pm-7:30pm Jazz 1 for 8-10 year-olds - $120</strong></p>
-	<p class="big"><strong>Take both classes! Tap/Jazz Bundle - $220</strong></p>
 	
-  </div> 
-  
-  <div class="mt-5 align-items-center justify-content-start p-3">
-    <h4 class="deep-orange-text big">TEENS/TWEENS</h4>
-    </div>
-    <div class="align-items-center justify-content-start pl-3">
-    
-    <span class="red-text"><mdb-icon far icon="calendar-alt" size="2x"/> <strong class="big">Wednesdays 5:30pm-6:30pm</strong></span>
-    <p class="big"><strong>Tap Fundamentals for Teens</strong> 8 weeks: $140</p>
-	
-  </div> 
-		<hr class="deep-orange"/>
-  </mdb-col>
-   <mdb-col lg="4" class="p-3 pt-5 text-justify">
-	   <div class="align-items-center justify-content-center p-5">
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn class="btn-grad">REGISTER FOR YOUTH CLASSES!</mdb-btn></a>
-	</div>
-	
-       <img src="/static/first-second-shuffles.jpg" class="img-fluid-grow mx-auto d-block" style="max-width: 100%"/>
-	    <div class="align-items-center justify-content-center p-5">
-        <a href="#schedule"><mdb-btn class="btn-grad"><mdb-icon icon="sun" size="2x" /><br/>VIEW FULL SPRING SCHEDULE</mdb-btn></a>
-        
-    </div>
-   </mdb-col>
-	 
-   </mdb-row> -->
-   </section>
 </mdb-container>
 </template>
 
