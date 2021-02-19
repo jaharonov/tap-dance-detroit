@@ -126,11 +126,11 @@ import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar
       mdbModalBody,
       mdbModalFooter,
     },
-	mounted() {
-    let externalScript = document.createElement('script')
-    externalScript.setAttribute('src', 'https://widgets.mindbodyonline.com/javascripts/healcode.js')
-    document.head.appendChild(externalScript)
-  },
+// 	mounted() {
+//     let externalScript = document.createElement('script')
+//     externalScript.setAttribute('src', 'https://widgets.mindbodyonline.com/javascripts/healcode.js')
+//     document.head.appendChild(externalScript)
+//   },
     data() {
       return {
 		showModal: false,
