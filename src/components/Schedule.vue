@@ -28,7 +28,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<mdb-col lg="3" class="text-justify">
     <div class="align-items-center justify-content-start p-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
-				<a href="https://dancestudio-pro.com/online/index.php?account_id=15325" target="_blank"><mdb-btn outline="red">Register for classes!</mdb-btn></a>
+				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn outline="red">Register for classes!</mdb-btn></a>
 	</div>
 	</mdb-col>
 	<mdb-col lg="3" class="text-justify">
@@ -71,27 +71,28 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </mdb-row>
   
 		<mdb-row class="text-justify">
-    <div class="align-items-center justify-content-start p-3">
-      <!-- <mdb-col size="12" class="text-center mb-5"> -->
+    <!-- <div class="align-items-center justify-content-start p-3">
+      
 				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn outline="red">Register for classes!</mdb-btn></a>
-	</div>
+	</div> -->
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
 	<h2 class="blue-text text-center"><mdb-icon icon="snowflake" size="1x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="1x" /></h2>
+	
+		<p class="text-center"><strong>If the schedule is not visable, please follow the link in the button below!</strong></p>
+	
 	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
 
-    <!-- <h4 class="blue-text">Spring Classes!</h4>  -->
 				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR WINTER SESSION!</mdb-btn></a>
-	<!-- <iframe src="https://dancestudio-pro.com/apps/api_classes_resp.php?id=zaqlxajd29jd25cfea9701936309jasdklj21dx5cfea970193a1" width="100%" height="600px" scrolling="yes"
-frameborder="0"></iframe> -->
+	
 <healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="381544197c15" data-widget-version="1" ></healcode-widget>
     </mdb-row>
 		
 		
 		<mdb-row class="text-justify">
-    <div class="align-items-center justify-content-start p-3">
+    <!-- <div class="align-items-center justify-content-start p-3">
 				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">Register for classes!</mdb-btn></a>
-	</div>
+	</div> -->
 	</mdb-row>
 	</section>
 	
