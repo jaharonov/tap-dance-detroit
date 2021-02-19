@@ -81,19 +81,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
 
     <!-- <h4 class="blue-text">Spring Classes!</h4>  -->
-<<<<<<< HEAD
 				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR WINTER SESSION!</mdb-btn></a>
 	<!-- <iframe src="https://dancestudio-pro.com/apps/api_classes_resp.php?id=zaqlxajd29jd25cfea9701936309jasdklj21dx5cfea970193a1" width="100%" height="600px" scrolling="yes"
 frameborder="0"></iframe> -->
 <healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="381544197c15" data-widget-version="1" ></healcode-widget>
     </mdb-row>
 		
-=======
-	<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="381544197c15" data-widget-version="1" ></healcode-widget>
-				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR WINTER SESSION!</mdb-btn></a>
-	
-    </mdb-row>
->>>>>>> 90675ba7e58d4d1ad0cd5c93a01a988b45f4a841
 		
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
