@@ -77,22 +77,24 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 	</div> -->
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
-	<h2 class="blue-text text-center"><mdb-icon icon="snowflake" size="1x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="1x" /></h2>
+	<h2 class="blue-text text-center pb-5"><mdb-icon icon="snowflake" size="1x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="1x" /></h2>
 	
-		<p class="text-center"><strong>If the schedule is not visable, please follow the link in the button below!</strong></p>
+		<!-- <p class="text-center"><strong>If the schedule is not visable, please follow the link in the button below!</strong></p> -->
 	
-	<mdb-row class="mt-5 align-items-center justify-content-left p-3" id="winter">
-
-				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">REGISTER FOR WINTER SESSION!</mdb-btn></a>
-	
-<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="381544197c15" data-widget-version="1" ></healcode-widget>
-    </mdb-row>
+	<!-- <mdb-row class="mt-5 align-items-center p-3" id="winter"> -->
+	<!-- <div style="overflow: auto; -webkit-overflow-scrolling: touch;"><iframe src="https://brandedweb.mindbodyonline.com/iframe/schedule/154872" width="auto" height="auto" frameborder="0" scrolling="yes"></iframe>
+			
+	</div> -->
+	<div class="resp-container">
+    <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/schedule/154872" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+</div>
+    <!-- </mdb-row> -->
 		
 		
 		<mdb-row class="text-justify">
-    <!-- <div class="align-items-center justify-content-start p-3">
+    <div class="align-items-center justify-content-start p-3">
 				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">Register for classes!</mdb-btn></a>
-	</div> -->
+	</div>
 	</mdb-row>
 	</section>
 	
@@ -100,7 +102,7 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
 </template>
 
 <script>
-import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbInput, mdbModalFooter } from 'mdbvue';
+import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbInput, mdbModalFooter, externalScript } from 'mdbvue';
   export default {
     name: 'AppPage',
     components: {
@@ -127,10 +129,22 @@ import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar
       mdbModalBody,
       mdbModalFooter,
     },
-// 	mounted() {
+// 	created() {
 //     let externalScript = document.createElement('script')
 //     externalScript.setAttribute('src', 'https://widgets.mindbodyonline.com/javascripts/healcode.js')
-//     document.head.appendChild(externalScript)
+//     document.head.appendChild(externalScript),
+// 	this.fetchData()
+//   },
+//   watch: {
+//     // call again the method if the route changes
+//     '$route': 'fetchData'
+//   },
+//   methods: {
+//     fetchData () {
+//       this.error = this.post = null
+//       this.loading = externalScript
+//       // replace `getPost` with your data fetching util / API wrapper
+//     }
 //   },
     data() {
       return {
@@ -184,5 +198,20 @@ body {
 
 .btn-grad2 {background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%)}
 .btn-grad:hover { background-position: right center; }
+
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
 
 </style>
