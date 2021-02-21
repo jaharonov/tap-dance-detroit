@@ -1,37 +1,12 @@
 <template>
 <mdb-container>
   <mdb-row class="mt-5 align-items-center justify-content-start">
-    <h1 class="mx-auto text-center display-4 red-text big">SCHEDULE</h1>
+    <h2 class="mx-auto text-center blue-text big"><mdb-icon icon="snowflake" size="1x" /> WINTER SCHEDULE<mdb-icon icon="snowflake" size="1x" /></h2>
   </mdb-row>
 	
-  <!-- <mdb-row class="mt-5 justify-content-start p-5">
-	<h4 class="deep-orange-text big">NEW STUDENT SPECIAL: 2 weeks of unlimited classes for $29.99.</h4><br/>
-    <h4 class="grey-text big">Our drop-in class schedule allows for adults, plus focused tap students ages 13 and up. 
-We will make exceptions! Just notify the studio ahead of time if a dancer under 13 would like to attend classes.</h4>
-  </mdb-row> -->
-  <!-- <mdb-row class="justify-content-center pb-3">
-      
-        <a href="#youth"><mdb-btn class="btn-grad"><h4>Click for more info on our youth classes!</h4></mdb-btn></a>
-        
-    </mdb-row> -->
-  <mdb-row class="align-items-center justify-content-center p-5">
-    <mdb-col lg="6" class="text-justify">
-	<h4 class="deep-orange-text">PRICING</h4>
-	 <ul>
-	<li><strong>UNLIMITED CLASSES:</strong>Unlimited monthly class pass: $120</li>
-	<li><strong>SUPER UNLIMITED CLASSES:</strong> for dancers taking more than one form of dance:$130</li>
-    <li><strong>SINGLE CLASS:</strong>  90 minute class: $18, 60 minute class: $15</li>
-    <li><strong>5-CLASS PACKAGE:</strong>  90 minute classes: $87.50, 60 minute classes: $85</li>   
-    <li><strong>10-CLASS PACKAGE:</strong>  90 minute classes: $170, 60 minute classes: $140</li>
-    </ul>
-	</mdb-col>
-	<mdb-col lg="3" class="text-justify">
-    <div class="align-items-center justify-content-start p-3">
-      <!-- <mdb-col size="12" class="text-center mb-5"> -->
-				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn outline="red">Register for classes!</mdb-btn></a>
-	</div>
-	</mdb-col>
-	<mdb-col lg="3" class="text-justify">
+		<mdb-row class="text-justify">
+	</mdb-row>
+<section class="demo-section pt-5" id="schedule">
     <div class="align-items-center justify-content-start p-3">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <mdb-btn @click.native="showModal = true" outline="red">PRIVATE LESSONS ARE AVAILABLE</mdb-btn>
@@ -40,12 +15,6 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
             <h4 class="title"><fa class="fas fa-pencil-alt" />CONTACT US!</h4>
           </mdb-modal-header>
           <mdb-modal-body class="grey-text">
-            <!-- <form method="POST" action="https://formspree.io/j.aharonov@gmail.com">
-  <input type="email" name="Email" placeholder="Your email">
-  <textarea name="Name" placeholder="Your name"></textarea>
-  <textarea name="message" placeholder="Your message"></textarea>
-  <button type="submit">Send Test</button>
-</form> -->
 <form method="POST" action="https://formspree.io/info@tapdancedetroit.org">
     <p class="h4 text-center mb-4">Private lessons are available. Contact us for more info!</p>
     <div class="grey-text">
@@ -59,38 +28,12 @@ We will make exceptions! Just notify the studio ahead of time if a dancer under 
     </div>
   </form>
           </mdb-modal-body>
-          <!-- <mdb-modal-footer>
-            <mdb-btn color="secondary" @click.native="showModal = false">Close</mdb-btn>
-            <mdb-btn color="primary">Save changes</mdb-btn>
-          </mdb-modal-footer> -->
-        </mdb-modal>
-      <!-- </mdb-col> -->
-    
+        </mdb-modal>   
   </div>
-  </mdb-col>
-    </mdb-row>
-  
-		<mdb-row class="text-justify">
-    <!-- <div class="align-items-center justify-content-start p-3">
-      
-				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn outline="red">Register for classes!</mdb-btn></a>
-	</div> -->
-	</mdb-row>
-<section class="demo-section pt-5" id="schedule">
-	<h2 class="blue-text text-center pb-5"><mdb-icon icon="snowflake" size="1x" /><strong> WINTER SCHEDULE </strong><mdb-icon icon="snowflake" size="1x" /></h2>
-	
-		<!-- <p class="text-center"><strong>If the schedule is not visable, please follow the link in the button below!</strong></p> -->
-	
-	<!-- <mdb-row class="mt-5 align-items-center p-3" id="winter"> -->
-	<!-- <div style="overflow: auto; -webkit-overflow-scrolling: touch;"><iframe src="https://brandedweb.mindbodyonline.com/iframe/schedule/154872" width="auto" height="auto" frameborder="0" scrolling="yes"></iframe>
-			
-	</div> -->
 	<div class="resp-container">
     <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/schedule/154872" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 </div>
-    <!-- </mdb-row> -->
-		
-		
+	
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
 				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">Register for classes!</mdb-btn></a>
