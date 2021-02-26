@@ -1,16 +1,16 @@
 <template>
 <mdb-container>
   <mdb-row class="mt-5 align-items-center justify-content-start">
-    <h2 class="mx-auto text-center blue-text big"><mdb-icon icon="snowflake" size="1x" /> WINTER SCHEDULE<mdb-icon icon="snowflake" size="1x" /></h2>
+    <h1 class="mx-auto text-center blue-text big"><mdb-icon icon="snowflake" size="1x" /> WINTER SCHEDULE<mdb-icon icon="snowflake" size="1x" /></h1>
   </mdb-row>
 	
 		<mdb-row class="text-justify">
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
-   <mdb-row>
+   <mdb-row class="pl-5 pr-5">
   <mdb-col class="p-5" col="4">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
-        <mdb-btn @click.native="showModal = true" class="btn-grad2">PRIVATE LESSONS</mdb-btn>
+        <mdb-btn @click.native="showModal = true" class="blue-gradient">PRIVATE LESSONS</mdb-btn>
         <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
           <mdb-modal-header class="red white-text">
             <h4 class="title"><fa class="fas fa-pencil-alt" />CONTACT US!</h4>
@@ -33,11 +33,11 @@
 </mdb-col>
 <mdb-col class="p-5" col="4">
 
-				<router-link :to="{name: schedule, hash:'#beginner'}"><mdb-btn class="btn-grad2">absolute beginners</mdb-btn></router-link>
+				<router-link :to="{name: schedule, hash:'#beginner'}"><mdb-btn class="blue-gradient">absolute beginners</mdb-btn></router-link>
 </mdb-col>
 <mdb-col class="p-5" col="4">
 
-				<router-link :to="{name: schedule, hash:'#youth'}"><mdb-btn class="btn-grad2">see youth schedule</mdb-btn></router-link>
+				<router-link :to="{name: schedule, hash:'#youth'}"><mdb-btn class="blue-gradient">see youth schedule</mdb-btn></router-link>
 </mdb-col>
 </mdb-row>
 	<div class="resp-container">
@@ -45,7 +45,7 @@
 </div>
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
-				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">Register for classes!</mdb-btn></a>
+				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="blue-gradient">Register for classes!</mdb-btn></a>
 	</div>
 	</mdb-row>
   <mdb-row class="mt-5 align-items-center justify-content-start" id="youth">
@@ -160,7 +160,7 @@ body {
 .btn-grad {background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%)}
 .btn-grad:hover { background-position: right center; }
 
-.btn-grad2 {background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%)}
+.btn-grad2 {background-image: linear-gradient(to right, #0882E0 0%, #F09819 51%, #FF512F 100%)}
 .btn-grad:hover { background-position: right center; }
 
 .resp-container {
