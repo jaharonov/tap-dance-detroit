@@ -7,7 +7,8 @@
 		<mdb-row class="text-justify">
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
-    <div class="align-items-center justify-content-start p-3">
+   <mdb-row>
+  <mdb-col class="p-3" lg="4" sm="12">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <mdb-btn @click.native="showModal = true" outline="red">PRIVATE LESSONS ARE AVAILABLE</mdb-btn>
         <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
@@ -29,16 +30,27 @@
   </form>
           </mdb-modal-body>
         </mdb-modal>   
-  </div>
+</mdb-col>
+<mdb-col lg="4" sm="12"></mdb-col>
+<mdb-col class="p-3" lg="4" sm="12">
+
+				<router-link :to="{name: schedule, hash:'#youth'}"><mdb-btn class="btn-grad2">see youth schedule</mdb-btn></router-link>
+</mdb-col>
+</mdb-row>
 	<div class="resp-container">
     <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/schedule/154872" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 </div>
-	
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
 				<a href="https://www.mindbodyonline.com/explore/locations/tap-dance-detroit" target="_blank"><mdb-btn class="btn-grad2">Register for classes!</mdb-btn></a>
 	</div>
 	</mdb-row>
+  <mdb-row class="mt-5 align-items-center justify-content-start" id="youth">
+    <h2 class="mx-auto text-center blue-text big"><mdb-icon icon="snowflake" size="1x" /> YOUTH SCHEDULE<mdb-icon icon="snowflake" size="1x" /></h2>
+  </mdb-row>
+		<div class="resp-container">
+    <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/enrollment/74529" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+</div>
 	</section>
 	
 </mdb-container>
