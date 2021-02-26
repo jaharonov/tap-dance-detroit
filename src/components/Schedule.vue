@@ -8,9 +8,9 @@
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
    <mdb-row>
-  <mdb-col class="p-3" lg="4" sm="12">
+  <mdb-col class="p-5" col="4">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
-        <mdb-btn @click.native="showModal = true" outline="red">PRIVATE LESSONS ARE AVAILABLE</mdb-btn>
+        <mdb-btn @click.native="showModal = true" class="btn-grad2">PRIVATE LESSONS</mdb-btn>
         <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
           <mdb-modal-header class="red white-text">
             <h4 class="title"><fa class="fas fa-pencil-alt" />CONTACT US!</h4>
@@ -31,8 +31,11 @@
           </mdb-modal-body>
         </mdb-modal>   
 </mdb-col>
-<mdb-col lg="4" sm="12"></mdb-col>
-<mdb-col class="p-3" lg="4" sm="12">
+<mdb-col class="p-5" col="4">
+
+				<router-link :to="{name: schedule, hash:'#beginner'}"><mdb-btn class="btn-grad2">absolute beginners</mdb-btn></router-link>
+</mdb-col>
+<mdb-col class="p-5" col="4">
 
 				<router-link :to="{name: schedule, hash:'#youth'}"><mdb-btn class="btn-grad2">see youth schedule</mdb-btn></router-link>
 </mdb-col>
@@ -50,6 +53,12 @@
   </mdb-row>
 		<div class="resp-container">
     <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/enrollment/74529" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+</div>
+  <mdb-row class="mt-5 align-items-center justify-content-start" id="beginner">
+    <h2 class="mx-auto text-center blue-text big"><mdb-icon icon="snowflake" size="1x" />ABSOLUTE BEGINNERS SCHEDULE<mdb-icon icon="snowflake" size="1x" /></h2>
+  </mdb-row>
+		<div class="resp-container">
+    <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/enrollment/74530" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 </div>
 	</section>
 	
