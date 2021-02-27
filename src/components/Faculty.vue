@@ -31,7 +31,7 @@
           <img src="/static/RebeccaFrazierBioPhoto.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
-        <h3 class="red-text mx-auto text-left big">NIA SILAO</h3>
+        <h3 class="red-text mx-auto text-left big">REBECCA FRAZIER</h3>
           <p>Rebecca Frazier trained at the Albany Dance Institute under David Otto, a former soloist at New York City Ballet, and one of the last dancers to be selected for the company by Balanchine. Rebecca was selected by children’s ballet mistress Garielle Whittle to perform children’s roles for NYCB during their summer residence at the Saratoga Performing Arts Center. Rebecca received additional training at the Saratoga Summer Dance Intensive and at the Ballet Regent School in Saratoga Springs, from former NYCB Michael Steele. Rebecca danced with Albany Berkshire Ballet. She is a member of Actor’s Equity Association and has performed in regional theaters around the country and in New York City.
 
 Rebecca is the choreographer for recording artist JR Price.  She was the choreographer for the award-winning short film Dream No 37, 091 .In New York City, Rebecca has presented work at Dixon Place, NYC Choreographers Forum, National Choreography Month (NACHMO), American Liberty Ballet, Fertile Ground, and NachmoX. Rebecca was a featured choreographer at the New York Theater Barn’s Choreography Lab. Her dance film installation “Selbstliebe” is part of Robot Love Art at the Foosaner Art Museum in Melborne, FL.
