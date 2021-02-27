@@ -1,7 +1,7 @@
 <template>
 <mdb-container>
   <mdb-row class="mt-5 align-items-center justify-content-start">
-    <h1 class="mx-auto text-center blue-text big"><mdb-icon icon="snowflake" size="1x" /> WINTER SCHEDULE<mdb-icon icon="snowflake" size="1x" /></h1>
+    <h1 class="mx-auto text-center display-4 p-5 blue-text big"><mdb-icon icon="snowflake" size="1x" />WINTER SCHEDULE<mdb-icon icon="snowflake" size="1x" /></h1>
   </mdb-row>
 	
 		<mdb-row class="text-justify">
