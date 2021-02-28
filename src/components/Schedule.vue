@@ -7,12 +7,12 @@
 		<mdb-row class="text-justify">
 	</mdb-row>
 <section class="demo-section pt-5" id="schedule">
-   <mdb-row class="pl-5 pr-5">
+   <mdb-row class="pl-5 pr-5 mx-auto">
   <mdb-col class="p-5" col="4">
       <!-- <mdb-col size="12" class="text-center mb-5"> -->
         <mdb-btn @click.native="showModal = true" class="blue-gradient">PRIVATE LESSONS</mdb-btn>
         <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
-          <mdb-modal-header class="red white-text">
+          <mdb-modal-header class="blue white-text">
             <h4 class="title"><fa class="fas fa-pencil-alt" />CONTACT US!</h4>
           </mdb-modal-header>
           <mdb-modal-body class="grey-text">
@@ -25,7 +25,7 @@
       <mdb-textarea :rows="2" label="Your message" icon="pencil"/>
     </div>
     <div class="text-center">
-      <mdb-btn outline="red">Send <mdb-icon icon="paper-plane" class="ml-1"/></mdb-btn>
+      <mdb-btn class="blue-gradient">Send <mdb-icon icon="paper-plane" class="ml-1"/></mdb-btn>
     </div>
   </form>
           </mdb-modal-body>

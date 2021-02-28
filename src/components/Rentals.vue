@@ -3,247 +3,38 @@
   <mdb-row class="mt-5 align-items-center justify-content-start">
     <h1 class="mx-auto text-center display-4 red-text big">RENTALS</h1>
   </mdb-row>
-    <mdb-row class="mt-5 align-items-center justify-content-start p-3">
-    <p>Rentals are available for $30 per hour. Please call 917-687-4811 or email <a class="red-text" v-bind:href="`mailto:info@tapdancedetroit.org`">info@tapdancedetroit.org</a> to book.</p>
-   </mdb-row>
-  <hr class="pt-3"/>
-<section class="demo-section">
-		<h4>Monday</h4>
-		<section>
-			<mdb-tbl bordered>
-				<mdb-tbl-head>
-					<tr>
-						<th>Time</th>
-						<th>Studio 2</th>
-						<th>Studio 3</th>
-					</tr>
-				</mdb-tbl-head>
-				<mdb-tbl-body>
-					
-					<tr scope="row">
-						<td>4:00pm-5:30pm</td>
-						<td></td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>5:30pm-7:00pm</td>
-						<td></td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row">
-						<td>7:00pm-8:30pm</td>
-						<td></td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-				</mdb-tbl-body>
-			</mdb-tbl>
-		</section>
-        <h4>Tuesday</h4>
-        <section>
-			<mdb-tbl bordered>
-				<mdb-tbl-head>
-					<tr>
-						<th>Time</th>
-						<th>Studio 2</th>
-						<th>Studio 3</th>
-					</tr>
-				</mdb-tbl-head>
-				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>12:00pm-12:45pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-					<tr scope="row">
-						<td>1:00pm-2:15pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>2:15pm-3:30pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row">
-						<td>4:00pm-5:30pm</td>
-						
-						<td></td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
-						<td>5:30pm-7:00pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row">
-						<td>7:00pm-8:30pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-				</mdb-tbl-body>
-			</mdb-tbl>
-		</section>
-        <h4>Wednesday</h4>
-		<section>
-			<mdb-tbl bordered>
-				<mdb-tbl-head>
-					<tr>
-						<th>Time</th>
-						
-						<th>Studio 2</th>
-						<th>Studio 3</th>
-					</tr>
-				</mdb-tbl-head>
-				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>1:00pm-2:00pm</td>
-						
-						<td></td>
-						<td></td>
-					</tr>
-					<tr scope="row">
-						<td>4:00pm-5:30pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>5:30pm-7:00pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row">
-						<td>7:00pm-8:30pm</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-				</mdb-tbl-body>
-			</mdb-tbl>
-		</section>
-        <h4>Thursday</h4>
-        <section>
-			<mdb-tbl bordered>
-				<mdb-tbl-head>
-					<tr>
-						<th>Time</th>
-						
-						<th>Studio 2</th>
-						<th>Studio 3</th>
-					</tr>
-				</mdb-tbl-head>
-				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>12:00pm-12:45pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-					<tr scope="row">
-						<td>1:00pm-2:15pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>2:15pm-3:30pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row">
-						<td>4:00pm-5:30pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row" class="deep-orange lighten-4">
-						<td>5:30pm-7:00pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row">
-						<td>7:00pm-8:30pm</td>
-						
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-				</mdb-tbl-body>
-			</mdb-tbl>
-		</section>
-        <h4>FRIDAY</h4>
-		<section>
-			<mdb-tbl bordered>
-				<mdb-tbl-head>
-					<tr>
-						<th>Time</th>
-						
-						<th>Studio 2</th>
-						<th>Studio 3</th>
-					</tr>
-				</mdb-tbl-head>
-				<mdb-tbl-body>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>1:00pm-2:00pm</td>
-						
-						<td></td>
-						<td></td>
-					</tr>
-					<tr scope="row">
-						<td>4:00pm-5:30pm</td>
-						
-						<td></td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>5:30pm-7:00pm</td>
-						
-						<td></td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row">
-						<td>7:00pm-8:30pm</td>
-						
-						<td></td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-				</mdb-tbl-body>
-			</mdb-tbl>
-		</section>
-        <h4>SATURDAY</h4>
-		<section>
-			<mdb-tbl bordered>
-				<mdb-tbl-head>
-					<tr>
-						<th>Time</th>
-						<th>Studio 1</th>
-						<th>Studio 2</th>
-						<th>Studio 3</th>
-					</tr>
-				</mdb-tbl-head>
-				<mdb-tbl-body>
-					
-					<tr scope="row" class="deep-orange lighten-4">
-						<td>2:00pm-3:30pm</td>
-						<td></td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-                    <tr scope="row">
-						<td></td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-						<td>RENTAL AVAILABLE</td>
-					</tr>
-				</mdb-tbl-body>
-			</mdb-tbl>
-		</section>
+ 
+  <section class="demo-section pt-5" id="schedule">
+   <mdb-row class="pl-5 pr-5 mx-auto">
+  <mdb-col class="p-5" col="4"> 
+</mdb-col>
+<mdb-col class="p-5 " col="4">
+
+	<mdb-btn @click.native="showModal = true" class="blue-gradient">RENTALS ARE AVAILABLE</mdb-btn>
+        <mdb-modal :show="showModal" @close="showModal = false" cascade class="text-left">
+          <mdb-modal-header class="blue white-text">
+            <h4 class="title"><fa class="fas fa-pencil-alt" />CONTACT US!</h4>
+          </mdb-modal-header>
+          <mdb-modal-body class="grey-text">
+<form method="POST" action="https://formspree.io/info@tapdancedetroit.org">
+    <p class="h4 text-center mb-4">Rentals are available. Contact us for more info!</p>
+    <div class="grey-text">
+      <mdb-input label="Your name" icon="user" group type="text" validate error="wrong" success="right" name="name"/>
+      <mdb-input label="Your email" icon="envelope" group type="email" validate error="wrong" name="email" success="right"/>
+      <mdb-input label="Your message" icon="tag" group type="text" validate error="wrong" success="right" name="message"/>
+      <mdb-textarea :rows="2" label="Your message" icon="pencil"/>
+    </div>
+    <div class="text-center">
+      <mdb-btn class="blue-gradient">Send <mdb-icon icon="paper-plane" class="ml-1"/></mdb-btn>
+    </div>
+  </form>
+          </mdb-modal-body>
+        </mdb-modal>  
+</mdb-col>
+<mdb-col class="p-5" col="4">
+
+</mdb-col>
+</mdb-row>
 	</section>
 </mdb-container>
 </template>
@@ -251,20 +42,59 @@
  
 </style>
 <script>
-import { mdbTbl, mdbTblHead, mdbTblBody, mdbIcon, mdbContainer, mdbRow, mdbCol } from 'mdbvue';
-
-export default {
-  name: 'TablePage',
-  components: {
-    mdbTbl,
-    mdbTblHead,
-    mdbTblBody,
-    mdbRow,
-    mdbCol,
-    mdbIcon,
-    mdbContainer
+import { mdbTbl, mdbTblHead, mdbTblBody, mdbContainer, mdbRow, mdbCol, mdbNavbar, mdbNavbarToggler, mdbNavbarNav, mdbNavItem, mdbIcon, mdbView, mdbMask, mdbBtn, mdbNavbarBrand, mdbParallax,mdbModal, mdbModalHeader, mdbModalTitle, mdbModalBody, mdbInput, mdbModalFooter, externalScript } from 'mdbvue';
+  export default {
+    name: 'AppPage',
+    components: {
+	  mdbInput,  
+	  mdbTbl,
+      mdbTblHead,
+      mdbTblBody,
+      mdbContainer,
+      mdbRow,
+      mdbCol,
+      mdbNavbar,
+      mdbNavbarToggler,
+      mdbNavbarNav,
+      mdbNavItem,
+      mdbIcon,
+      mdbView,
+      mdbMask,
+      mdbBtn,
+      mdbNavbarBrand,
+      mdbParallax,
+      mdbModal,
+      mdbModalHeader,
+      mdbModalTitle,
+      mdbModalBody,
+      mdbModalFooter,
+    },
+// 	created() {
+//     let externalScript = document.createElement('script')
+//     externalScript.setAttribute('src', 'https://widgets.mindbodyonline.com/javascripts/healcode.js')
+//     document.head.appendChild(externalScript),
+// 	this.fetchData()
+//   },
+//   watch: {
+//     // call again the method if the route changes
+//     '$route': 'fetchData'
+//   },
+//   methods: {
+//     fetchData () {
+//       this.error = this.post = null
+//       this.loading = externalScript
+//       // replace `getPost` with your data fetching util / API wrapper
+//     }
+//   },
+    data() {
+      return {
+		showModal: false,
+		modal: false,
+		showRock: false,
+		showJazz: false
+      };
+    }
   }
-};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
