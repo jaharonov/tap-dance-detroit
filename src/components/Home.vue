@@ -87,8 +87,8 @@ Class sizes are limited to ensure safe distancing.</strong></h3><br/>
     <li><strong>SINGLE CLASS:</strong>  90 minute class: $18, 60 minute class: $15</li>
     <li><strong>5-CLASS PACKAGE:</strong>  90 minute classes: $87.50, 60 minute classes: $70</li>   
     <li><strong>10-CLASS PACKAGE:</strong>  90 minute classes: $170, 60 minute classes: $135</li>
-	<!-- <li><strong>STUDENT DISCOUNT:</strong> $12 per 90-minute class, $10 per 60-minute class with student ID</li> -->
-    </ul>
+	<li><strong>STUDENT DISCOUNT:</strong> $12 per 90-minute class, $10 per 60-minute class with student ID</li> -->
+    <!-- </ul>
 	</mdb-col>
   </mdb-row> -->
     <section class="logo pb-5">
