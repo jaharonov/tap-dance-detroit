@@ -41,7 +41,7 @@
 </mdb-col>
 </mdb-row>
 	<div class="resp-container">
-    <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/schedule/154872" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+    <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/schedule/157513" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 </div>
 		<mdb-row class="text-justify">
     <div class="align-items-center justify-content-start p-3">
