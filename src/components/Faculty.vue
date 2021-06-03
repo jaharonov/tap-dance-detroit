@@ -52,6 +52,22 @@ She currently is on the faculty of The Dance Pointe in Greenwich, CT, and Just O
     </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4" class="pt-4">
+          
+          <img src="/static/faculty_jer-vernier.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
+      </mdb-col>
+      <mdb-col lg="8" class="text-justify pt-3">
+        <h3 class="red-text mx-auto text-left big">JER VERNIER</h3>
+          <p>Jer Vernier spent much of his early years training at Center for Creative Studies in Detroit, where I was a member of the Tap Repertory Ensemble. After graduating high school he majored in Dance at Marygrove College and also studied at Edge Performing Arts Center in Hollywood, CA.</p>
+<p>He has performed with Dance Detroit, Detroit Tap Repertory, Detroit Symphony Orchestra and in multiple venues across the United States and Canada.</p>
+
+
+
+<p>Jer knew from his first dance class that teaching others was going to be his calling in life, and at age 14 began conducting dance classes on his own. He has taught countless students throughout Metro Detroit and have won numerous awards for his choreography. </p>
+          
+</mdb-col>
+    </mdb-row
+    <mdb-row class="mx-auto pt-5">
+      <mdb-col lg="4" class="pt-4">
           <img src="/static/faculty_stacey-abeles.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
       </mdb-col>
       <mdb-col lg="8" class="text-justify pt-3">
