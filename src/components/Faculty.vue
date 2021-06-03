@@ -65,7 +65,7 @@ She currently is on the faculty of The Dance Pointe in Greenwich, CT, and Just O
 <p>Jer knew from his first dance class that teaching others was going to be his calling in life, and at age 14 began conducting dance classes on his own. He has taught countless students throughout Metro Detroit and have won numerous awards for his choreography. </p>
           
 </mdb-col>
-    </mdb-row
+    </mdb-row>
     <mdb-row class="mx-auto pt-5">
       <mdb-col lg="4" class="pt-4">
           <img src="/static/faculty_stacey-abeles.jpg" class="img-fluid-grow mx-auto d-block" style="width: 100%"/>
