@@ -1,7 +1,7 @@
 <template>
 <mdb-container>
   <mdb-row class="mt-5 align-items-center justify-content-start">
-    <h1 class="mx-auto text-center display-4 p-5 green-text big"><mdb-icon icon="leaf" size="1x" />SPRING SCHEDULE<mdb-icon icon="leaf" size="1x" /></h1>
+    <h1 class="mx-auto text-center display-4 p-5 orange-text big"><mdb-icon icon="sun" size="1x" />SUMMER SCHEDULE<mdb-icon icon="sun" size="1x" /></h1>
   </mdb-row>
 	
 		<mdb-row class="text-justify">
@@ -49,13 +49,13 @@
 	</div>
 	</mdb-row>
   <mdb-row class="mt-5 align-items-center justify-content-start" id="youth">
-    <h2 class="mx-auto text-center green-text big"><mdb-icon icon="leaf" size="1x" /> YOUTH SCHEDULE<mdb-icon icon="leaf" size="1x" /></h2>
+    <h2 class="mx-auto text-center orange-text big"><mdb-icon icon="sun" size="1x" /> YOUTH SCHEDULE<mdb-icon icon="sun" size="1x" /></h2>
   </mdb-row>
 		<div class="resp-container">
     <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/enrollment/74529" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 </div>
   <mdb-row class="mt-5 align-items-center justify-content-start" id="beginner">
-    <h2 class="mx-auto text-center green-text big"><mdb-icon icon="leaf" size="1x" />ABSOLUTE BEGINNERS SCHEDULE<mdb-icon icon="leaf" size="1x" /></h2>
+    <h2 class="mx-auto text-center orange-text big"><mdb-icon icon="sun" size="1x" />ABSOLUTE BEGINNERS SCHEDULE<mdb-icon icon="sun" size="1x" /></h2>
   </mdb-row>
 		<div class="resp-container">
     <iframe class="resp-iframe" src="https://brandedweb.mindbodyonline.com/iframe/enrollment/74530" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
