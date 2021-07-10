@@ -24,12 +24,12 @@ Class sizes are limited to ensure safe distancing.</strong></h3><br/>
   </mdb-carousel>
   <router-link to="/schedule"><mdb-btn outline="red">SEE SCHEDULE!</mdb-btn></router-link>
       </mdb-col>
-      <mdb-col lg="6" class="text-center img-fluid-grow mx-auto p-3">
+      <!-- <mdb-col lg="6" class="text-center img-fluid-grow mx-auto p-3">
             
         <img src="/static/sounds_of_summer.png" class="mx-auto d-block view pb-2" style="max-height: 25rem;"/><br/>
         <p style="font-size: 1.5em;">Join us for Tap Dance Detroit's inaugural show, Sounds Of Summer, featuring a fun afternoon of dance to songs of summer performed by some of Detroit's best musicians.</p>  
         <a href="https://clients.mindbodyonline.com/classic/ws?studioid=715820&stype=43&catid=100000&prodGroupId=102059"><mdb-btn outline="red" class="pt-2">TICKETS</mdb-btn></a>
-      </mdb-col>
+      </mdb-col> -->
   
        <!-- <mdb-col lg="4" class="text-center img-fluid-grow mx-auto">
         <img src="/static/live_tap_dance_detroit.png" class="mx-auto d-block view pb-2" style="max-height: 25rem;"/><br/>
